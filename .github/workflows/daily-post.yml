@@ -1,0 +1,66 @@
+name: Daily Firmware Posts (15 topics)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 6:00 AM UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install openai python-dotenv
+
+      - name: Generate posts for all 15 topics
+        env:
+          LLM_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          LLM_MODEL: deepseek-chat
+        run: python3 generate_post.py
+
+      - name: Commit and push new posts
+        run: |
+          git config user.name "firmware-daily-bot"
+          git config user.email "firmware-daily-bot@users.noreply.github.com"
+          git add content/
+          git diff --staged --quiet || git commit -m "day: auto-generate $(date +%Y-%m-%d) — 15 posts"
+          git push
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: "npm"
+      - run: npm ci
+      - run: npx quartz build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
