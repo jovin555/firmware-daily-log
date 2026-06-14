@@ -1,16 +1,16 @@
 ---
-title: Device Tree & Overlays Daily Log
-| [[devicetree/day-01\|Day 01]] | Device Tree Origins: Why It Exists & What Problem It Solves | Foundations | `#devicetree` `#origins` |
+title: Device Tree Daily Log
 ---
 
-# Device Tree & Overlays Daily Log
+# Device Tree Daily Log
 
-DTS syntax, bindings, DTBO overlays, U-Boot runtime config and DT in Yocto and Zephyr.
+DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[devicetree/day-01\|Day 01]] | Device Tree Fundamentals & Syntax | DT Core | `#devicetree` `#dts` `#overlays` |
 
 ---
 

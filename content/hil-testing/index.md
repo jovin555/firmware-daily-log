@@ -1,16 +1,16 @@
 ---
-title: HIL Testing & Embedded CI/CD Daily Log
-| [[hil-testing/day-01\|Day 01]] | Why HIL Testing: Firmware Testing Pyramid & Hardware Gap | Foundations | `#hil` `#testing` `#strategy` |
+title: HIL Testing Daily Log
 ---
 
-# HIL Testing & Embedded CI/CD Daily Log
+# HIL Testing Daily Log
 
-Hardware-in-the-loop test automation and CI/CD pipelines for embedded firmware.
+Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[hil-testing/day-01\|Day 01]] | HIL Testing Fundamentals & Architecture | HIL Core | `#hil` `#testing` `#ci-cd` |
 
 ---
 

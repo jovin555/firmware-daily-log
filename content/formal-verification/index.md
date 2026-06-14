@@ -1,16 +1,16 @@
 ---
-title: Formal Verification & Static Analysis Daily Log
-| [[formal-verification/day-01\|Day 01]] | Why Formal Verification? Safety Standards & Cost of Bugs | Foundations | `#formal-verification` `#safety` |
+title: Formal Verification Daily Log
 ---
 
-# Formal Verification & Static Analysis Daily Log
+# Formal Verification Daily Log
 
-Frama-C, CBMC, Coverity and static analysis for safety-critical firmware correctness.
+Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[formal-verification/day-01\|Day 01]] | Formal Verification Overview & Tools | FV Core | `#formal-verification` `#static-analysis` `#frama-c` |
 
 ---
 

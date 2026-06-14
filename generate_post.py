@@ -507,7 +507,8 @@ def update_index(topic_dir: Path, day: int, title: str, domain: str, tags: list)
     tag_str = " ".join(f"`#{t}`" for t in tags[:3])
     row = f"| [[{topic_dir.name}/day-{day:02d}\\|Day {day:02d}]] | {title} | {domain} | {tag_str} |"
     if f"day-{day:02d}" not in content:
-        content = content.replace("\n---", f"\n{row}\n---", 1)
+        # Insert row after the table header separator line (|---|...)
+        content = content.replace("\n|-----|", f"\n|-----|\n{row}", 1)
         idx.write_text(content)
 
 

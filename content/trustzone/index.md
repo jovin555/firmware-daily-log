@@ -1,16 +1,16 @@
 ---
 title: TrustZone & Secure Boot Daily Log
-| [[trustzone/day-01\|Day 01]] | ARM Security Architecture: TrustZone for Cortex-A & Cortex-M | Foundations | `#trustzone` `#arm` `#security` |
 ---
 
 # TrustZone & Secure Boot Daily Log
 
-ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware for production embedded systems.
+ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[trustzone/day-01\|Day 01]] | ARM TrustZone Architecture Overview | Security Core | `#trustzone` `#secure-boot` `#arm` |
 
 ---
 

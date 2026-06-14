@@ -1,16 +1,16 @@
 ---
 title: Embedded Linux Daily Log
-| [[embedded-linux/day-01\|Day 01]] | Embedded Linux Architecture: Components & Boot Flow | Foundations | `#embedded-linux` `#architecture` |
 ---
 
 # Embedded Linux Daily Log
 
-Embedded Linux from toolchain setup to writing production kernel drivers and OTA updates.
+Kernel drivers, device tree, cross-compilation, and OTA for production embedded Linux.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[embedded-linux/day-01\|Day 01]] | Embedded Linux Toolchain & Cross-Compilation | Build Systems | `#toolchain` `#cross-compilation` `#embedded` |
 
 ---
 

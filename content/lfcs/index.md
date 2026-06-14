@@ -1,6 +1,5 @@
 ---
 title: LFCS Daily Log
-| [[lfcs/day-01\|Day 01]] | Essential File Operations & Permissions | Essential Commands | `#files` `#permissions` |
 ---
 
 # LFCS Daily Log
@@ -11,6 +10,7 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[lfcs/day-01\|Day 01]] | Essential File Operations & Permissions | Essential Commands | `#files` `#permissions` |
 
 ---
 

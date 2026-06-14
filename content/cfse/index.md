@@ -1,16 +1,16 @@
 ---
-title: Functional Safety Engineering Daily Log
-| [[cfse/day-01\|Day 01]] | Functional Safety Overview: What It Is & Why It Matters | Foundations | `#functional-safety` `#iec61508` |
+title: Functional Safety Daily Log
 ---
 
-# Functional Safety Engineering Daily Log
+# Functional Safety Daily Log
 
-IEC 61508, ISO 26262, CFSE exam prep, safety cases and FMEA for firmware engineers.
+ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[cfse/day-01\|Day 01]] | Functional Safety Foundations: ISO 26262 & IEC 61508 | Safety Core | `#functional-safety` `#iso26262` `#iec61508` |
 
 ---
 

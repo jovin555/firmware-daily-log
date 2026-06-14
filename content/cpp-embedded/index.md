@@ -1,16 +1,16 @@
 ---
 title: C++ for Embedded Daily Log
-| [[cpp-embedded/day-01\|Day 01]] | Why C++ in Embedded? Myths, Tradeoffs & Modern Approach | Foundations | `#cpp` `#embedded` `#tradeoffs` |
 ---
 
 # C++ for Embedded Daily Log
 
-Modern C++17/20 for firmware — RAII, templates, constexpr, MISRA C++ and Zephyr C++ drivers.
+Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[cpp-embedded/day-01\|Day 01]] | Modern C++ for Embedded: Why & When | C++ Core | `#cpp` `#embedded` `#misra` |
 
 ---
 

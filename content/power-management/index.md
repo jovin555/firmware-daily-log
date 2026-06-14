@@ -1,16 +1,16 @@
 ---
-title: Power Management & Energy Profiling Daily Log
-| [[power-management/day-01\|Day 01]] | Embedded Power Management: Goals, Trade-offs & Standards | Foundations | `#power` `#standards` |
+title: Power Management Daily Log
 ---
 
-# Power Management & Energy Profiling Daily Log
+# Power Management Daily Log
 
-Linux PM, cpuidle, devfreq, Zephyr power states and hardware energy profiling.
+cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 ## Posts
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
+| [[power-management/day-01\|Day 01]] | Linux Power Management Architecture | PM Core | `#power-management` `#cpuidle` `#energy` |
 
 ---
 
