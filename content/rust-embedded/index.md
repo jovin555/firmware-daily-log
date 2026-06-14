@@ -1,6 +1,7 @@
 ---
 title: Rust for Embedded Daily Log
 | [[rust-embedded/day-01\|Day 01]] | Why Rust for Embedded? Memory Safety Without GC | Foundations | `#rust` `#memory-safety` `#embedded` |
+| [[rust-embedded/day-02\|Day 02]] | Rust Toolchain for Embedded: rustup, targets & cargo | Foundations | `#rustup` `#cargo` `#targets` |
 ---
 
 # Rust for Embedded Daily Log

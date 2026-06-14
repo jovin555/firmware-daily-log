@@ -1,6 +1,7 @@
 ---
 title: PREEMPT_RT & Real-Time Linux Daily Log
 | [[preempt-rt/day-01\|Day 01]] | What Makes a System Real-Time? WCET, Jitter & Latency | Foundations | `#real-time` `#wcet` `#latency` |
+| [[preempt-rt/day-02\|Day 02]] | Linux Scheduling: CFS, FIFO, RR & Deadline Policies | Linux Scheduler | `#cfs` `#sched-fifo` `#scheduling` |
 ---
 
 # PREEMPT_RT & Real-Time Linux Daily Log

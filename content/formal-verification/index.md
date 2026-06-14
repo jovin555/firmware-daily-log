@@ -1,6 +1,7 @@
 ---
 title: Formal Verification & Static Analysis Daily Log
 | [[formal-verification/day-01\|Day 01]] | Why Formal Verification? Safety Standards & Cost of Bugs | Foundations | `#formal-verification` `#safety` |
+| [[formal-verification/day-02\|Day 02]] | Static vs Dynamic Analysis: The Verification Spectrum | Foundations | `#static-analysis` `#dynamic` |
 ---
 
 # Formal Verification & Static Analysis Daily Log

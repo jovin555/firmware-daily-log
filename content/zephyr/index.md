@@ -1,6 +1,7 @@
 ---
 title: Zephyr RTOS Daily Log
 | [[zephyr/day-01\|Day 01]] | Introduction to Zephyr: Architecture & the West Build System | Foundations | `#zephyr` `#rtos` `#west` |
+| [[zephyr/day-02\|Day 02]] | Project Structure: CMakeLists, prj.conf & Kconfig | Foundations | `#kconfig` `#cmake` |
 ---
 
 # Zephyr RTOS Daily Log

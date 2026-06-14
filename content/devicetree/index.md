@@ -1,6 +1,7 @@
 ---
 title: Device Tree & Overlays Daily Log
 | [[devicetree/day-01\|Day 01]] | Device Tree Origins: Why It Exists & What Problem It Solves | Foundations | `#devicetree` `#origins` |
+| [[devicetree/day-02\|Day 02]] | DTS Syntax: Nodes, Properties, Cells & Phandles | DTS Syntax | `#dts` `#nodes` `#properties` |
 ---
 
 # Device Tree & Overlays Daily Log

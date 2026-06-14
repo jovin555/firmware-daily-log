@@ -1,6 +1,7 @@
 ---
 title: Embedded Linux Daily Log
 | [[embedded-linux/day-01\|Day 01]] | Embedded Linux Architecture: Components & Boot Flow | Foundations | `#embedded-linux` `#architecture` |
+| [[embedded-linux/day-02\|Day 02]] | Cross-Compilation Toolchain: crosstool-NG & Linaro | Toolchain | `#cross-compilation` `#toolchain` |
 ---
 
 # Embedded Linux Daily Log
