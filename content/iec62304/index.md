@@ -10,7 +10,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[iec62304/day-01\|Day 01]] | IEC 62304 Overview & Software Safety Classification | Regulatory Framework | `#iec62304` `#medical-devices` `#safety` |
+| [[iec62304/day-01\|Day 01]] | Medical Device Software Regulation: FDA, CE & MDR | iec62304 | `#iec62304` `#regulation` |
+| [[iec62304/day-02\|Day 02]] | IEC 62304 Structure: Clauses, Scope & ISO 14971 | iec62304 | `#iec62304` `#iec62304` |
 
 ---
 

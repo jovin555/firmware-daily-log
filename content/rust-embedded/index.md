@@ -10,7 +10,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[rust-embedded/day-01\|Day 01]] | Rust for Embedded: Ownership & Safety Model | Rust Core | `#rust` `#embedded` `#bare-metal` |
+| [[rust-embedded/day-01\|Day 01]] | Why Rust for Embedded? Memory Safety Without GC | rust-embedded | `#rust-embedded` `#rust` |
+| [[rust-embedded/day-02\|Day 02]] | Rust Toolchain for Embedded: rustup, targets & cargo | rust-embedded | `#rust-embedded` `#rustup` |
 
 ---
 

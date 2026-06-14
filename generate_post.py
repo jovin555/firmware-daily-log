@@ -504,12 +504,13 @@ def update_index(topic_dir: Path, day: int, title: str, domain: str, tags: list)
     if not idx.exists():
         return
     content = idx.read_text()
+    if f"day-{day:02d}" in content:
+        return
     tag_str = " ".join(f"`#{t}`" for t in tags[:3])
     row = f"| [[{topic_dir.name}/day-{day:02d}\\|Day {day:02d}]] | {title} | {domain} | {tag_str} |"
-    if f"day-{day:02d}" not in content:
-        # Insert row after the table header separator line (|---|...)
-        content = content.replace("\n|-----|", f"\n|-----|\n{row}", 1)
-        idx.write_text(content)
+    # Append row before the closing --- separator
+    content = content.replace("\n---\n\n> *New post", f"\n{row}\n\n---\n\n> *New post", 1)
+    idx.write_text(content)
 
 
 def generate_post(topic_key: str, day: int = None, dry_run: bool = False) -> None:

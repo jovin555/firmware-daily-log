@@ -10,7 +10,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[trustzone/day-01\|Day 01]] | ARM TrustZone Architecture Overview | Security Core | `#trustzone` `#secure-boot` `#arm` |
+| [[trustzone/day-01\|Day 01]] | ARM Security Architecture: TrustZone for Cortex-A & Cortex-M | trustzone | `#trustzone` `#trustzone` |
+| [[trustzone/day-02\|Day 02]] | Secure Boot Concepts: Chain of Trust, Keys & Attestation | trustzone | `#trustzone` `#secure-boot` |
 
 ---
 

@@ -10,7 +10,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[lfcs/day-01\|Day 01]] | Essential File Operations & Permissions | Essential Commands | `#files` `#permissions` |
+| [[lfcs/day-01\|Day 01]] | Essential File Operations & Permissions | lfcs | `#lfcs` `#files` |
+| [[lfcs/day-02\|Day 02]] | Hard Links, Symbolic Links & readlink | lfcs | `#lfcs` `#links` |
 
 ---
 

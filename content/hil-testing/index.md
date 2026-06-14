@@ -10,7 +10,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[hil-testing/day-01\|Day 01]] | HIL Testing Fundamentals & Architecture | HIL Core | `#hil` `#testing` `#ci-cd` |
+| [[hil-testing/day-01\|Day 01]] | Why HIL Testing: Firmware Testing Pyramid & Hardware Gap | hil-testing | `#hil-testing` `#hil` |
+| [[hil-testing/day-02\|Day 02]] | Test Frameworks for Embedded: Unity, CppUTest, Ztest | hil-testing | `#hil-testing` `#unity` |
 
 ---
 

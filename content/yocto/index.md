@@ -10,7 +10,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[yocto/day-01\|Day 01]] | Yocto Project Intro & BitBake Architecture | Yocto Core | `#yocto` `#bitbake` `#build-system` |
+| [[yocto/day-01\|Day 01]] | Yocto Overview: OpenEmbedded, Poky & BitBake | yocto | `#yocto` `#yocto` |
+| [[yocto/day-02\|Day 02]] | Setting Up a Yocto Build Environment & kas | yocto | `#yocto` `#yocto` |
 
 ---
 

@@ -10,7 +10,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[formal-verification/day-01\|Day 01]] | Formal Verification Overview & Tools | FV Core | `#formal-verification` `#static-analysis` `#frama-c` |
+| [[formal-verification/day-01\|Day 01]] | Why Formal Verification? Safety Standards & Cost of Bugs | formal-verification | `#formal-verification` `#safety` |
+| [[formal-verification/day-02\|Day 02]] | Static vs Dynamic Analysis: The Verification Spectrum | formal-verification | `#formal-verification` `#static-analysis` |
 
 ---
 

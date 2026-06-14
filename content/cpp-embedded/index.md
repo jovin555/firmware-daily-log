@@ -10,7 +10,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[cpp-embedded/day-01\|Day 01]] | Modern C++ for Embedded: Why & When | C++ Core | `#cpp` `#embedded` `#misra` |
+| [[cpp-embedded/day-01\|Day 01]] | Why C++ in Embedded? Myths, Tradeoffs & Modern Approach | cpp-embedded | `#cpp-embedded` `#cpp` |
+| [[cpp-embedded/day-02\|Day 02]] | RAII: Resource Acquisition Is Initialization for Hardware | cpp-embedded | `#cpp-embedded` `#raii` |
 
 ---
 

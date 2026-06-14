@@ -10,7 +10,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[power-management/day-01\|Day 01]] | Linux Power Management Architecture | PM Core | `#power-management` `#cpuidle` `#energy` |
+| [[power-management/day-01\|Day 01]] | Embedded Power Management: Goals, Trade-offs & Standards | power-management | `#power-management` `#power` |
+| [[power-management/day-02\|Day 02]] | Linux PM Stack: PM Core, Drivers & Governors | power-management | `#power-management` `#linux-pm` |
 
 ---
 

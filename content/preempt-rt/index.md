@@ -10,7 +10,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[preempt-rt/day-01\|Day 01]] | Real-Time Linux & PREEMPT_RT Overview | RT Core | `#preempt-rt` `#real-time` `#latency` |
+| [[preempt-rt/day-01\|Day 01]] | What Makes a System Real-Time? WCET, Jitter & Latency | preempt-rt | `#preempt-rt` `#real-time` |
+| [[preempt-rt/day-02\|Day 02]] | Linux Scheduling: CFS, FIFO, RR & Deadline Policies | preempt-rt | `#preempt-rt` `#cfs` |
 
 ---
 

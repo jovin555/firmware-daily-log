@@ -10,7 +10,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[devicetree/day-01\|Day 01]] | Device Tree Fundamentals & Syntax | DT Core | `#devicetree` `#dts` `#overlays` |
+| [[devicetree/day-01\|Day 01]] | Device Tree Origins: Why It Exists & What Problem It Solves | devicetree | `#devicetree` `#devicetree` |
+| [[devicetree/day-02\|Day 02]] | DTS Syntax: Nodes, Properties, Cells & Phandles | devicetree | `#devicetree` `#dts` |
 
 ---
 

@@ -10,7 +10,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
-| [[embedded-linux/day-01\|Day 01]] | Embedded Linux Toolchain & Cross-Compilation | Build Systems | `#toolchain` `#cross-compilation` `#embedded` |
+| [[embedded-linux/day-01\|Day 01]] | Embedded Linux Architecture: Components & Boot Flow | embedded-linux | `#embedded-linux` `#embedded-linux` |
+| [[embedded-linux/day-02\|Day 02]] | Cross-Compilation Toolchain: crosstool-NG & Linaro | embedded-linux | `#embedded-linux` `#cross-compilation` |
 
 ---
 
