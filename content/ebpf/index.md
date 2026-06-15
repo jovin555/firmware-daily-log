@@ -13,6 +13,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 | [[ebpf/day-01\|Day 01]] | Linux Tracing Overview: ftrace, perf, eBPF & the Stack | ebpf | `#ebpf` `#tracing` |
 | [[ebpf/day-02\|Day 02]] | ftrace: Function Tracer & trace_printk Setup | ebpf | `#ebpf` `#ftrace` |
 
+| [[ebpf/day-03\|Day 03]] | ftrace: Function Graph Tracer & Latency Tracing | ftrace | `#ftrace` `#latency` `#graph` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -13,6 +13,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 | [[hil-testing/day-01\|Day 01]] | Why HIL Testing: Firmware Testing Pyramid & Hardware Gap | hil-testing | `#hil-testing` `#hil` |
 | [[hil-testing/day-02\|Day 02]] | Test Frameworks for Embedded: Unity, CppUTest, Ztest | hil-testing | `#hil-testing` `#unity` |
 
+| [[hil-testing/day-03\|Day 03]] | Mocking Hardware in Unit Tests: CMock & FFF | Unit Testing | `#cmock` `#fff` `#mocking` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

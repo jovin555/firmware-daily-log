@@ -13,6 +13,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 | [[lfcs/day-01\|Day 01]] | Essential File Operations & Permissions | lfcs | `#lfcs` `#files` |
 | [[lfcs/day-02\|Day 02]] | Hard Links, Symbolic Links & readlink | lfcs | `#lfcs` `#links` |
 
+| [[lfcs/day-03\|Day 03]] | Finding Files: find, locate, which, whereis | Essential Commands | `#find` `#search` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

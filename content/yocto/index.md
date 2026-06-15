@@ -13,6 +13,8 @@ BitBake, recipes, BSP layers and building production images.
 | [[yocto/day-01\|Day 01]] | Yocto Overview: OpenEmbedded, Poky & BitBake | yocto | `#yocto` `#yocto` |
 | [[yocto/day-02\|Day 02]] | Setting Up a Yocto Build Environment & kas | yocto | `#yocto` `#yocto` |
 
+| [[yocto/day-03\|Day 03]] | BitBake Fundamentals: Tasks, Recipes & Execution Model | BitBake | `#bitbake` `#tasks` `#recipes` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
