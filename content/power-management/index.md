@@ -15,6 +15,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-03\|Day 03]] | suspend/resume: System Sleep States in Linux | System Sleep | `#suspend` `#resume` `#sleep-states` |
 
+| [[power-management/day-04\|Day 04]] | Runtime PM: dev_pm_ops & rpm_suspend/resume | Runtime PM | `#runtime-pm` `#dev-pm-ops` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

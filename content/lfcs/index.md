@@ -15,6 +15,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-03\|Day 03]] | Finding Files: find, locate, which, whereis | Essential Commands | `#find` `#search` |
 
+| [[lfcs/day-04\|Day 04]] | grep Deep Dive: BRE, ERE & Practical Patterns | Essential Commands | `#grep` `#regex` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -15,6 +15,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-03\|Day 03]] | BitBake Fundamentals: Tasks, Recipes & Execution Model | BitBake | `#bitbake` `#tasks` `#recipes` |
 
+| [[yocto/day-04\|Day 04]] | Layers: Architecture, Priority & bblayers.conf | Layers | `#layers` `#bblayers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

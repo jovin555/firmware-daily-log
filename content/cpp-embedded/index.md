@@ -15,6 +15,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-03\|Day 03]] | Smart Pointers in Embedded: unique_ptr Without Heap | Core Patterns | `#unique-ptr` `#ownership` `#stack` |
 
+| [[cpp-embedded/day-04\|Day 04]] | constexpr & consteval: Compile-Time Computation | Modern C++ | `#constexpr` `#compile-time` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

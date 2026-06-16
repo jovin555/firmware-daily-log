@@ -15,6 +15,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-03\|Day 03]] | U-Boot Bootloader: Build, Configure & Boot Scripts | Bootloader | `#uboot` `#bootloader` |
 
+| [[embedded-linux/day-04\|Day 04]] | U-Boot Environment: Variables, Commands & Scripting | Bootloader | `#uboot` `#environment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -15,6 +15,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-03\|Day 03]] | Data Types in Device Tree: u32, string, bytearray | DTS Syntax | `#dtypes` `#cells` `#arrays` |
 
+| [[devicetree/day-04\|Day 04]] | Address Cells & Size Cells: Memory Maps in DT | DTS Syntax | `#address-cells` `#size-cells` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

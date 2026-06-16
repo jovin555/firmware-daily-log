@@ -15,6 +15,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-03\|Day 03]] | Mocking Hardware in Unit Tests: CMock & FFF | Unit Testing | `#cmock` `#fff` `#mocking` |
 
+| [[hil-testing/day-04\|Day 04]] | Host-Based Testing: Running Firmware Tests on Linux | Unit Testing | `#host-testing` `#posix` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
