@@ -17,6 +17,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-04\|Day 04]] | grep Deep Dive: BRE, ERE & Practical Patterns | Essential Commands | `#grep` `#regex` |
 
+| [[lfcs/day-05\|Day 05]] | sed: Stream Editing & In-Place Config Modification | Essential Commands | `#sed` `#text-processing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

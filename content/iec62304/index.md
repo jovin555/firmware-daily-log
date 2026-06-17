@@ -17,6 +17,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-04\|Day 04]] | Risk Management Primer: ISO 14971 & FMEA | Regulatory Landscape | `#iso14971` `#fmea` `#risk` |
 
+| [[iec62304/day-05\|Day 05]] | Regulatory Submissions: 510(k), PMA & Technical Files | Regulatory Landscape | `#510k` `#submissions` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

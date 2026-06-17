@@ -17,6 +17,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-04\|Day 04]] | Building a PREEMPT_RT Kernel for Your Target | PREEMPT_RT | `#preempt-rt` `#build` `#kernel` |
 
+| [[preempt-rt/day-05\|Day 05]] | cyclictest: Measuring Worst-Case Latency | Measurement | `#cyclictest` `#latency` `#measurement` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

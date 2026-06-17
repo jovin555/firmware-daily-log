@@ -17,6 +17,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-04\|Day 04]] | Kconfig Deep Dive: Symbols, Dependencies & Menuconfig | Foundations | `#kconfig` `#configuration` |
 
+| [[zephyr/day-05\|Day 05]] | Building & Flashing: west build, flash, debug | Foundations | `#west` `#build` `#flashing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

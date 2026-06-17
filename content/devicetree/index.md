@@ -17,6 +17,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-04\|Day 04]] | Address Cells & Size Cells: Memory Maps in DT | DTS Syntax | `#address-cells` `#size-cells` |
 
+| [[devicetree/day-05\|Day 05]] | Phandles & References: Linking Nodes Together | DTS Syntax | `#phandles` `#references` `#labels` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

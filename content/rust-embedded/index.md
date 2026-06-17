@@ -17,6 +17,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-04\|Day 04]] | Ownership & Borrowing: How It Prevents Embedded Bugs | Rust Core | `#ownership` `#borrowing` `#safety` |
 
+| [[rust-embedded/day-05\|Day 05]] | Lifetimes in Embedded: Static References & Peripherals | Rust Core | `#lifetimes` `#static` `#peripherals` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

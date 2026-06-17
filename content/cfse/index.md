@@ -17,6 +17,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-04\|Day 04]] | FMEA: Failure Mode & Effects Analysis for Firmware | Hazard Analysis | `#fmea` `#failure-modes` |
 
+| [[cfse/day-05\|Day 05]] | FTA: Fault Tree Analysis - Top-Down Hazard Decomposition | Hazard Analysis | `#fta` `#fault-tree` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

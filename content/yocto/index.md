@@ -17,6 +17,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-04\|Day 04]] | Layers: Architecture, Priority & bblayers.conf | Layers | `#layers` `#bblayers` |
 
+| [[yocto/day-05\|Day 05]] | Your First Image: core-image-minimal from Scratch | Foundations | `#image` `#core-image` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

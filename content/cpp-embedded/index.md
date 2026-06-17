@@ -17,6 +17,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-04\|Day 04]] | constexpr & consteval: Compile-Time Computation | Modern C++ | `#constexpr` `#compile-time` |
 
+| [[cpp-embedded/day-05\|Day 05]] | std::array, std::span & Fixed-Size Containers | Modern C++ | `#array` `#span` `#containers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
