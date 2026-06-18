@@ -19,6 +19,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-05\|Day 05]] | pytest-embedded: Python Test Runner for Embedded | Integration Testing | `#pytest` `#embedded` `#python` |
 
+| [[hil-testing/day-06\|Day 06]] | Twister: Zephyr CI Test Runner for Multiple Boards | Integration Testing | `#twister` `#zephyr` `#ci` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

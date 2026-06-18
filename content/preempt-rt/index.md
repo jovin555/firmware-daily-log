@@ -19,6 +19,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-05\|Day 05]] | cyclictest: Measuring Worst-Case Latency | Measurement | `#cyclictest` `#latency` `#measurement` |
 
+| [[preempt-rt/day-06\|Day 06]] | hackbench & stress-ng: Generating Realistic Load | Measurement | `#hackbench` `#stress` `#load` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

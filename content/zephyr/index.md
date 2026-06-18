@@ -19,6 +19,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-05\|Day 05]] | Building & Flashing: west build, flash, debug | Foundations | `#west` `#build` `#flashing` |
 
+| [[zephyr/day-06\|Day 06]] | Threads: k_thread_create, Priorities & Scheduling | Threading | `#threads` `#scheduling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

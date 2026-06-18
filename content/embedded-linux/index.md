@@ -19,6 +19,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-05\|Day 05]] | Kernel Configuration: menuconfig, defconfig & Fragments | Kernel | `#kernel` `#kconfig` |
 
+| [[embedded-linux/day-06\|Day 06]] | Building the Linux Kernel for Embedded Targets | Kernel | `#kernel` `#build` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

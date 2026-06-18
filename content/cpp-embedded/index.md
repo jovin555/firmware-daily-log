@@ -19,6 +19,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-05\|Day 05]] | std::array, std::span & Fixed-Size Containers | Modern C++ | `#array` `#span` `#containers` |
 
+| [[cpp-embedded/day-06\|Day 06]] | Templates for Zero-Cost Abstraction in Drivers | Templates | `#templates` `#zero-cost` `#drivers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

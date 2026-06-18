@@ -19,6 +19,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-05\|Day 05]] | Your First Image: core-image-minimal from Scratch | Foundations | `#image` `#core-image` |
 
+| [[yocto/day-06\|Day 06]] | Writing a Recipe: .bb File Anatomy & Variables | Recipes | `#recipe` `#bb-file` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

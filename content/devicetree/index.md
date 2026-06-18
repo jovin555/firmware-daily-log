@@ -19,6 +19,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-05\|Day 05]] | Phandles & References: Linking Nodes Together | DTS Syntax | `#phandles` `#references` `#labels` |
 
+| [[devicetree/day-06\|Day 06]] | Binding Documentation: Writing & Reading DT Bindings | Bindings | `#bindings` `#documentation` `#yaml` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

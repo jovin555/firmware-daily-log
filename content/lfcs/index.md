@@ -19,6 +19,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-05\|Day 05]] | sed: Stream Editing & In-Place Config Modification | Essential Commands | `#sed` `#text-processing` |
 
+| [[lfcs/day-06\|Day 06]] | awk: Field Parsing, Conditions & Log Analysis | Essential Commands | `#awk` `#text-processing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
