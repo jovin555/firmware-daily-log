@@ -21,6 +21,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-06\|Day 06]] | cpufreq: Governors, Policies & DVFS on Embedded | CPU Power | `#cpufreq` `#dvfs` `#governors` |
 
+| [[power-management/day-07\|Day 07]] | cpuidle: C-States, Latency Tolerance & Residency | CPU Power | `#cpuidle` `#c-states` `#residency` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

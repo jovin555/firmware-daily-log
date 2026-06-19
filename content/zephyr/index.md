@@ -21,6 +21,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-06\|Day 06]] | Threads: k_thread_create, Priorities & Scheduling | Threading | `#threads` `#scheduling` |
 
+| [[zephyr/day-07\|Day 07]] | Semaphores & Mutexes: Producer-Consumer Patterns | Threading | `#semaphore` `#mutex` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

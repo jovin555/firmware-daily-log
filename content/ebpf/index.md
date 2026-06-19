@@ -21,6 +21,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-06\|Day 06]] | perf record & report: Profiling a Running System | perf | `#perf` `#profiling` `#flamegraph` |
 
+| [[ebpf/day-07\|Day 07]] | perf stat: Cycle Counting & CPI Analysis | perf | `#perf` `#stat` `#cpi` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

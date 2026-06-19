@@ -21,6 +21,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-06\|Day 06]] | TF-M Secure Storage & Attestation Services | TF-M | `#secure-storage` `#attestation` |
 
+| [[trustzone/day-07\|Day 07]] | MCUboot: Bootloader Architecture & Image Slots | MCUboot | `#mcuboot` `#bootloader` `#slots` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

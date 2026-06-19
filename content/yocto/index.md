@@ -21,6 +21,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-06\|Day 06]] | Writing a Recipe: .bb File Anatomy & Variables | Recipes | `#recipe` `#bb-file` |
 
+| [[yocto/day-07\|Day 07]] | Fetchers: SRC_URI for Git, HTTP, Local & Patches | Recipes | `#src-uri` `#fetcher` `#patches` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

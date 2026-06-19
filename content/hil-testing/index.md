@@ -21,6 +21,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-06\|Day 06]] | Twister: Zephyr CI Test Runner for Multiple Boards | Integration Testing | `#twister` `#zephyr` `#ci` |
 
+| [[hil-testing/day-07\|Day 07]] | OpenOCD & pyOCD: Programmatic Flash & Debug | HIL Infrastructure | `#openocd` `#pyocd` `#flashing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

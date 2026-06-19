@@ -21,6 +21,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-06\|Day 06]] | Building the Linux Kernel for Embedded Targets | Kernel | `#kernel` `#build` |
 
+| [[embedded-linux/day-07\|Day 07]] | Device Tree: Syntax, Bindings & Overlays | Device Tree | `#devicetree` `#dts` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

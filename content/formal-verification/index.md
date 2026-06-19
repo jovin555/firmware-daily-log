@@ -21,6 +21,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-06\|Day 06]] | MISRA C 2012: Rules, Deviations & Compliance Reports | MISRA | `#misra-c` `#rules` `#deviations` |
 
+| [[formal-verification/day-07\|Day 07]] | Frama-C Architecture: Plugins, ACSL & Value Analysis | Frama-C | `#frama-c` `#acsl` `#value-analysis` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -21,6 +21,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-06\|Day 06]] | Software Development Plan (SDP): What It Must Contain | Development Planning | `#sdp` `#planning` |
 
+| [[iec62304/day-07\|Day 07]] | Software Configuration Management Plan | Development Planning | `#scm` `#versioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -21,6 +21,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-06\|Day 06]] | Binding Documentation: Writing & Reading DT Bindings | Bindings | `#bindings` `#documentation` `#yaml` |
 
+| [[devicetree/day-07\|Day 07]] | Common Bindings: GPIO, I2C, SPI, UART & Regulators | Bindings | `#gpio` `#i2c` `#spi` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

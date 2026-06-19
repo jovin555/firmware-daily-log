@@ -21,6 +21,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-06\|Day 06]] | awk: Field Parsing, Conditions & Log Analysis | Essential Commands | `#awk` `#text-processing` |
 
+| [[lfcs/day-07\|Day 07]] | sort, uniq, cut, wc & Text Pipeline Patterns | Essential Commands | `#pipelines` `#text-processing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

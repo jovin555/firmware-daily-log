@@ -21,6 +21,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-06\|Day 06]] | Peripheral Access Crates (PAC): Register-Level Access | HAL | `#pac` `#registers` `#svd2rust` |
 
+| [[rust-embedded/day-07\|Day 07]] | Embedded HAL: The Hardware Abstraction Layer Traits | HAL | `#embedded-hal` `#traits` `#abstraction` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
