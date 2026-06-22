@@ -27,6 +27,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-09\|Day 09]] | I/O Redirection, Pipes, tee & xargs | Essential Commands | `#redirection` `#pipes` |
 
+| [[lfcs/day-10\|Day 10]] | Regular Expressions for the LFCS Exam | Essential Commands | `#regex` `#grep` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

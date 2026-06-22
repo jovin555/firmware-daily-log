@@ -27,6 +27,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-09\|Day 09]] | FIFOs, LIFOs & Ring Buffers | Threading | `#fifo` `#lifo` `#buffers` |
 
+| [[zephyr/day-10\|Day 10]] | Timers & Delayed Work: k_timer, k_work | Threading | `#timers` `#work-queue` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

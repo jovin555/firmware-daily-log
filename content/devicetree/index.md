@@ -27,6 +27,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-09\|Day 09]] | of_* API: Reading Device Tree from Kernel Drivers | Kernel Integration | `#of-api` `#driver` `#kernel` |
 
+| [[devicetree/day-10\|Day 10]] | devm_* Functions: Managed Resources from DT | Kernel Integration | `#devm` `#managed` `#resources` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

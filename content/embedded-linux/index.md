@@ -27,6 +27,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-09\|Day 09]] | Linux Kernel Module: Hello World to Real Device | Kernel Modules | `#kernel-module` `#lkm` |
 
+| [[embedded-linux/day-10\|Day 10]] | Character Device Drivers: cdev, file_operations & ioctl | Device Drivers | `#char-driver` `#ioctl` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

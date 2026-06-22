@@ -27,6 +27,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-09\|Day 09]] | Regulator Framework: Managing Power Rails in Drivers | Regulator | `#regulator` `#rails` `#framework` |
 
+| [[power-management/day-10\|Day 10]] | Clock Gating & Power Domains | Clock & Domain | `#clock-gating` `#power-domains` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

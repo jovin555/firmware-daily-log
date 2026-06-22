@@ -27,6 +27,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-09\|Day 09]] | ISO 26262 Part 6: Product Development at SW Level | ISO 26262 | `#iso26262` `#part6` `#software` |
 
+| [[cfse/day-10\|Day 10]] | Safety Case: Goal Structuring Notation (GSN) | Safety Case | `#safety-case` `#gsn` `#goals` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -27,6 +27,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-09\|Day 09]] | GPIO Control from Host: Controlling DUT via Relay | HIL Infrastructure | `#gpio` `#relay` `#dut` |
 
+| [[hil-testing/day-10\|Day 10]] | Power Cycling the DUT: Automated Reset & Fault Injection | HIL Infrastructure | `#power-cycling` `#fault-injection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

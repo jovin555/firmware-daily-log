@@ -27,6 +27,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-09\|Day 09]] | Interrupt Handlers in Rust: cortex-m & RTIC | Interrupts | `#interrupts` `#cortex-m` `#rtic` |
 
+| [[rust-embedded/day-10\|Day 10]] | RTIC Framework: Real-Time Interrupt-Driven Concurrency | RTIC | `#rtic` `#concurrency` `#tasks` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -27,6 +27,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-09\|Day 09]] | Package Groups & RDEPENDS: Runtime Dependencies | Recipes | `#package-groups` `#rdepends` |
 
+| [[yocto/day-10\|Day 10]] | BitBake Classes: inherit, autotools, cmake, systemd | BitBake | `#inherit` `#classes` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

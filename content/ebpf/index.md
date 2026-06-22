@@ -27,6 +27,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-09\|Day 09]] | perf sched: Scheduling Latency Analysis | perf | `#perf` `#scheduling` `#latency` |
 
+| [[ebpf/day-10\|Day 10]] | eBPF Architecture: BPF VM, Maps & Helper Functions | eBPF Foundations | `#ebpf` `#bpf-vm` `#maps` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

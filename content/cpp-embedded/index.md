@@ -27,6 +27,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-09\|Day 09]] | Lambda Expressions & Callbacks in Firmware | Modern C++ | `#lambda` `#callbacks` |
 
+| [[cpp-embedded/day-10\|Day 10]] | Operator Overloading for Register Bitfields | Patterns | `#operator-overloading` `#bitfields` `#registers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

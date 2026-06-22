@@ -27,6 +27,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-09\|Day 09]] | IRQ Affinity: Binding Interrupts to Specific CPUs | Tuning | `#irq-affinity` `#smp` `#cpus` |
 
+| [[preempt-rt/day-10\|Day 10]] | CPU Frequency Scaling: cpufreq & performance Mode | Tuning | `#cpufreq` `#governors` `#performance` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

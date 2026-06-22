@@ -27,6 +27,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-09\|Day 09]] | Frama-C WP Plugin: Deductive Verification | Frama-C | `#wp` `#deductive` `#coq` |
 
+| [[formal-verification/day-10\|Day 10]] | Frama-C Eva Plugin: Abstract Interpretation for C | Frama-C | `#eva` `#abstract-interpretation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

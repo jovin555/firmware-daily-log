@@ -27,6 +27,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-09\|Day 09]] | MCUboot DFU: USB, BLE & Serial Upgrade Modes | MCUboot | `#dfu` `#ble` `#usb` |
 
+| [[trustzone/day-10\|Day 10]] | MCUboot Rollback Protection & Anti-Rollback Counters | MCUboot | `#rollback` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
