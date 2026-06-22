@@ -25,6 +25,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-08\|Day 08]] | Message Queues & Mailboxes: Thread Communication | Threading | `#msgq` `#ipc` |
 
+| [[zephyr/day-09\|Day 09]] | FIFOs, LIFOs & Ring Buffers | Threading | `#fifo` `#lifo` `#buffers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

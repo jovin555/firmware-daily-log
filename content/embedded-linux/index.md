@@ -25,6 +25,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-08\|Day 08]] | Root Filesystem: BusyBox, initramfs & Filesystem Layout | Root Filesystem | `#rootfs` `#busybox` |
 
+| [[embedded-linux/day-09\|Day 09]] | Linux Kernel Module: Hello World to Real Device | Kernel Modules | `#kernel-module` `#lkm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

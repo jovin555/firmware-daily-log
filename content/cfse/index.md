@@ -25,6 +25,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-08\|Day 08]] | ASIL Decomposition: Splitting Safety Requirements | ISO 26262 | `#asil` `#decomposition` |
 
+| [[cfse/day-09\|Day 09]] | ISO 26262 Part 6: Product Development at SW Level | ISO 26262 | `#iso26262` `#part6` `#software` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

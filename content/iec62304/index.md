@@ -25,6 +25,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-08\|Day 08]] | Traceability Matrix: Requirements to Design to Test | Development Planning | `#traceability` `#requirements` |
 
+| [[iec62304/day-09\|Day 09]] | Software Requirements Specification (SRS) | Requirements | `#srs` `#requirements` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -25,6 +25,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-08\|Day 08]] | Archiving with tar: Creation, Extraction & Compression | Essential Commands | `#tar` `#compression` |
 
+| [[lfcs/day-09\|Day 09]] | I/O Redirection, Pipes, tee & xargs | Essential Commands | `#redirection` `#pipes` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

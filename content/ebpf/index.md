@@ -25,6 +25,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-08\|Day 08]] | Flame Graphs: Visualizing perf Stack Traces | perf | `#flamegraph` `#perf` `#visualization` |
 
+| [[ebpf/day-09\|Day 09]] | perf sched: Scheduling Latency Analysis | perf | `#perf` `#scheduling` `#latency` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

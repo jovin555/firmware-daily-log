@@ -25,6 +25,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-08\|Day 08]] | GPIO, SPI & I2C with embedded-hal Traits | HAL | `#gpio` `#spi` `#i2c` |
 
+| [[rust-embedded/day-09\|Day 09]] | Interrupt Handlers in Rust: cortex-m & RTIC | Interrupts | `#interrupts` `#cortex-m` `#rtic` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

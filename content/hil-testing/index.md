@@ -25,6 +25,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-08\|Day 08]] | Serial Console Automation: pexpect & miniterm | HIL Infrastructure | `#serial` `#automation` |
 
+| [[hil-testing/day-09\|Day 09]] | GPIO Control from Host: Controlling DUT via Relay | HIL Infrastructure | `#gpio` `#relay` `#dut` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

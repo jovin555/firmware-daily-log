@@ -25,6 +25,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-08\|Day 08]] | CPU Isolation: isolcpus, nohz_full & rcu_nocbs | Tuning | `#isolcpus` `#nohz` `#rcu` |
 
+| [[preempt-rt/day-09\|Day 09]] | IRQ Affinity: Binding Interrupts to Specific CPUs | Tuning | `#irq-affinity` `#smp` `#cpus` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

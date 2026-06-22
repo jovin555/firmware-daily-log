@@ -25,6 +25,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-08\|Day 08]] | MCUboot Image Signing: Keys, imgtool & Verification | MCUboot | `#mcuboot` `#signing` `#imgtool` |
 
+| [[trustzone/day-09\|Day 09]] | MCUboot DFU: USB, BLE & Serial Upgrade Modes | MCUboot | `#dfu` `#ble` `#usb` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

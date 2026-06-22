@@ -25,6 +25,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-08\|Day 08]] | do_compile & do_install: Build & Stage Tasks | Recipes | `#do-compile` `#do-install` |
 
+| [[yocto/day-09\|Day 09]] | Package Groups & RDEPENDS: Runtime Dependencies | Recipes | `#package-groups` `#rdepends` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

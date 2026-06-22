@@ -25,6 +25,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-08\|Day 08]] | The compatible Property: How Drivers Match DT Nodes | Kernel Integration | `#compatible` `#probe` `#matching` |
 
+| [[devicetree/day-09\|Day 09]] | of_* API: Reading Device Tree from Kernel Drivers | Kernel Integration | `#of-api` `#driver` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
