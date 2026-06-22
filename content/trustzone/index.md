@@ -23,6 +23,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-07\|Day 07]] | MCUboot: Bootloader Architecture & Image Slots | MCUboot | `#mcuboot` `#bootloader` `#slots` |
 
+| [[trustzone/day-08\|Day 08]] | MCUboot Image Signing: Keys, imgtool & Verification | MCUboot | `#mcuboot` `#signing` `#imgtool` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

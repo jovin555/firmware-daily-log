@@ -23,6 +23,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-07\|Day 07]] | Type Traits & SFINAE for Hardware-Specific Code | Templates | `#type-traits` `#sfinae` |
 
+| [[cpp-embedded/day-08\|Day 08]] | std::variant & std::optional for Error Handling | Modern C++ | `#variant` `#optional` `#error` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

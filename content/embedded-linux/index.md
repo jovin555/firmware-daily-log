@@ -23,6 +23,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-07\|Day 07]] | Device Tree: Syntax, Bindings & Overlays | Device Tree | `#devicetree` `#dts` |
 
+| [[embedded-linux/day-08\|Day 08]] | Root Filesystem: BusyBox, initramfs & Filesystem Layout | Root Filesystem | `#rootfs` `#busybox` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

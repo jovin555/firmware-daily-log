@@ -23,6 +23,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-07\|Day 07]] | sort, uniq, cut, wc & Text Pipeline Patterns | Essential Commands | `#pipelines` `#text-processing` |
 
+| [[lfcs/day-08\|Day 08]] | Archiving with tar: Creation, Extraction & Compression | Essential Commands | `#tar` `#compression` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

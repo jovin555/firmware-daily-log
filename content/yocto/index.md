@@ -23,6 +23,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-07\|Day 07]] | Fetchers: SRC_URI for Git, HTTP, Local & Patches | Recipes | `#src-uri` `#fetcher` `#patches` |
 
+| [[yocto/day-08\|Day 08]] | do_compile & do_install: Build & Stage Tasks | Recipes | `#do-compile` `#do-install` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

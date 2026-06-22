@@ -23,6 +23,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-07\|Day 07]] | Common Bindings: GPIO, I2C, SPI, UART & Regulators | Bindings | `#gpio` `#i2c` `#spi` |
 
+| [[devicetree/day-08\|Day 08]] | The compatible Property: How Drivers Match DT Nodes | Kernel Integration | `#compatible` `#probe` `#matching` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

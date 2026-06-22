@@ -23,6 +23,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-07\|Day 07]] | cpuidle: C-States, Latency Tolerance & Residency | CPU Power | `#cpuidle` `#c-states` `#residency` |
 
+| [[power-management/day-08\|Day 08]] | devfreq: Dynamic Voltage & Frequency Scaling | Peripheral Power | `#devfreq` `#dvfs` `#peripherals` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

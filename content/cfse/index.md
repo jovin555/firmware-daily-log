@@ -23,6 +23,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-07\|Day 07]] | ISO 26262: Automotive Functional Safety & ASIL Levels | ISO 26262 | `#iso26262` `#asil` `#automotive` |
 
+| [[cfse/day-08\|Day 08]] | ASIL Decomposition: Splitting Safety Requirements | ISO 26262 | `#asil` `#decomposition` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

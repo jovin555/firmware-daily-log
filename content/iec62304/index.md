@@ -23,6 +23,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-07\|Day 07]] | Software Configuration Management Plan | Development Planning | `#scm` `#versioning` |
 
+| [[iec62304/day-08\|Day 08]] | Traceability Matrix: Requirements to Design to Test | Development Planning | `#traceability` `#requirements` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
