@@ -29,6 +29,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-10\|Day 10]] | Documenting Safety Requirements from Risk Analysis | Requirements | `#safety-requirements` `#risk` |
 
+| [[iec62304/day-11\|Day 11]] | Software Architectural Design: Decomposition | Architecture | `#architecture` `#design` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

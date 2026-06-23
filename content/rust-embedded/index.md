@@ -29,6 +29,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-10\|Day 10]] | RTIC Framework: Real-Time Interrupt-Driven Concurrency | RTIC | `#rtic` `#concurrency` `#tasks` |
 
+| [[rust-embedded/day-11\|Day 11]] | Embassy: Async/Await for Embedded Rust | Embassy | `#embassy` `#async` `#await` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

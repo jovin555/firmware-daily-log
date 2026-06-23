@@ -29,6 +29,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-10\|Day 10]] | Character Device Drivers: cdev, file_operations & ioctl | Device Drivers | `#char-driver` `#ioctl` |
 
+| [[embedded-linux/day-11\|Day 11]] | Platform Drivers & Device Tree Binding | Device Drivers | `#platform-driver` `#dt-binding` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

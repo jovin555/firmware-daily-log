@@ -29,6 +29,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-10\|Day 10]] | devm_* Functions: Managed Resources from DT | Kernel Integration | `#devm` `#managed` `#resources` |
 
+| [[devicetree/day-11\|Day 11]] | Device Tree Overlays (DTBO): Syntax & Structure | Overlays | `#dtbo` `#overlay` `#syntax` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

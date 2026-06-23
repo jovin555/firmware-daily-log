@@ -29,6 +29,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-10\|Day 10]] | Timers & Delayed Work: k_timer, k_work | Threading | `#timers` `#work-queue` |
 
+| [[zephyr/day-11\|Day 11]] | GPIO Driver API: Input, Output, Interrupts | HAL & Drivers | `#gpio` `#drivers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

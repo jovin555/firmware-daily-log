@@ -29,6 +29,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-10\|Day 10]] | CPU Frequency Scaling: cpufreq & performance Mode | Tuning | `#cpufreq` `#governors` `#performance` |
 
+| [[preempt-rt/day-11\|Day 11]] | Memory: Huge Pages, mlockall & Page Faults in RT | Tuning | `#hugepages` `#mlockall` `#page-faults` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

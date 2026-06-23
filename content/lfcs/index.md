@@ -29,6 +29,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-10\|Day 10]] | Regular Expressions for the LFCS Exam | Essential Commands | `#regex` `#grep` |
 
+| [[lfcs/day-11\|Day 11]] | Shell Variables, Environment & Startup Files | Essential Commands | `#shell` `#environment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

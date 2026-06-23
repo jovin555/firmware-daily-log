@@ -29,6 +29,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-10\|Day 10]] | Frama-C Eva Plugin: Abstract Interpretation for C | Frama-C | `#eva` `#abstract-interpretation` |
 
+| [[formal-verification/day-11\|Day 11]] | Proving a Zephyr Driver with Frama-C WP | Frama-C Applied | `#frama-c` `#zephyr` `#driver` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

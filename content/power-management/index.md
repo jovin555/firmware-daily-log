@@ -29,6 +29,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-10\|Day 10]] | Clock Gating & Power Domains | Clock & Domain | `#clock-gating` `#power-domains` |
 
+| [[power-management/day-11\|Day 11]] | powertop: Finding Power Hogs on Linux | Measurement Tools | `#powertop` `#measurement` `#tuning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

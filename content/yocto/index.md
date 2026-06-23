@@ -29,6 +29,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-10\|Day 10]] | BitBake Classes: inherit, autotools, cmake, systemd | BitBake | `#inherit` `#classes` |
 
+| [[yocto/day-11\|Day 11]] | Machine Configuration: MACHINE, TUNE & BSP Layers | Machine & Distro | `#machine` `#bsp` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

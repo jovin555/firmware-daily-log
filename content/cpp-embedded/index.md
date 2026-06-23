@@ -29,6 +29,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-10\|Day 10]] | Operator Overloading for Register Bitfields | Patterns | `#operator-overloading` `#bitfields` `#registers` |
 
+| [[cpp-embedded/day-11\|Day 11]] | Interrupt Handlers in C++: Class Methods as Callbacks | Embedded Patterns | `#interrupts` `#callbacks` `#isr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

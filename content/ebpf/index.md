@@ -29,6 +29,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-10\|Day 10]] | eBPF Architecture: BPF VM, Maps & Helper Functions | eBPF Foundations | `#ebpf` `#bpf-vm` `#maps` |
 
+| [[ebpf/day-11\|Day 11]] | BCC: Writing eBPF Programs in Python | eBPF BCC | `#bcc` `#ebpf` `#python` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

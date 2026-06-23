@@ -29,6 +29,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-10\|Day 10]] | MCUboot Rollback Protection & Anti-Rollback Counters | MCUboot | `#rollback` `#security` |
 
+| [[trustzone/day-11\|Day 11]] | Trusted Firmware-A (TF-A): Architecture & Boot Stages | TF-A | `#tfa` `#boot-stages` `#arm64` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
