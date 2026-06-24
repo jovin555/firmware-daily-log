@@ -31,6 +31,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-11\|Day 11]] | GPIO Driver API: Input, Output, Interrupts | HAL & Drivers | `#gpio` `#drivers` |
 
+| [[zephyr/day-12\|Day 12]] | I2C Driver API: Controller & Target Mode | HAL & Drivers | `#i2c` `#drivers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

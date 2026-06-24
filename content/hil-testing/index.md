@@ -31,6 +31,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-11\|Day 11]] | GitHub Actions for Embedded: Self-Hosted Runners | CI/CD | `#github-actions` `#self-hosted` `#ci` |
 
+| [[hil-testing/day-12\|Day 12]] | Docker for Embedded Build Environments | CI/CD | `#docker` `#build-environment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

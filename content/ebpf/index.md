@@ -31,6 +31,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-11\|Day 11]] | BCC: Writing eBPF Programs in Python | eBPF BCC | `#bcc` `#ebpf` `#python` |
 
+| [[ebpf/day-12\|Day 12]] | bpftrace: One-Liners for Kernel Tracing | eBPF bpftrace | `#bpftrace` `#ebpf` `#tracing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

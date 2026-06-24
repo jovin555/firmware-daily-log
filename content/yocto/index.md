@@ -31,6 +31,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-11\|Day 11]] | Machine Configuration: MACHINE, TUNE & BSP Layers | Machine & Distro | `#machine` `#bsp` |
 
+| [[yocto/day-12\|Day 12]] | Distro Configuration: DISTRO_FEATURES & Policies | Machine & Distro | `#distro` `#policies` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

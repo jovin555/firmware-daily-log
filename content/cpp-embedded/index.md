@@ -31,6 +31,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-11\|Day 11]] | Interrupt Handlers in C++: Class Methods as Callbacks | Embedded Patterns | `#interrupts` `#callbacks` `#isr` |
 
+| [[cpp-embedded/day-12\|Day 12]] | State Machines in C++: enum class & std::variant FSMs | Embedded Patterns | `#state-machine` `#fsm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

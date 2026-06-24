@@ -31,6 +31,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-11\|Day 11]] | Embassy: Async/Await for Embedded Rust | Embassy | `#embassy` `#async` `#await` |
 
+| [[rust-embedded/day-12\|Day 12]] | Embassy Executor & Tasks: Cooperative Multitasking | Embassy | `#executor` `#tasks` `#embassy` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

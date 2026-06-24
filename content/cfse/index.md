@@ -31,6 +31,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-11\|Day 11]] | Software Safety Requirements: Deriving from Hazards | Requirements | `#safety-requirements` `#hazards` |
 
+| [[cfse/day-12\|Day 12]] | Defensive Programming for Safety: MISRA & Coding Rules | Implementation | `#misra` `#defensive` `#coding` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

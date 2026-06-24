@@ -31,6 +31,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-11\|Day 11]] | powertop: Finding Power Hogs on Linux | Measurement Tools | `#powertop` `#measurement` `#tuning` |
 
+| [[power-management/day-12\|Day 12]] | Nordic PPK2: Per-Microsecond Current Profiling | Hardware Tools | `#ppk2` `#nordic` `#current` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

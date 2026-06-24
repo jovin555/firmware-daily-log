@@ -31,6 +31,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-11\|Day 11]] | Device Tree Overlays (DTBO): Syntax & Structure | Overlays | `#dtbo` `#overlay` `#syntax` |
 
+| [[devicetree/day-12\|Day 12]] | Applying Overlays at Boot: U-Boot & overlays.txt | Overlays | `#uboot` `#overlay` `#boot` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

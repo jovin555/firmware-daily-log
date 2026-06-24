@@ -31,6 +31,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-11\|Day 11]] | Trusted Firmware-A (TF-A): Architecture & Boot Stages | TF-A | `#tfa` `#boot-stages` `#arm64` |
 
+| [[trustzone/day-12\|Day 12]] | TF-A BL1, BL2, BL3: Each Stage Explained | TF-A | `#bl1` `#bl2` `#bl3` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

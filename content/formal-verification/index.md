@@ -31,6 +31,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-11\|Day 11]] | Proving a Zephyr Driver with Frama-C WP | Frama-C Applied | `#frama-c` `#zephyr` `#driver` |
 
+| [[formal-verification/day-12\|Day 12]] | CBMC: Bounded Model Checking for C Programs | Model Checking | `#cbmc` `#model-checking` `#bounded` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

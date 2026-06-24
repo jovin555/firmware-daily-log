@@ -31,6 +31,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-11\|Day 11]] | Platform Drivers & Device Tree Binding | Device Drivers | `#platform-driver` `#dt-binding` |
 
+| [[embedded-linux/day-12\|Day 12]] | I2C Client Drivers: i2c_driver & Adapter API | Device Drivers | `#i2c` `#driver` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
