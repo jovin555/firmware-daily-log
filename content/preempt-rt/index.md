@@ -33,6 +33,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-12\|Day 12]] | Priority Inversion & Priority Inheritance Mutexes | RT Programming | `#priority-inversion` `#mutex` `#pthread` |
 
+| [[preempt-rt/day-13\|Day 13]] | pthread Real-Time API: SCHED_FIFO & CPU Affinity | RT Programming | `#pthread` `#sched-fifo` `#affinity` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

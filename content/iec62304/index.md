@@ -33,6 +33,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-12\|Day 12]] | Architectural Design for Safety: Fault Isolation | Architecture | `#safety-architecture` |
 
+| [[iec62304/day-13\|Day 13]] | MISRA C for Medical: Compliant Coding Guidelines | Design & Implementation | `#misra` `#coding-standards` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

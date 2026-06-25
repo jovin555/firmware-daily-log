@@ -33,6 +33,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-12\|Day 12]] | State Machines in C++: enum class & std::variant FSMs | Embedded Patterns | `#state-machine` `#fsm` |
 
+| [[cpp-embedded/day-13\|Day 13]] | Ring Buffer Implementation in Modern C++ | Data Structures | `#ring-buffer` `#template` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

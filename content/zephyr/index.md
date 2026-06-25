@@ -33,6 +33,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-12\|Day 12]] | I2C Driver API: Controller & Target Mode | HAL & Drivers | `#i2c` `#drivers` |
 
+| [[zephyr/day-13\|Day 13]] | SPI Driver API: Full-Duplex & DMA Transfers | HAL & Drivers | `#spi` `#dma` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -33,6 +33,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-12\|Day 12]] | CBMC: Bounded Model Checking for C Programs | Model Checking | `#cbmc` `#model-checking` `#bounded` |
 
+| [[formal-verification/day-13\|Day 13]] | CBMC: Writing Harnesses & Checking Loop Bounds | Model Checking | `#cbmc` `#harness` `#bounds` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

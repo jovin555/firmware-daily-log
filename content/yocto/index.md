@@ -33,6 +33,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-12\|Day 12]] | Distro Configuration: DISTRO_FEATURES & Policies | Machine & Distro | `#distro` `#policies` |
 
+| [[yocto/day-13\|Day 13]] | Image Configuration: IMAGE_FEATURES & Packages | Machine & Distro | `#image` `#image-features` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

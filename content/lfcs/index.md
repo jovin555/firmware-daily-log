@@ -33,6 +33,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-12\|Day 12]] | Process Management: ps, kill, nice, jobs, nohup | Essential Commands | `#processes` `#jobs` |
 
+| [[lfcs/day-13\|Day 13]] | System Information: uname, dmesg, lsblk, /proc | Essential Commands | `#system-info` `#proc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

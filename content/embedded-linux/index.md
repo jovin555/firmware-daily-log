@@ -33,6 +33,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-12\|Day 12]] | I2C Client Drivers: i2c_driver & Adapter API | Device Drivers | `#i2c` `#driver` |
 
+| [[embedded-linux/day-13\|Day 13]] | SPI Client Drivers: spi_driver & Transfer API | Device Drivers | `#spi` `#driver` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -33,6 +33,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-12\|Day 12]] | Nordic PPK2: Per-Microsecond Current Profiling | Hardware Tools | `#ppk2` `#nordic` `#current` |
 
+| [[power-management/day-13\|Day 13]] | Zephyr Power Management: pm_state & Device PM | Zephyr PM | `#zephyr` `#pm-state` `#device-pm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

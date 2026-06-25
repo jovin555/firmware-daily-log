@@ -33,6 +33,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-12\|Day 12]] | Docker for Embedded Build Environments | CI/CD | `#docker` `#build-environment` |
 
+| [[hil-testing/day-13\|Day 13]] | CMake & CTest: Unified Build & Test System | Build Systems | `#cmake` `#ctest` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

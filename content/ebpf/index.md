@@ -33,6 +33,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-12\|Day 12]] | bpftrace: One-Liners for Kernel Tracing | eBPF bpftrace | `#bpftrace` `#ebpf` `#tracing` |
 
+| [[ebpf/day-13\|Day 13]] | eBPF kprobes & kretprobes: Dynamic Instrumentation | eBPF Advanced | `#kprobes` `#ebpf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
