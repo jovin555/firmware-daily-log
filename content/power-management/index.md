@@ -35,6 +35,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-13\|Day 13]] | Zephyr Power Management: pm_state & Device PM | Zephyr PM | `#zephyr` `#pm-state` `#device-pm` |
 
+| [[power-management/day-14\|Day 14]] | Zephyr Tickless Idle & Wake-Up Sources | Zephyr PM | `#tickless` `#idle` `#wakeup` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

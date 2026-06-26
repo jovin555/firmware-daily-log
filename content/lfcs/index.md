@@ -35,6 +35,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-13\|Day 13]] | System Information: uname, dmesg, lsblk, /proc | Essential Commands | `#system-info` `#proc` |
 
+| [[lfcs/day-14\|Day 14]] | Permissions Deep Dive: SUID, SGID, Sticky Bit | Essential Commands | `#permissions` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

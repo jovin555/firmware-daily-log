@@ -35,6 +35,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-13\|Day 13]] | SPI Client Drivers: spi_driver & Transfer API | Device Drivers | `#spi` `#driver` |
 
+| [[embedded-linux/day-14\|Day 14]] | GPIO & Interrupt Handling in Kernel Drivers | Device Drivers | `#gpio` `#interrupts` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

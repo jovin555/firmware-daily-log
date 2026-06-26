@@ -35,6 +35,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-13\|Day 13]] | MISRA C for Medical: Compliant Coding Guidelines | Design & Implementation | `#misra` `#coding-standards` |
 
+| [[iec62304/day-14\|Day 14]] | Unit Verification: Code Reviews & Static Analysis | Design & Implementation | `#unit-verification` `#static-analysis` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

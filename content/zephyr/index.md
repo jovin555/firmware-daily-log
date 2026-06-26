@@ -35,6 +35,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-13\|Day 13]] | SPI Driver API: Full-Duplex & DMA Transfers | HAL & Drivers | `#spi` `#dma` |
 
+| [[zephyr/day-14\|Day 14]] | UART Driver API: Async, Interrupt & Polling Modes | HAL & Drivers | `#uart` `#serial` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

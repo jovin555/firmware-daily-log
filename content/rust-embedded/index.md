@@ -35,6 +35,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-13\|Day 13]] | Embassy Peripherals: GPIO, UART, SPI, I2C Async APIs | Embassy | `#peripherals` `#async` `#drivers` |
 
+| [[rust-embedded/day-14\|Day 14]] | Embassy Networking: TCP/IP & BLE with nrf-softdevice | Embassy | `#networking` `#ble` `#nrf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

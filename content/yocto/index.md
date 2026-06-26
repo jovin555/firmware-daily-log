@@ -35,6 +35,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-13\|Day 13]] | Image Configuration: IMAGE_FEATURES & Packages | Machine & Distro | `#image` `#image-features` |
 
+| [[yocto/day-14\|Day 14]] | Kernel Recipe: linux-yocto & KBRANCH | Kernel & Boot | `#kernel` `#linux-yocto` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

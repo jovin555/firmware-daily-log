@@ -35,6 +35,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-13\|Day 13]] | Safe State & Fail-Safe Design Patterns for Firmware | Design Patterns | `#fail-safe` `#safe-state` |
 
+| [[cfse/day-14\|Day 14]] | Diversity & Redundancy: Hardware & Software Strategies | Architecture | `#redundancy` `#diversity` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

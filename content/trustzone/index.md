@@ -35,6 +35,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-13\|Day 13]] | OP-TEE: Trusted Execution Environment Architecture | OP-TEE | `#optee` `#tee` |
 
+| [[trustzone/day-14\|Day 14]] | OP-TEE Trusted Application: Writing a TA from Scratch | OP-TEE | `#trusted-application` `#optee` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

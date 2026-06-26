@@ -35,6 +35,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-13\|Day 13]] | pthread Real-Time API: SCHED_FIFO & CPU Affinity | RT Programming | `#pthread` `#sched-fifo` `#affinity` |
 
+| [[preempt-rt/day-14\|Day 14]] | Lock-Free Data Structures for RT Code | RT Programming | `#lock-free` `#atomic` `#wait-free` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

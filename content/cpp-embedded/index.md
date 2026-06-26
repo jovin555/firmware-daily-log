@@ -35,6 +35,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-13\|Day 13]] | Ring Buffer Implementation in Modern C++ | Data Structures | `#ring-buffer` `#template` |
 
+| [[cpp-embedded/day-14\|Day 14]] | Memory Management: Placement new & Static Pools | Memory | `#placement-new` `#pool` `#static` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

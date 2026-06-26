@@ -35,6 +35,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-13\|Day 13]] | CMake & CTest: Unified Build & Test System | Build Systems | `#cmake` `#ctest` |
 
+| [[hil-testing/day-14\|Day 14]] | Code Coverage for Embedded: gcov, lcov & Gcovr | Quality Gates | `#gcov` `#coverage` `#lcov` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

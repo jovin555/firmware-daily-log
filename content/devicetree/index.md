@@ -35,6 +35,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-13\|Day 13]] | Runtime Overlays: configfs & dtoverlay | Overlays | `#configfs` `#dtoverlay` `#runtime` |
 
+| [[devicetree/day-14\|Day 14]] | Pinmux & Pincontrol: Configuring Pin Functions via DT | Pincontrol | `#pinmux` `#pincontrol` `#iomux` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
