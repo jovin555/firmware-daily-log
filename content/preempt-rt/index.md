@@ -37,6 +37,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-14\|Day 14]] | Lock-Free Data Structures for RT Code | RT Programming | `#lock-free` `#atomic` `#wait-free` |
 
+| [[preempt-rt/day-15\|Day 15]] | SCHED_DEADLINE: Sporadic Task Scheduling | Advanced Scheduling | `#sched-deadline` `#sporadic` `#edf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

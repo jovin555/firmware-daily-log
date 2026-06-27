@@ -37,6 +37,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-14\|Day 14]] | Memory Management: Placement new & Static Pools | Memory | `#placement-new` `#pool` `#static` |
 
+| [[cpp-embedded/day-15\|Day 15]] | C++ in Zephyr: Enabling & Writing C++ Drivers | Zephyr C++ | `#zephyr` `#cpp` `#drivers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

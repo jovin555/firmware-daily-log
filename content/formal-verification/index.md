@@ -37,6 +37,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-14\|Day 14]] | AFL++: Coverage-Guided Fuzzing for Firmware | Fuzzing | `#afl` `#fuzzing` `#coverage` |
 
+| [[formal-verification/day-15\|Day 15]] | AddressSanitizer & UBSan: Runtime Bug Detection | Sanitizers | `#asan` `#ubsan` `#sanitizers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

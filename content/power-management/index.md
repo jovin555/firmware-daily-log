@@ -37,6 +37,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-14\|Day 14]] | Zephyr Tickless Idle & Wake-Up Sources | Zephyr PM | `#tickless` `#idle` `#wakeup` |
 
+| [[power-management/day-15\|Day 15]] | Optimizing a Zephyr BLE Beacon for Sub-10uA Sleep | Zephyr PM Applied | `#ble` `#beacon` `#optimization` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

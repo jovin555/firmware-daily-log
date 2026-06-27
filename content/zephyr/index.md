@@ -37,6 +37,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-14\|Day 14]] | UART Driver API: Async, Interrupt & Polling Modes | HAL & Drivers | `#uart` `#serial` |
 
+| [[zephyr/day-15\|Day 15]] | Sensor API: Generic Sensor Framework & SENSOR_CHAN | HAL & Drivers | `#sensors` `#api` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

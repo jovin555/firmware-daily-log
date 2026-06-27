@@ -37,6 +37,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-14\|Day 14]] | GPIO & Interrupt Handling in Kernel Drivers | Device Drivers | `#gpio` `#interrupts` |
 
+| [[embedded-linux/day-15\|Day 15]] | DMA Engine API: Scatter-Gather & Cyclic Transfers | Device Drivers | `#dma` `#transfers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

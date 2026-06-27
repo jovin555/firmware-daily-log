@@ -37,6 +37,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-14\|Day 14]] | Pinmux & Pincontrol: Configuring Pin Functions via DT | Pincontrol | `#pinmux` `#pincontrol` `#iomux` |
 
+| [[devicetree/day-15\|Day 15]] | Clock Tree in Device Tree: clock-names & clkspec | Clocks | `#clocks` `#clkspec` `#pll` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -37,6 +37,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-14\|Day 14]] | Diversity & Redundancy: Hardware & Software Strategies | Architecture | `#redundancy` `#diversity` |
 
+| [[cfse/day-15\|Day 15]] | Watchdog Timers: Hardware & Software WDT Strategies | Implementation | `#watchdog` `#wdt` `#safety` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -37,6 +37,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-14\|Day 14]] | Embassy Networking: TCP/IP & BLE with nrf-softdevice | Embassy | `#networking` `#ble` `#nrf` |
 
+| [[rust-embedded/day-15\|Day 15]] | defmt: Efficient Logging for Embedded Rust | Debugging | `#defmt` `#logging` `#rtt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

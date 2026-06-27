@@ -37,6 +37,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-14\|Day 14]] | Code Coverage for Embedded: gcov, lcov & Gcovr | Quality Gates | `#gcov` `#coverage` `#lcov` |
 
+| [[hil-testing/day-15\|Day 15]] | Static Analysis in CI: cppcheck, clang-tidy, MISRA | Quality Gates | `#cppcheck` `#clang-tidy` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

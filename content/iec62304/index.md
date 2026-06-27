@@ -37,6 +37,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-14\|Day 14]] | Unit Verification: Code Reviews & Static Analysis | Design & Implementation | `#unit-verification` `#static-analysis` |
 
+| [[iec62304/day-15\|Day 15]] | Software Integration & Integration Testing | Integration & Testing | `#integration` `#build` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

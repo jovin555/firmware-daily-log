@@ -37,6 +37,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-14\|Day 14]] | Permissions Deep Dive: SUID, SGID, Sticky Bit | Essential Commands | `#permissions` `#security` |
 
+| [[lfcs/day-15\|Day 15]] | Shell Scripting Basics: Loops, Conditions, Functions | Essential Commands | `#scripting` `#bash` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

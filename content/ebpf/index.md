@@ -37,6 +37,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-14\|Day 14]] | eBPF uprobes: Tracing Userspace from Kernel | eBPF Advanced | `#uprobes` `#ebpf` |
 
+| [[ebpf/day-15\|Day 15]] | eBPF Maps: Hash, Array, Ring Buffer & Perf Events | eBPF Advanced | `#maps` `#ring-buffer` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
