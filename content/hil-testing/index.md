@@ -39,6 +39,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-15\|Day 15]] | Static Analysis in CI: cppcheck, clang-tidy, MISRA | Quality Gates | `#cppcheck` `#clang-tidy` |
 
+| [[hil-testing/day-16\|Day 16]] | IEC 62304-Compliant Test Documentation from CI | Compliance | `#iec62304` `#documentation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-15\|Day 15]] | OP-TEE Client API: Calling TAs from Normal World | OP-TEE | `#client-api` `#optee` |
 
+| [[trustzone/day-16\|Day 16]] | Secure Boot on Embedded Linux: U-Boot Verified Boot | Embedded Linux Secure Boot | `#uboot` `#verified-boot` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

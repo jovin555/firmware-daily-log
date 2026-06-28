@@ -39,6 +39,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-15\|Day 15]] | defmt: Efficient Logging for Embedded Rust | Debugging | `#defmt` `#logging` `#rtt` |
 
+| [[rust-embedded/day-16\|Day 16]] | probe-rs: Flash, Debug & RTT for Embedded Rust | Debugging | `#probe-rs` `#flash` `#rtt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-15\|Day 15]] | Sensor API: Generic Sensor Framework & SENSOR_CHAN | HAL & Drivers | `#sensors` `#api` |
 
+| [[zephyr/day-16\|Day 16]] | Flash & NVS: Non-Volatile Storage in Zephyr | HAL & Drivers | `#flash` `#nvs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

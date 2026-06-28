@@ -39,6 +39,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-15\|Day 15]] | AddressSanitizer & UBSan: Runtime Bug Detection | Sanitizers | `#asan` `#ubsan` `#sanitizers` |
 
+| [[formal-verification/day-16\|Day 16]] | Integrating Static Analysis in CI: Fail on Warnings | CI Integration | `#ci` `#static-analysis` `#gates` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

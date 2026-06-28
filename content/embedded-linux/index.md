@@ -39,6 +39,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-15\|Day 15]] | DMA Engine API: Scatter-Gather & Cyclic Transfers | Device Drivers | `#dma` `#transfers` |
 
+| [[embedded-linux/day-16\|Day 16]] | Linux Memory Management: Virtual Memory & MMU | Memory | `#memory` `#mmu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

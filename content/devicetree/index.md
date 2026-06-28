@@ -39,6 +39,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-15\|Day 15]] | Clock Tree in Device Tree: clock-names & clkspec | Clocks | `#clocks` `#clkspec` `#pll` |
 
+| [[devicetree/day-16\|Day 16]] | Interrupt Routing in Device Tree: interrupt-parent | Interrupts | `#interrupts` `#gic` `#routing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-15\|Day 15]] | C++ in Zephyr: Enabling & Writing C++ Drivers | Zephyr C++ | `#zephyr` `#cpp` `#drivers` |
 
+| [[cpp-embedded/day-16\|Day 16]] | MISRA C++ 2023: Key Rules & Enforcement with clang-tidy | Safety | `#misra-cpp` `#clang-tidy` `#safety` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

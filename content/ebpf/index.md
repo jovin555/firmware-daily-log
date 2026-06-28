@@ -39,6 +39,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-15\|Day 15]] | eBPF Maps: Hash, Array, Ring Buffer & Perf Events | eBPF Advanced | `#maps` `#ring-buffer` |
 
+| [[ebpf/day-16\|Day 16]] | libbpf & CO-RE: Portable eBPF Programs in C | eBPF libbpf | `#libbpf` `#co-re` `#portability` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

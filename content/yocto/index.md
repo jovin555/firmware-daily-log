@@ -39,6 +39,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-15\|Day 15]] | Kernel Config Fragments & defconfig in Yocto | Kernel & Boot | `#kernel-config` `#cfg-fragment` |
 
+| [[yocto/day-16\|Day 16]] | Device Tree in Yocto: KERNEL_DEVICETREE | Kernel & Boot | `#devicetree` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-15\|Day 15]] | Shell Scripting Basics: Loops, Conditions, Functions | Essential Commands | `#scripting` `#bash` |
 
+| [[lfcs/day-16\|Day 16]] | Disk Usage: df, du & Finding Space Hogs | Essential Commands | `#disk` `#storage` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

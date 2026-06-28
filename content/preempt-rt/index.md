@@ -39,6 +39,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-15\|Day 15]] | SCHED_DEADLINE: Sporadic Task Scheduling | Advanced Scheduling | `#sched-deadline` `#sporadic` `#edf` |
 
+| [[preempt-rt/day-16\|Day 16]] | RT Linux for Industrial Control: EtherCAT & Fieldbus | Industrial | `#ethercat` `#fieldbus` `#industrial` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
