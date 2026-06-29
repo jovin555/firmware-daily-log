@@ -41,6 +41,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-16\|Day 16]] | Software System Testing: Plans, Cases & Reports | Integration & Testing | `#system-testing` `#class-c` |
 
+| [[iec62304/day-17\|Day 17]] | Regression Testing & Change Control | Integration & Testing | `#regression` `#change-control` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

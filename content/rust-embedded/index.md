@@ -41,6 +41,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-16\|Day 16]] | probe-rs: Flash, Debug & RTT for Embedded Rust | Debugging | `#probe-rs` `#flash` `#rtt` |
 
+| [[rust-embedded/day-17\|Day 17]] | Testing Embedded Rust: Unit Tests on Host & QEMU | Testing | `#testing` `#qemu` `#hil` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -41,6 +41,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-16\|Day 16]] | Integrating Static Analysis in CI: Fail on Warnings | CI Integration | `#ci` `#static-analysis` `#gates` |
 
+| [[formal-verification/day-17\|Day 17]] | Safety Case Documentation: GSN & CAE Notation | Documentation | `#safety-case` `#gsn` `#cae` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

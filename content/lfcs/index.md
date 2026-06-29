@@ -41,6 +41,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-16\|Day 16]] | Disk Usage: df, du & Finding Space Hogs | Essential Commands | `#disk` `#storage` |
 
+| [[lfcs/day-17\|Day 17]] | Command Sequencing: &&, ||, ; and subshells | Essential Commands | `#shell` `#scripting` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

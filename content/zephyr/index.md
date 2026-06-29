@@ -41,6 +41,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-16\|Day 16]] | Flash & NVS: Non-Volatile Storage in Zephyr | HAL & Drivers | `#flash` `#nvs` |
 
+| [[zephyr/day-17\|Day 17]] | Networking Stack: BSD Sockets & TCP/IP | Networking | `#networking` `#tcp-ip` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

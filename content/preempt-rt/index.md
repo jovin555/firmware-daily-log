@@ -41,6 +41,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-16\|Day 16]] | RT Linux for Industrial Control: EtherCAT & Fieldbus | Industrial | `#ethercat` `#fieldbus` `#industrial` |
 
+| [[preempt-rt/day-17\|Day 17]] | Benchmarking Zephyr vs PREEMPT_RT Linux | Comparison | `#zephyr` `#comparison` `#benchmark` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

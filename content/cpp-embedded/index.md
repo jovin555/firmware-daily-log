@@ -41,6 +41,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-16\|Day 16]] | MISRA C++ 2023: Key Rules & Enforcement with clang-tidy | Safety | `#misra-cpp` `#clang-tidy` `#safety` |
 
+| [[cpp-embedded/day-17\|Day 17]] | AUTOSAR C++14: Subset for Safety-Critical Systems | Safety | `#autosar` `#cpp14` `#safety` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

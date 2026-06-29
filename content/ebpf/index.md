@@ -41,6 +41,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-16\|Day 16]] | libbpf & CO-RE: Portable eBPF Programs in C | eBPF libbpf | `#libbpf` `#co-re` `#portability` |
 
+| [[ebpf/day-17\|Day 17]] | eBPF for Network Observability: XDP & TC Programs | eBPF Networking | `#xdp` `#tc` `#networking` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

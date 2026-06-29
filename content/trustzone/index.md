@@ -41,6 +41,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-16\|Day 16]] | Secure Boot on Embedded Linux: U-Boot Verified Boot | Embedded Linux Secure Boot | `#uboot` `#verified-boot` |
 
+| [[trustzone/day-17\|Day 17]] | FIT Images: Kernel + DTB + Initramfs Signing | Embedded Linux Secure Boot | `#fit-image` `#signing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

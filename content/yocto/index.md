@@ -41,6 +41,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-16\|Day 16]] | Device Tree in Yocto: KERNEL_DEVICETREE | Kernel & Boot | `#devicetree` `#kernel` |
 
+| [[yocto/day-17\|Day 17]] | U-Boot Recipe: UBOOT_MACHINE & Integration | Kernel & Boot | `#uboot` `#bootloader` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

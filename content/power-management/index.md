@@ -41,6 +41,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-16\|Day 16]] | Yocto Image Power Optimization: Stripping Daemons | Yocto PM | `#yocto` `#daemons` `#optimization` |
 
+| [[power-management/day-17\|Day 17]] | Power Budget Spreadsheet: From Spec to Schematic | Design | `#power-budget` `#design` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

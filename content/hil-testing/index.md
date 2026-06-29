@@ -41,6 +41,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-16\|Day 16]] | IEC 62304-Compliant Test Documentation from CI | Compliance | `#iec62304` `#documentation` |
 
+| [[hil-testing/day-17\|Day 17]] | HIL for Zephyr BLE: Testing BLE Advertisements | HIL Applied | `#ble` `#zephyr` `#automation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

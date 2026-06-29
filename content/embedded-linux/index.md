@@ -41,6 +41,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-16\|Day 16]] | Linux Memory Management: Virtual Memory & MMU | Memory | `#memory` `#mmu` |
 
+| [[embedded-linux/day-17\|Day 17]] | Memory Allocation: kmalloc, vmalloc, DMA Memory | Memory | `#kmalloc` `#vmalloc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

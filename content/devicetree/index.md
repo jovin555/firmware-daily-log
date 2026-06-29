@@ -41,6 +41,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-16\|Day 16]] | Interrupt Routing in Device Tree: interrupt-parent | Interrupts | `#interrupts` `#gic` `#routing` |
 
+| [[devicetree/day-17\|Day 17]] | Device Tree in Yocto: KERNEL_DEVICETREE & DTBO | Yocto & DT | `#yocto` `#kernel` `#dtbo` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -41,6 +41,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-16\|Day 16]] | Memory Protection Unit (MPU): Spatial Isolation | Implementation | `#mpu` `#spatial` `#isolation` |
 
+| [[cfse/day-17\|Day 17]] | Testing for Functional Safety: Coverage & Independence | Testing | `#testing` `#coverage` `#independence` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
