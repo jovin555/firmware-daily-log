@@ -43,6 +43,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-17\|Day 17]] | HIL for Zephyr BLE: Testing BLE Advertisements | HIL Applied | `#ble` `#zephyr` `#automation` |
 
+| [[hil-testing/day-18\|Day 18]] | HIL Power Measurement: Automated Current Profiling | HIL Applied | `#power` `#measurement` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

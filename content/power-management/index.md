@@ -43,6 +43,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-17\|Day 17]] | Power Budget Spreadsheet: From Spec to Schematic | Design | `#power-budget` `#design` |
 
+| [[power-management/day-18\|Day 18]] | Full Review & Project: Power Profile an Embedded System | Review | `#review` `#project` `#profiling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

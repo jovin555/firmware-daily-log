@@ -43,6 +43,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-17\|Day 17]] | Networking Stack: BSD Sockets & TCP/IP | Networking | `#networking` `#tcp-ip` |
 
+| [[zephyr/day-18\|Day 18]] | Bluetooth LE: Advertising, Scanning & GATT | Networking | `#ble` `#bluetooth` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

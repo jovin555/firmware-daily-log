@@ -43,6 +43,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-17\|Day 17]] | Regression Testing & Change Control | Integration & Testing | `#regression` `#change-control` |
 
+| [[iec62304/day-18\|Day 18]] | Verification vs Validation: The V&V Distinction | V&V | `#verification` `#validation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

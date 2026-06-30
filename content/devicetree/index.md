@@ -43,6 +43,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-17\|Day 17]] | Device Tree in Yocto: KERNEL_DEVICETREE & DTBO | Yocto & DT | `#yocto` `#kernel` `#dtbo` |
 
+| [[devicetree/day-18\|Day 18]] | Device Tree in Zephyr vs Linux: Key Differences | Comparison | `#zephyr` `#linux` `#comparison` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

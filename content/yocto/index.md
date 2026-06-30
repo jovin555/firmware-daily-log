@@ -43,6 +43,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-17\|Day 17]] | U-Boot Recipe: UBOOT_MACHINE & Integration | Kernel & Boot | `#uboot` `#bootloader` |
 
+| [[yocto/day-18\|Day 18]] | devtool: Modify, Build & Deploy Workflows | SDK & Workflow | `#devtool` `#workflow` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

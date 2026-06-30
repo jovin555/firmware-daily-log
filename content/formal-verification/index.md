@@ -43,6 +43,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-17\|Day 17]] | Safety Case Documentation: GSN & CAE Notation | Documentation | `#safety-case` `#gsn` `#cae` |
 
+| [[formal-verification/day-18\|Day 18]] | Full Review & Project: Verify a State Machine with CBMC | Review | `#review` `#project` `#cbmc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

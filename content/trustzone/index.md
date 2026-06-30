@@ -43,6 +43,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-17\|Day 17]] | FIT Images: Kernel + DTB + Initramfs Signing | Embedded Linux Secure Boot | `#fit-image` `#signing` |
 
+| [[trustzone/day-18\|Day 18]] | Key Management Infrastructure: HSM & PKCS#11 | Key Management | `#hsm` `#pkcs11` `#provisioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

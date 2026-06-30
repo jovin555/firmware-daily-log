@@ -43,6 +43,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-17\|Day 17]] | Memory Allocation: kmalloc, vmalloc, DMA Memory | Memory | `#kmalloc` `#vmalloc` |
 
+| [[embedded-linux/day-18\|Day 18]] | MTD Subsystem: NAND, NOR & Flash Layers | Storage | `#mtd` `#nand` `#flash` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

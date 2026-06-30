@@ -43,6 +43,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-17\|Day 17]] | Benchmarking Zephyr vs PREEMPT_RT Linux | Comparison | `#zephyr` `#comparison` `#benchmark` |
 
+| [[preempt-rt/day-18\|Day 18]] | Full Review & Project: Certifiable Latency Report | Review | `#review` `#project` `#report` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

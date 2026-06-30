@@ -43,6 +43,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-17\|Day 17]] | Testing for Functional Safety: Coverage & Independence | Testing | `#testing` `#coverage` `#independence` |
 
+| [[cfse/day-18\|Day 18]] | IEC 62443: Industrial Cybersecurity & Safety Convergence | Security & Safety | `#iec62443` `#cybersecurity` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

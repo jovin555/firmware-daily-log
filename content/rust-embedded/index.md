@@ -43,6 +43,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-17\|Day 17]] | Testing Embedded Rust: Unit Tests on Host & QEMU | Testing | `#testing` `#qemu` `#hil` |
 
+| [[rust-embedded/day-18\|Day 18]] | Rust in the Linux Kernel: rust_module! Basics (v6.1+) | Linux Kernel Rust | `#kernel` `#rust` `#module` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

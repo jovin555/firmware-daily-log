@@ -43,6 +43,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-17\|Day 17]] | eBPF for Network Observability: XDP & TC Programs | eBPF Networking | `#xdp` `#tc` `#networking` |
 
+| [[ebpf/day-18\|Day 18]] | eBPF Security: LSM Hooks & Seccomp Filters | eBPF Security | `#lsm` `#seccomp` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

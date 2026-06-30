@@ -43,6 +43,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-17\|Day 17]] | Command Sequencing: &&, ||, ; and subshells | Essential Commands | `#shell` `#scripting` |
 
+| [[lfcs/day-18\|Day 18]] | Essential Commands Review & Mock Lab | Essential Commands | `#review` `#mock-exam` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
