@@ -34,6 +34,7 @@ One post per topic, every day at 6:00 AM UTC — generated and reviewed by AI, w
 | [[zephyr/index\|Zephyr RTOS]] | Threads, BLE, HAL drivers, power management | 38 days |
 | [[preempt-rt/index\|PREEMPT\_RT & Latency]] | Real-time Linux, cyclictest, SCHED\_DEADLINE | 25 days |
 | [[power-management/index\|Power Management]] | cpuidle, devfreq, energy profiling, Zephyr PM | 25 days |
+| [[wireless-protocols/index\|Low-Power Wireless Protocols]] | BLE, Thread, Matter, LoRaWAN, cellular IoT | 30 days |
 
 ### Debugging & Observability
 
@@ -50,6 +51,27 @@ One post per topic, every day at 6:00 AM UTC — generated and reviewed by AI, w
 | [[cpp-embedded/index\|C++ for Embedded]] | Modern C++17/20, RAII, MISRA C++, Zephyr C++ | 30 days |
 | [[rust-embedded/index\|Rust for Embedded]] | Bare-metal Rust, Embassy, Linux kernel modules in Rust | 35 days |
 | [[trustzone/index\|TrustZone & Secure Boot]] | ARM TrustZone, TF-A, MCUboot, OP-TEE, secure firmware | 32 days |
+
+### Security Engineering
+
+| Track | Topics | Posts |
+|-------|--------|-------|
+| [[secure-ota/index\|Secure OTA Update Architecture]] | Dual-slot partitioning, anti-rollback, delta updates, fleet rollout | 30 days |
+| [[embedded-crypto/index\|Embedded Cryptography & Key Management]] | AES, ECC, hashing, digital signatures, key lifecycle | 30 days |
+| [[threat-modeling/index\|Threat Modeling & Secure Coding]] | STRIDE, OWASP Embedded Top 10, MISRA/CERT secure coding | 30 days |
+
+### Firmware Architecture & DevOps
+
+| Track | Topics | Posts |
+|-------|--------|-------|
+| [[hal-patterns/index\|HAL & Firmware Design Patterns]] | Hardware abstraction, C/C++ driver patterns, multi-vendor portability | 30 days |
+| [[embedded-cicd/index\|Modern CI/CD for Embedded Systems]] | Build automation, release engineering, artifact signing, deployment gates | 30 days |
+
+### Edge AI & Advanced Computing
+
+| Track | Topics | Posts |
+|-------|--------|-------|
+| [[edge-ai-tinyml/index\|Edge AI & TinyML Inference]] | TensorFlow Lite Micro, CMSIS-NN, quantization, on-device inference | 30 days |
 
 ---
 
