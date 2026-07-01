@@ -45,6 +45,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-18\|Day 18]] | IEC 62443: Industrial Cybersecurity & Safety Convergence | Security & Safety | `#iec62443` `#cybersecurity` |
 
+| [[cfse/day-19\|Day 19]] | CFSE Exam Prep: Key Topics, Structure & Mock Questions | Certification | `#cfse` `#exam-prep` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -45,6 +45,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-18\|Day 18]] | Device Tree in Zephyr vs Linux: Key Differences | Comparison | `#zephyr` `#linux` `#comparison` |
 
+| [[devicetree/day-19\|Day 19]] | dtc & fdtdump: Compiling & Inspecting DTBs | Tools | `#dtc` `#fdtdump` `#tools` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

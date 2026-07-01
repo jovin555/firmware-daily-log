@@ -45,6 +45,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-18\|Day 18]] | eBPF Security: LSM Hooks & Seccomp Filters | eBPF Security | `#lsm` `#seccomp` `#security` |
 
+| [[ebpf/day-19\|Day 19]] | Debugging Driver Latency with eBPF: End-to-End | eBPF Applied | `#driver` `#latency` `#example` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

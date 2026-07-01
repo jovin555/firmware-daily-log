@@ -45,6 +45,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-18\|Day 18]] | Undefined Behavior: UBSan & Catching UB in Firmware | Safety | `#ubsan` `#undefined-behavior` |
 
+| [[cpp-embedded/day-19\|Day 19]] | Compiler Optimizations: What -O2 Does to Your Driver | Advanced | `#optimization` `#compiler` `#asm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

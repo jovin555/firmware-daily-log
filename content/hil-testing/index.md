@@ -45,6 +45,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-18\|Day 18]] | HIL Power Measurement: Automated Current Profiling | HIL Applied | `#power` `#measurement` |
 
+| [[hil-testing/day-19\|Day 19]] | Full Review & Project: Complete HIL Pipeline | Review | `#review` `#project` `#pipeline` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -45,6 +45,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-18\|Day 18]] | devtool: Modify, Build & Deploy Workflows | SDK & Workflow | `#devtool` `#workflow` |
 
+| [[yocto/day-19\|Day 19]] | Standard SDK: populate_sdk & Cross-Development | SDK & Workflow | `#sdk` `#populate-sdk` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

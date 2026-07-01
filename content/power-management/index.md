@@ -45,6 +45,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-18\|Day 18]] | Full Review & Project: Power Profile an Embedded System | Review | `#review` `#project` `#profiling` |
 
+| [[power-management/day-19\|Day 19]] | Embedded Power Management: Goals, Trade-offs & Standards | Foundations | `#power` `#standards` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

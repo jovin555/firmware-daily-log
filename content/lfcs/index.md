@@ -45,6 +45,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-18\|Day 18]] | Essential Commands Review & Mock Lab | Essential Commands | `#review` `#mock-exam` |
 
+| [[lfcs/day-19\|Day 19]] | User Accounts: useradd, usermod, userdel | User and Group Management | `#users` `#accounts` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

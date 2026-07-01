@@ -45,6 +45,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-18\|Day 18]] | MTD Subsystem: NAND, NOR & Flash Layers | Storage | `#mtd` `#nand` `#flash` |
 
+| [[embedded-linux/day-19\|Day 19]] | Embedded Filesystems: JFFS2, UBIFS, SquashFS | Storage | `#filesystem` `#ubifs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

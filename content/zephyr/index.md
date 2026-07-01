@@ -45,6 +45,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-18\|Day 18]] | Bluetooth LE: Advertising, Scanning & GATT | Networking | `#ble` `#bluetooth` |
 
+| [[zephyr/day-19\|Day 19]] | BLE GATT: Custom Service & Characteristic | Networking | `#ble` `#gatt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

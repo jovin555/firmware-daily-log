@@ -45,6 +45,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-18\|Day 18]] | Full Review & Project: Certifiable Latency Report | Review | `#review` `#project` `#report` |
 
+| [[preempt-rt/day-19\|Day 19]] | What Makes a System Real-Time? WCET, Jitter & Latency | Foundations | `#real-time` `#wcet` `#latency` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

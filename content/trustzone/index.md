@@ -45,6 +45,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-18\|Day 18]] | Key Management Infrastructure: HSM & PKCS#11 | Key Management | `#hsm` `#pkcs11` `#provisioning` |
 
+| [[trustzone/day-19\|Day 19]] | Firmware Encryption: Confidentiality for IP Protection | Advanced | `#encryption` `#ip-protection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

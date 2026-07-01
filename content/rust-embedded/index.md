@@ -45,6 +45,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-18\|Day 18]] | Rust in the Linux Kernel: rust_module! Basics (v6.1+) | Linux Kernel Rust | `#kernel` `#rust` `#module` |
 
+| [[rust-embedded/day-19\|Day 19]] | Writing a Linux Kernel Driver in Rust: CharDev Example | Linux Kernel Rust | `#chardev` `#driver` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

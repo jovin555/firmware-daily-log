@@ -45,6 +45,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-18\|Day 18]] | Verification vs Validation: The V&V Distinction | V&V | `#verification` `#validation` |
 
+| [[iec62304/day-19\|Day 19]] | Usability Engineering: IEC 62366 Integration | V&V | `#usability` `#iec62366` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
