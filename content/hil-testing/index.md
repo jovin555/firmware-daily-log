@@ -47,6 +47,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-19\|Day 19]] | Full Review & Project: Complete HIL Pipeline | Review | `#review` `#project` `#pipeline` |
 
+| [[hil-testing/day-20\|Day 20]] | Why HIL Testing: Firmware Testing Pyramid & Hardware Gap | Foundations | `#hil` `#testing` `#strategy` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

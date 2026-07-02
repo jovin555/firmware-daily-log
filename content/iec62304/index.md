@@ -47,6 +47,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-19\|Day 19]] | Usability Engineering: IEC 62366 Integration | V&V | `#usability` `#iec62366` |
 
+| [[iec62304/day-20\|Day 20]] | Software Release: Notes, Version Labels & Archiving | Release & Maintenance | `#release` `#versioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

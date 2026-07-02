@@ -47,6 +47,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-19\|Day 19]] | Embedded Power Management: Goals, Trade-offs & Standards | Foundations | `#power` `#standards` |
 
+| [[power-management/day-20\|Day 20]] | Linux PM Stack: PM Core, Drivers & Governors | Linux PM | `#linux-pm` `#pm-core` `#drivers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

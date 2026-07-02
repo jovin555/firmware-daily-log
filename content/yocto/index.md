@@ -47,6 +47,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-19\|Day 19]] | Standard SDK: populate_sdk & Cross-Development | SDK & Workflow | `#sdk` `#populate-sdk` |
 
+| [[yocto/day-20\|Day 20]] | Shared State Cache (sstate): Speed Up Builds | SDK & Workflow | `#sstate` `#cache` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

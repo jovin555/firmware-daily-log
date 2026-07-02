@@ -13,6 +13,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-01\|Day 01]] | Why OTA Matters: Field Update Economics & Failure Modes | Foundations | `#ota` `#field-updates` |
 
+| [[secure-ota/day-02\|Day 02]] | A/B (Dual-Slot) Partitioning: Design & Tradeoffs | Update Architectures | `#ab-update` `#partitioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

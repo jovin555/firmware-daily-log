@@ -47,6 +47,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-19\|Day 19]] | BLE GATT: Custom Service & Characteristic | Networking | `#ble` `#gatt` |
 
+| [[zephyr/day-20\|Day 20]] | OpenThread: 802.15.4 & Thread Network | Networking | `#openthread` `#thread` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

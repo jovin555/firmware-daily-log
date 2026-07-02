@@ -47,6 +47,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-19\|Day 19]] | dtc & fdtdump: Compiling & Inspecting DTBs | Tools | `#dtc` `#fdtdump` `#tools` |
 
+| [[devicetree/day-20\|Day 20]] | Common Device Tree Bugs & How to Debug Them | Debugging | `#debug` `#bugs` `#dtc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

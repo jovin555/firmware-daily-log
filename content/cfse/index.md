@@ -47,6 +47,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-19\|Day 19]] | CFSE Exam Prep: Key Topics, Structure & Mock Questions | Certification | `#cfse` `#exam-prep` |
 
+| [[cfse/day-20\|Day 20]] | Full Review: Safety Case for a Zephyr-Based Medical Device | Review | `#review` `#project` `#safety-case` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

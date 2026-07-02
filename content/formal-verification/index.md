@@ -47,6 +47,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-19\|Day 19]] | Why Formal Verification? Safety Standards & Cost of Bugs | Foundations | `#formal-verification` `#safety` |
 
+| [[formal-verification/day-20\|Day 20]] | Static vs Dynamic Analysis: The Verification Spectrum | Foundations | `#static-analysis` `#dynamic` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

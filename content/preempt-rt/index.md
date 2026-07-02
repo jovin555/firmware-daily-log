@@ -47,6 +47,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-19\|Day 19]] | What Makes a System Real-Time? WCET, Jitter & Latency | Foundations | `#real-time` `#wcet` `#latency` |
 
+| [[preempt-rt/day-20\|Day 20]] | Linux Scheduling: CFS, FIFO, RR & Deadline Policies | Linux Scheduler | `#cfs` `#sched-fifo` `#scheduling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

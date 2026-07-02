@@ -47,6 +47,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-19\|Day 19]] | Embedded Filesystems: JFFS2, UBIFS, SquashFS | Storage | `#filesystem` `#ubifs` |
 
+| [[embedded-linux/day-20\|Day 20]] | Sysfs & Debugfs: Kernel-Userspace Interface | Userspace | `#sysfs` `#debugfs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

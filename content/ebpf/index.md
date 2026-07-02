@@ -47,6 +47,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-19\|Day 19]] | Debugging Driver Latency with eBPF: End-to-End | eBPF Applied | `#driver` `#latency` `#example` |
 
+| [[ebpf/day-20\|Day 20]] | Dynamic Tracing a Custom Kernel Module | eBPF Applied | `#kernel-module` `#tracing` `#debug` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

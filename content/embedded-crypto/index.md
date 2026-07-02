@@ -13,6 +13,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-01\|Day 01]] | Cryptography Fundamentals for Embedded Engineers | Foundations | `#crypto-basics` |
 
+| [[embedded-crypto/day-02\|Day 02]] | Symmetric Encryption: AES Modes (ECB, CBC, CTR, GCM) | Symmetric Crypto | `#aes` `#block-cipher` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

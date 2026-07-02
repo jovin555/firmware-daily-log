@@ -13,6 +13,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-01\|Day 01]] | Wireless Protocol Landscape: Range, Power & Throughput Tradeoffs | Foundations | `#wireless` `#protocol-comparison` |
 
+| [[wireless-protocols/day-02\|Day 02]] | BLE Fundamentals: GAP Roles, Advertising & Connections | BLE | `#ble` `#gap` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

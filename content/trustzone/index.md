@@ -47,6 +47,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-19\|Day 19]] | Firmware Encryption: Confidentiality for IP Protection | Advanced | `#encryption` `#ip-protection` |
 
+| [[trustzone/day-20\|Day 20]] | Side-Channel Attacks: Timing & Power Analysis Basics | Advanced | `#side-channel` `#power-analysis` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

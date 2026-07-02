@@ -13,6 +13,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-01\|Day 01]] | Why Edge AI: On-Device Inference vs Cloud Round-Trips | Foundations | `#edge-ai` `#tinyml` |
 
+| [[edge-ai-tinyml/day-02\|Day 02]] | Neural Network Basics for Embedded Engineers | Foundations | `#neural-networks` `#basics` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

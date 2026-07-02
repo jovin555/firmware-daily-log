@@ -47,6 +47,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-19\|Day 19]] | Compiler Optimizations: What -O2 Does to Your Driver | Advanced | `#optimization` `#compiler` `#asm` |
 
+| [[cpp-embedded/day-20\|Day 20]] | Full Review & Project: C++ HAL for a Sensor Driver | Review | `#review` `#project` `#hal` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
