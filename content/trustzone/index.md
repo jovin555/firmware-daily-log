@@ -49,6 +49,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-20\|Day 20]] | Side-Channel Attacks: Timing & Power Analysis Basics | Advanced | `#side-channel` `#power-analysis` |
 
+| [[trustzone/day-21\|Day 21]] | Full Review & Project: Secure Boot Chain on nRF9160 | Review | `#review` `#project` `#secure-boot` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

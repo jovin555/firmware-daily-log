@@ -49,6 +49,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-20\|Day 20]] | Linux Scheduling: CFS, FIFO, RR & Deadline Policies | Linux Scheduler | `#cfs` `#sched-fifo` `#scheduling` |
 
+| [[preempt-rt/day-21\|Day 21]] | PREEMPT_RT Patch: What It Changes & How to Apply It | PREEMPT_RT | `#preempt-rt` `#patch` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -49,6 +49,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-20\|Day 20]] | Linux PM Stack: PM Core, Drivers & Governors | Linux PM | `#linux-pm` `#pm-core` `#drivers` |
 
+| [[power-management/day-21\|Day 21]] | suspend/resume: System Sleep States in Linux | System Sleep | `#suspend` `#resume` `#sleep-states` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

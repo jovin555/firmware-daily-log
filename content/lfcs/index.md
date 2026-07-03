@@ -49,6 +49,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-20\|Day 20]] | Group Management: groupadd, gpasswd & /etc/group | User and Group Management | `#groups` |
 
+| [[lfcs/day-21\|Day 21]] | Passwords & PAM: passwd, chage, /etc/shadow | User and Group Management | `#passwords` `#pam` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

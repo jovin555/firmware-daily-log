@@ -49,6 +49,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-20\|Day 20]] | Common Device Tree Bugs & How to Debug Them | Debugging | `#debug` `#bugs` `#dtc` |
 
+| [[devicetree/day-21\|Day 21]] | Full Review & Project: DT Overlay for a Custom Sensor | Review | `#review` `#project` `#overlay` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

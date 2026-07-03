@@ -49,6 +49,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-20\|Day 20]] | Why HIL Testing: Firmware Testing Pyramid & Hardware Gap | Foundations | `#hil` `#testing` `#strategy` |
 
+| [[hil-testing/day-21\|Day 21]] | Test Frameworks for Embedded: Unity, CppUTest, Ztest | Unit Testing | `#unity` `#cpputest` `#unit-tests` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -49,6 +49,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-20\|Day 20]] | Full Review & Project: C++ HAL for a Sensor Driver | Review | `#review` `#project` `#hal` |
 
+| [[cpp-embedded/day-21\|Day 21]] | Why C++ in Embedded? Myths, Tradeoffs & Modern Approach | Foundations | `#cpp` `#embedded` `#tradeoffs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

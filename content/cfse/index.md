@@ -49,6 +49,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-20\|Day 20]] | Full Review: Safety Case for a Zephyr-Based Medical Device | Review | `#review` `#project` `#safety-case` |
 
+| [[cfse/day-21\|Day 21]] | Functional Safety Overview: What It Is & Why It Matters | Foundations | `#functional-safety` `#iec61508` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

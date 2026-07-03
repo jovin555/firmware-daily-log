@@ -49,6 +49,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-20\|Day 20]] | Dynamic Tracing a Custom Kernel Module | eBPF Applied | `#kernel-module` `#tracing` `#debug` |
 
+| [[ebpf/day-21\|Day 21]] | Full Review & Project: Kernel Latency Monitor | Review | `#review` `#project` `#latency` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

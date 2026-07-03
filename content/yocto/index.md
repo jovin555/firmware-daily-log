@@ -49,6 +49,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-20\|Day 20]] | Shared State Cache (sstate): Speed Up Builds | SDK & Workflow | `#sstate` `#cache` |
 
+| [[yocto/day-21\|Day 21]] | BitBake Debugging: -DDD, buildhistory & dep graphs | Debugging | `#debugging` `#bitbake` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -49,6 +49,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-20\|Day 20]] | OpenThread: 802.15.4 & Thread Network | Networking | `#openthread` `#thread` |
 
+| [[zephyr/day-21\|Day 21]] | LTE-M & NB-IoT with nRF9160 | Networking | `#lte` `#nrf9160` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

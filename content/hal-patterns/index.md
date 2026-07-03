@@ -15,6 +15,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-02\|Day 02]] | Layered Firmware Architecture: BSP, HAL, Middleware & App Layers | Layered Architecture | `#layered-architecture` |
 
+| [[hal-patterns/day-03\|Day 03]] | Register Abstraction: Memory-Mapped I/O & volatile Correctness | Layered Architecture | `#mmio` `#volatile` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

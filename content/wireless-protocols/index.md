@@ -15,6 +15,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-02\|Day 02]] | BLE Fundamentals: GAP Roles, Advertising & Connections | BLE | `#ble` `#gap` |
 
+| [[wireless-protocols/day-03\|Day 03]] | BLE GATT: Services, Characteristics & Attribute Protocol | BLE | `#gatt` `#att` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

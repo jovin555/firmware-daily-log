@@ -15,6 +15,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-02\|Day 02]] | STRIDE Methodology: Spoofing, Tampering, Repudiation & More | Threat Modeling | `#stride` |
 
+| [[threat-modeling/day-03\|Day 03]] | Data Flow Diagrams for Embedded Systems Threat Models | Threat Modeling | `#dfd` `#threat-modeling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

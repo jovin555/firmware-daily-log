@@ -49,6 +49,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-20\|Day 20]] | Software Release: Notes, Version Labels & Archiving | Release & Maintenance | `#release` `#versioning` |
 
+| [[iec62304/day-21\|Day 21]] | Cybersecurity for Medical Devices: IEC 81001-5-1 | Release & Maintenance | `#cybersecurity` `#iec81001` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

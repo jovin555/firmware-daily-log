@@ -15,6 +15,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-02\|Day 02]] | Reproducible Builds: Pinning Compiler, SDK & Dependency Versions | Build Automation | `#reproducible-builds` |
 
+| [[embedded-cicd/day-03\|Day 03]] | GitLab CI & Jenkins Pipelines for Multi-Board Firmware Projects | Build Automation | `#gitlab-ci` `#jenkins` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

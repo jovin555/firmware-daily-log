@@ -49,6 +49,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-20\|Day 20]] | Static vs Dynamic Analysis: The Verification Spectrum | Foundations | `#static-analysis` `#dynamic` |
 
+| [[formal-verification/day-21\|Day 21]] | Cppcheck: Fast Open-Source Static Analysis | Static Analysis | `#cppcheck` `#static` `#bugs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
