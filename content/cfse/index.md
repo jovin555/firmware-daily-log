@@ -51,6 +51,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-21\|Day 21]] | Functional Safety Overview: What It Is & Why It Matters | Foundations | `#functional-safety` `#iec61508` |
 
+| [[cfse/day-22\|Day 22]] | IEC 61508: Structure, SIL Levels & Scope | IEC 61508 | `#iec61508` `#sil` `#e-e-e` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -17,6 +17,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-03\|Day 03]] | AEAD: Authenticated Encryption with ChaCha20-Poly1305 | Symmetric Crypto | `#aead` `#chacha20` |
 
+| [[embedded-crypto/day-04\|Day 04]] | Stream Ciphers & Why ECB Mode Is a Trap | Symmetric Crypto | `#stream-cipher` `#ecb-pitfalls` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

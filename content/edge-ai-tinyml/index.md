@@ -17,6 +17,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-03\|Day 03]] | Model Quantization: int8, Fixed-Point & Quantization-Aware Training | Model Prep | `#quantization` `#int8` |
 
+| [[edge-ai-tinyml/day-04\|Day 04]] | Model Pruning & Distillation for Constrained Devices | Model Prep | `#pruning` `#distillation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

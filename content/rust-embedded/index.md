@@ -51,6 +51,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-21\|Day 21]] | Full Review & Project: Embassy BLE Thermometer | Review | `#review` `#project` `#embassy` |
 
+| [[rust-embedded/day-22\|Day 22]] | Why Rust for Embedded? Memory Safety Without GC | Foundations | `#rust` `#memory-safety` `#embedded` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

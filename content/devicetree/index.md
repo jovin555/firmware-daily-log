@@ -51,6 +51,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-21\|Day 21]] | Full Review & Project: DT Overlay for a Custom Sensor | Review | `#review` `#project` `#overlay` |
 
+| [[devicetree/day-22\|Day 22]] | Device Tree Origins: Why It Exists & What Problem It Solves | Foundations | `#devicetree` `#origins` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -51,6 +51,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-21\|Day 21]] | PREEMPT_RT Patch: What It Changes & How to Apply It | PREEMPT_RT | `#preempt-rt` `#patch` `#kernel` |
 
+| [[preempt-rt/day-22\|Day 22]] | Building a PREEMPT_RT Kernel for Your Target | PREEMPT_RT | `#preempt-rt` `#build` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

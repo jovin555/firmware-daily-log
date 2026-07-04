@@ -51,6 +51,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-21\|Day 21]] | Full Review & Project: Kernel Latency Monitor | Review | `#review` `#project` `#latency` |
 
+| [[ebpf/day-22\|Day 22]] | Linux Tracing Overview: ftrace, perf, eBPF & the Stack | Foundations | `#tracing` `#ftrace` `#ebpf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

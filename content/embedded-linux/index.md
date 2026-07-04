@@ -51,6 +51,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-21\|Day 21]] | GDB Cross-Debug: JTAG, gdbserver & Remote Debug | Debugging | `#gdb` `#jtag` |
 
+| [[embedded-linux/day-22\|Day 22]] | ftrace & trace-cmd: Function & Latency Tracing | Debugging | `#ftrace` `#tracing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

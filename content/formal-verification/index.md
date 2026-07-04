@@ -51,6 +51,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-21\|Day 21]] | Cppcheck: Fast Open-Source Static Analysis | Static Analysis | `#cppcheck` `#static` `#bugs` |
 
+| [[formal-verification/day-22\|Day 22]] | clang-tidy: Linting & Refactoring C/C++ Code | Static Analysis | `#clang-tidy` `#linting` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

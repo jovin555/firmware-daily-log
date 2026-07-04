@@ -51,6 +51,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-21\|Day 21]] | Test Frameworks for Embedded: Unity, CppUTest, Ztest | Unit Testing | `#unity` `#cpputest` `#unit-tests` |
 
+| [[hil-testing/day-22\|Day 22]] | Mocking Hardware in Unit Tests: CMock & FFF | Unit Testing | `#cmock` `#fff` `#mocking` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

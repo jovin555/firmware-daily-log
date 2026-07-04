@@ -17,6 +17,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-03\|Day 03]] | Register Abstraction: Memory-Mapped I/O & volatile Correctness | Layered Architecture | `#mmio` `#volatile` |
 
+| [[hal-patterns/day-04\|Day 04]] | Designing a Clean HAL API: Function Pointers vs Structs | C Patterns | `#hal-api` `#function-pointers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

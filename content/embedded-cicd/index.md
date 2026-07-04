@@ -17,6 +17,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-03\|Day 03]] | GitLab CI & Jenkins Pipelines for Multi-Board Firmware Projects | Build Automation | `#gitlab-ci` `#jenkins` |
 
+| [[embedded-cicd/day-04\|Day 04]] | Build Caching Strategies: ccache & Artifact Reuse Across Pipelines | Build Automation | `#ccache` `#build-cache` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

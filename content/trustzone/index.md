@@ -51,6 +51,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-21\|Day 21]] | Full Review & Project: Secure Boot Chain on nRF9160 | Review | `#review` `#project` `#secure-boot` |
 
+| [[trustzone/day-22\|Day 22]] | ARM Security Architecture: TrustZone for Cortex-A & Cortex-M | Foundations | `#trustzone` `#arm` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

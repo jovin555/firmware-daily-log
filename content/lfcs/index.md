@@ -51,6 +51,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-21\|Day 21]] | Passwords & PAM: passwd, chage, /etc/shadow | User and Group Management | `#passwords` `#pam` |
 
+| [[lfcs/day-22\|Day 22]] | sudo & /etc/sudoers: Privilege Escalation | User and Group Management | `#sudo` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

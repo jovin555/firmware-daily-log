@@ -51,6 +51,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-21\|Day 21]] | LTE-M & NB-IoT with nRF9160 | Networking | `#lte` `#nrf9160` |
 
+| [[zephyr/day-22\|Day 22]] | Power Management: PM States & Hooks | Power Management | `#power` `#pm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

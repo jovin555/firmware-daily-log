@@ -17,6 +17,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-03\|Day 03]] | BLE GATT: Services, Characteristics & Attribute Protocol | BLE | `#gatt` `#att` |
 
+| [[wireless-protocols/day-04\|Day 04]] | BLE Power Profiling: Connection Intervals & Duty Cycling | BLE | `#ble-power` `#duty-cycle` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -51,6 +51,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-21\|Day 21]] | BitBake Debugging: -DDD, buildhistory & dep graphs | Debugging | `#debugging` `#bitbake` |
 
+| [[yocto/day-22\|Day 22]] | Image Size Optimization & Stripping | Optimization | `#image-size` `#optimization` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
