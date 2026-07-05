@@ -53,6 +53,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-22\|Day 22]] | Image Size Optimization & Stripping | Optimization | `#image-size` `#optimization` |
 
+| [[yocto/day-23\|Day 23]] | Reproducible Builds & SOURCE_DATE_EPOCH | Security & Production | `#reproducible-builds` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -53,6 +53,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-22\|Day 22]] | Why Rust for Embedded? Memory Safety Without GC | Foundations | `#rust` `#memory-safety` `#embedded` |
 
+| [[rust-embedded/day-23\|Day 23]] | Rust Toolchain for Embedded: rustup, targets & cargo | Foundations | `#rustup` `#cargo` `#targets` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

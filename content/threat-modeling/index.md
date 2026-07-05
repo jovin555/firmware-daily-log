@@ -19,6 +19,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-04\|Day 04]] | Attack Trees: Modeling Adversary Goals & Paths | Threat Modeling | `#attack-tree` |
 
+| [[threat-modeling/day-05\|Day 05]] | Trust Boundaries: Identifying Where Attackers Enter | Attack Surface | `#trust-boundary` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

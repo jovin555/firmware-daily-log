@@ -19,6 +19,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-04\|Day 04]] | Image Metadata & Manifests: Versioning, Hashes & Signatures | Image & Metadata | `#manifest` `#versioning` |
 
+| [[secure-ota/day-05\|Day 05]] | Anti-Rollback Policies: Manifest Versioning & Fleet-Wide Enforcement | Rollback & Recovery | `#anti-rollback` `#versioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

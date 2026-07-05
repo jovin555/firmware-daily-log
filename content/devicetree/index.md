@@ -53,6 +53,8 @@ DTS syntax, DTBO overlays and U-Boot runtime configuration.
 
 | [[devicetree/day-22\|Day 22]] | Device Tree Origins: Why It Exists & What Problem It Solves | Foundations | `#devicetree` `#origins` |
 
+| [[devicetree/day-23\|Day 23]] | DTS Syntax: Nodes, Properties, Cells & Phandles | DTS Syntax | `#dts` `#nodes` `#properties` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

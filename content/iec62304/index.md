@@ -53,6 +53,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-22\|Day 22]] | Agile & IEC 62304: Making Iterative Dev Compliant | Release & Maintenance | `#agile` `#compliance` |
 
+| [[iec62304/day-23\|Day 23]] | Audit Preparation: DHF, DMR & Device History Records | Release & Maintenance | `#audit` `#dhf` `#dmr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

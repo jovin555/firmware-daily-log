@@ -53,6 +53,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-22\|Day 22]] | Power Management: PM States & Hooks | Power Management | `#power` `#pm` |
 
+| [[zephyr/day-23\|Day 23]] | Optimizing for Ultra-Low Power: Tickless Idle | Power Management | `#low-power` `#optimization` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

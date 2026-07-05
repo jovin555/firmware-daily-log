@@ -53,6 +53,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-22\|Day 22]] | RAII: Resource Acquisition Is Initialization for Hardware | Core Patterns | `#raii` `#resources` `#ownership` |
 
+| [[cpp-embedded/day-23\|Day 23]] | Smart Pointers in Embedded: unique_ptr Without Heap | Core Patterns | `#unique-ptr` `#ownership` `#stack` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

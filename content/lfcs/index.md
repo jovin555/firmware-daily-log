@@ -53,6 +53,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-22\|Day 22]] | sudo & /etc/sudoers: Privilege Escalation | User and Group Management | `#sudo` `#security` |
 
+| [[lfcs/day-23\|Day 23]] | File Ownership & ACLs: setfacl, getfacl | User and Group Management | `#acl` `#permissions` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

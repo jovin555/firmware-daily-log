@@ -19,6 +19,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-04\|Day 04]] | Build Caching Strategies: ccache & Artifact Reuse Across Pipelines | Build Automation | `#ccache` `#build-cache` |
 
+| [[embedded-cicd/day-05\|Day 05]] | Compiler Optimization Flags: -O2 vs -Os in a CI Pipeline | Build Automation | `#compiler-flags` `#optimization` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

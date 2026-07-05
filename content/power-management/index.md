@@ -53,6 +53,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-22\|Day 22]] | Runtime PM: dev_pm_ops & rpm_suspend/resume | Runtime PM | `#runtime-pm` `#dev-pm-ops` |
 
+| [[power-management/day-23\|Day 23]] | Wakeup Sources: Configuring & Debugging Wakeup Events | System Sleep | `#wakeup` `#wakelock` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

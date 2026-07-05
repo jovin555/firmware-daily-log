@@ -19,6 +19,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-04\|Day 04]] | Stream Ciphers & Why ECB Mode Is a Trap | Symmetric Crypto | `#stream-cipher` `#ecb-pitfalls` |
 
+| [[embedded-crypto/day-05\|Day 05]] | Hash Functions: SHA-256, SHA-3 & Collision Resistance | Hashing & Signatures | `#sha256` `#hashing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

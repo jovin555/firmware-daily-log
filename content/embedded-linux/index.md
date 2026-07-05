@@ -53,6 +53,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-22\|Day 22]] | ftrace & trace-cmd: Function & Latency Tracing | Debugging | `#ftrace` `#tracing` |
 
+| [[embedded-linux/day-23\|Day 23]] | perf: Profiling on Embedded | Debugging | `#perf` `#profiling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
