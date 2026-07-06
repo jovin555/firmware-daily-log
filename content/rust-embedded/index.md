@@ -55,6 +55,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-23\|Day 23]] | Rust Toolchain for Embedded: rustup, targets & cargo | Foundations | `#rustup` `#cargo` `#targets` |
 
+| [[rust-embedded/day-24\|Day 24]] | no_std: Writing Embedded Rust Without the Standard Library | no_std | `#no-std` `#bare-metal` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

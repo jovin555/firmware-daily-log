@@ -55,6 +55,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-23\|Day 23]] | File Ownership & ACLs: setfacl, getfacl | User and Group Management | `#acl` `#permissions` |
 
+| [[lfcs/day-24\|Day 24]] | The Linux Boot Process: BIOS to GRUB to Kernel | Operation of Running Systems | `#boot` `#kernel` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

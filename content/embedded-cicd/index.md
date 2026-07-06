@@ -21,6 +21,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-05\|Day 05]] | Compiler Optimization Flags: -O2 vs -Os in a CI Pipeline | Build Automation | `#compiler-flags` `#optimization` |
 
+| [[embedded-cicd/day-06\|Day 06]] | Semantic Versioning & Changelogs for Firmware Releases | Release | `#semver` `#changelog` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

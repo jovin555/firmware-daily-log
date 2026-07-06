@@ -55,6 +55,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-23\|Day 23]] | Safety Integrity Levels (SIL): Determination & Verification | IEC 61508 | `#sil` `#determination` |
 
+| [[cfse/day-24\|Day 24]] | FMEA: Failure Mode & Effects Analysis for Firmware | Hazard Analysis | `#fmea` `#failure-modes` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

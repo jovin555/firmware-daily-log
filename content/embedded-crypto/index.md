@@ -21,6 +21,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-05\|Day 05]] | Hash Functions: SHA-256, SHA-3 & Collision Resistance | Hashing & Signatures | `#sha256` `#hashing` |
 
+| [[embedded-crypto/day-06\|Day 06]] | HMAC: Message Authentication Without Public Keys | Hashing & Signatures | `#hmac` `#mac` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

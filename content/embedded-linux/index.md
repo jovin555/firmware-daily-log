@@ -55,6 +55,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-23\|Day 23]] | perf: Profiling on Embedded | Debugging | `#perf` `#profiling` |
 
+| [[embedded-linux/day-24\|Day 24]] | Secure Boot: Verified Boot Chain on Embedded Linux | Security | `#secure-boot` `#signing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

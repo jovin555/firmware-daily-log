@@ -55,6 +55,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-23\|Day 23]] | Reproducible Builds & SOURCE_DATE_EPOCH | Security & Production | `#reproducible-builds` |
 
+| [[yocto/day-24\|Day 24]] | OTA with Yocto: SWUpdate & A/B Image Strategy | Security & Production | `#ota` `#swupdate` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

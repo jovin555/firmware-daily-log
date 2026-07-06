@@ -21,6 +21,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-05\|Day 05]] | BLE Mesh: Provisioning, Models & Relay Nodes | BLE | `#ble-mesh` |
 
+| [[wireless-protocols/day-06\|Day 06]] | BLE Security: Pairing, Bonding & LE Secure Connections | BLE | `#ble-security` `#pairing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

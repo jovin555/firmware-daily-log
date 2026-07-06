@@ -21,6 +21,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-05\|Day 05]] | Trust Boundaries: Identifying Where Attackers Enter | Attack Surface | `#trust-boundary` |
 
+| [[threat-modeling/day-06\|Day 06]] | Attack Surface Analysis: UART, JTAG, USB & Debug Ports | Attack Surface | `#debug-interfaces` `#jtag` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

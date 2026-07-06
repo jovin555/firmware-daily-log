@@ -55,6 +55,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-23\|Day 23]] | Audit Preparation: DHF, DMR & Device History Records | Release & Maintenance | `#audit` `#dhf` `#dmr` |
 
+| [[iec62304/day-24\|Day 24]] | Full Review: Compliance Checklist & Mock Audit | Review | `#review` `#checklist` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

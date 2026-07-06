@@ -55,6 +55,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-23\|Day 23]] | Clang Static Analyzer: Path-Sensitive Bug Detection | Static Analysis | `#clang-analyzer` `#path-sensitive` |
 
+| [[formal-verification/day-24\|Day 24]] | MISRA C 2012: Rules, Deviations & Compliance Reports | MISRA | `#misra-c` `#rules` `#deviations` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

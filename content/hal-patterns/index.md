@@ -21,6 +21,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-05\|Day 05]] | The vtable Pattern in C: Simulating Polymorphism for Drivers | C Patterns | `#vtable` `#polymorphism` |
 
+| [[hal-patterns/day-06\|Day 06]] | Opaque Handles & Pimpl-Style Encapsulation in C | C Patterns | `#opaque-handle` `#encapsulation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

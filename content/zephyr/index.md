@@ -55,6 +55,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-23\|Day 23]] | Optimizing for Ultra-Low Power: Tickless Idle | Power Management | `#low-power` `#optimization` |
 
+| [[zephyr/day-24\|Day 24]] | Logging Subsystem: LOG_MODULE_REGISTER | Debugging & Testing | `#logging` `#debug` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

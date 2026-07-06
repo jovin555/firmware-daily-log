@@ -55,6 +55,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-23\|Day 23]] | Secure Boot Concepts: Chain of Trust, Keys & Attestation | Foundations | `#secure-boot` `#chain-of-trust` |
 
+| [[trustzone/day-24\|Day 24]] | ARM Cortex-M Security: SAU, IDAU & TrustZone-M | Cortex-M Security | `#trustzone-m` `#sau` `#idau` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

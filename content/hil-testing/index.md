@@ -55,6 +55,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-23\|Day 23]] | Host-Based Testing: Running Firmware Tests on Linux | Unit Testing | `#host-testing` `#posix` |
 
+| [[hil-testing/day-24\|Day 24]] | pytest-embedded: Python Test Runner for Embedded | Integration Testing | `#pytest` `#embedded` `#python` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

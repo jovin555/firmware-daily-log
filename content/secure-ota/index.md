@@ -21,6 +21,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-05\|Day 05]] | Anti-Rollback Policies: Manifest Versioning & Fleet-Wide Enforcement | Rollback & Recovery | `#anti-rollback` `#versioning` |
 
+| [[secure-ota/day-06\|Day 06]] | A/B Slot Swap Algorithms: Bank Swap vs Scratch-Area Swap | Update Architectures | `#swap-algorithm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
