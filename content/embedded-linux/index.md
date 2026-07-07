@@ -57,6 +57,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-24\|Day 24]] | Secure Boot: Verified Boot Chain on Embedded Linux | Security | `#secure-boot` `#signing` |
 
+| [[embedded-linux/day-25\|Day 25]] | OTA Updates: SWUpdate, RAUC & A/B Partitions | Production | `#ota` `#swupdate` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -57,6 +57,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-24\|Day 24]] | ARM Cortex-M Security: SAU, IDAU & TrustZone-M | Cortex-M Security | `#trustzone-m` `#sau` `#idau` |
 
+| [[trustzone/day-25\|Day 25]] | TF-M: Trusted Firmware-M Architecture & Secure Services | TF-M | `#tfm` `#secure-services` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

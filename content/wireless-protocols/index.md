@@ -23,6 +23,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-06\|Day 06]] | BLE Security: Pairing, Bonding & LE Secure Connections | BLE | `#ble-security` `#pairing` |
 
+| [[wireless-protocols/day-07\|Day 07]] | IEEE 802.15.4: The Radio Layer Under Thread & Zigbee | Thread & Matter | `#802-15-4` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

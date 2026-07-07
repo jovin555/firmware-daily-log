@@ -57,6 +57,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-24\|Day 24]] | no_std: Writing Embedded Rust Without the Standard Library | no_std | `#no-std` `#bare-metal` |
 
+| [[rust-embedded/day-25\|Day 25]] | Ownership & Borrowing: How It Prevents Embedded Bugs | Rust Core | `#ownership` `#borrowing` `#safety` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

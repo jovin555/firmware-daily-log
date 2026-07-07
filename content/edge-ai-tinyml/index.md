@@ -23,6 +23,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-06\|Day 06]] | TensorFlow Lite for Microcontrollers: Runtime Architecture | TFLite Micro | `#tflite-micro` `#runtime` |
 
+| [[edge-ai-tinyml/day-07\|Day 07]] | Building & Flashing a TFLite Micro Inference App | TFLite Micro | `#tflite-micro` `#deployment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -23,6 +23,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-06\|Day 06]] | Semantic Versioning & Changelogs for Firmware Releases | Release | `#semver` `#changelog` |
 
+| [[embedded-cicd/day-07\|Day 07]] | Artifact Repositories: Storing & Signing Firmware Binaries | Release | `#artifact-repo` `#signing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

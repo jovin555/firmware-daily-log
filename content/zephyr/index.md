@@ -57,6 +57,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-24\|Day 24]] | Logging Subsystem: LOG_MODULE_REGISTER | Debugging & Testing | `#logging` `#debug` |
 
+| [[zephyr/day-25\|Day 25]] | Ztest Framework & Unit Tests | Debugging & Testing | `#ztest` `#testing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

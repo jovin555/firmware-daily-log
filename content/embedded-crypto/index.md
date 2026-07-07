@@ -23,6 +23,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-06\|Day 06]] | HMAC: Message Authentication Without Public Keys | Hashing & Signatures | `#hmac` `#mac` |
 
+| [[embedded-crypto/day-07\|Day 07]] | Asymmetric Crypto: RSA Fundamentals & Key Sizes | Asymmetric Crypto | `#rsa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -57,6 +57,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-24\|Day 24]] | OTA with Yocto: SWUpdate & A/B Image Strategy | Security & Production | `#ota` `#swupdate` |
 
+| [[yocto/day-25\|Day 25]] | Creating a Custom BSP Layer: meta-mybsp | Advanced | `#bsp` `#custom-layer` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

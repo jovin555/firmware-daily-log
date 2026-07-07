@@ -57,6 +57,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-24\|Day 24]] | The Linux Boot Process: BIOS to GRUB to Kernel | Operation of Running Systems | `#boot` `#kernel` |
 
+| [[lfcs/day-25\|Day 25]] | systemd: Units, Targets & Dependency Graph | Operation of Running Systems | `#systemd` `#services` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

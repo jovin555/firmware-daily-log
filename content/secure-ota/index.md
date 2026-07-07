@@ -23,6 +23,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-06\|Day 06]] | A/B Slot Swap Algorithms: Bank Swap vs Scratch-Area Swap | Update Architectures | `#swap-algorithm` |
 
+| [[secure-ota/day-07\|Day 07]] | Delta/Differential Updates: bsdiff, Courgette & Binary Patching | Delta Updates | `#delta-update` `#bsdiff` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

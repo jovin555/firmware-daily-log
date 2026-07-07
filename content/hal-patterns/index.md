@@ -23,6 +23,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-06\|Day 06]] | Opaque Handles & Pimpl-Style Encapsulation in C | C Patterns | `#opaque-handle` `#encapsulation` |
 
+| [[hal-patterns/day-07\|Day 07]] | Dependency Injection in Embedded C: Decoupling Drivers from Logic | C Patterns | `#dependency-injection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

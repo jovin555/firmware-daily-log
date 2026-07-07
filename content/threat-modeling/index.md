@@ -23,6 +23,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-06\|Day 06]] | Attack Surface Analysis: UART, JTAG, USB & Debug Ports | Attack Surface | `#debug-interfaces` `#jtag` |
 
+| [[threat-modeling/day-07\|Day 07]] | OWASP Embedded/IoT Top 10: Overview & Mapping to Firmware | Standards | `#owasp` `#top10` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

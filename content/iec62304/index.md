@@ -57,6 +57,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-24\|Day 24]] | Full Review: Compliance Checklist & Mock Audit | Review | `#review` `#checklist` |
 
+| [[iec62304/day-25\|Day 25]] | Medical Device Software Regulation: FDA, CE & MDR | Regulatory Landscape | `#regulation` `#fda` `#ce-mark` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
