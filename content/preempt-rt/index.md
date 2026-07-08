@@ -59,6 +59,8 @@ Real-time Linux, cyclictest, SCHED_DEADLINE and latency analysis.
 
 | [[preempt-rt/day-25\|Day 25]] | Latency Histograms: Interpreting cyclictest Output | Measurement | `#histogram` `#latency` `#analysis` |
 
+| [[preempt-rt/day-26\|Day 26]] | CPU Isolation: isolcpus, nohz_full & rcu_nocbs | Tuning | `#isolcpus` `#nohz` `#rcu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

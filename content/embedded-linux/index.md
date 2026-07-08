@@ -59,6 +59,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-25\|Day 25]] | OTA Updates: SWUpdate, RAUC & A/B Partitions | Production | `#ota` `#swupdate` |
 
+| [[embedded-linux/day-26\|Day 26]] | Full Review & Bring-up Checklist | Review | `#review` `#bringup` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -59,6 +59,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-25\|Day 25]] | Ztest Framework & Unit Tests | Debugging & Testing | `#ztest` `#testing` |
 
+| [[zephyr/day-26\|Day 26]] | Twister: Automated Test Execution | Debugging & Testing | `#twister` `#ci` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

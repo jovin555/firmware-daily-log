@@ -25,6 +25,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-07\|Day 07]] | OWASP Embedded/IoT Top 10: Overview & Mapping to Firmware | Standards | `#owasp` `#top10` |
 
+| [[threat-modeling/day-08\|Day 08]] | Insecure Network Services & Weak Default Credentials | Attack Surface | `#default-creds` `#network-services` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -25,6 +25,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-07\|Day 07]] | Delta/Differential Updates: bsdiff, Courgette & Binary Patching | Delta Updates | `#delta-update` `#bsdiff` |
 
+| [[secure-ota/day-08\|Day 08]] | Compressing Firmware Images: LZ4, zlib & Constrained Flash | Delta Updates | `#compression` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

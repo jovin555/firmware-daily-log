@@ -25,6 +25,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-07\|Day 07]] | Asymmetric Crypto: RSA Fundamentals & Key Sizes | Asymmetric Crypto | `#rsa` |
 
+| [[embedded-crypto/day-08\|Day 08]] | Elliptic Curve Cryptography: ECDSA & ECDH Explained | Asymmetric Crypto | `#ecc` `#ecdsa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

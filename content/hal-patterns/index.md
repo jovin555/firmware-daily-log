@@ -25,6 +25,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-07\|Day 07]] | Dependency Injection in Embedded C: Decoupling Drivers from Logic | C Patterns | `#dependency-injection` |
 
+| [[hal-patterns/day-08\|Day 08]] | State Machines for Driver Design: Table-Driven vs Switch-Based | Driver Design | `#state-machine` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

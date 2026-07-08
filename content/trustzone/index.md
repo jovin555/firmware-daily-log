@@ -59,6 +59,8 @@ ARM TrustZone, TF-A, MCUboot, OP-TEE and secure firmware.
 
 | [[trustzone/day-25\|Day 25]] | TF-M: Trusted Firmware-M Architecture & Secure Services | TF-M | `#tfm` `#secure-services` |
 
+| [[trustzone/day-26\|Day 26]] | TF-M PSA Crypto API: Key Management & Crypto Ops | TF-M | `#psa-crypto` `#keys` `#tfm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

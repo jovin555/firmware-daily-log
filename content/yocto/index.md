@@ -59,6 +59,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-25\|Day 25]] | Creating a Custom BSP Layer: meta-mybsp | Advanced | `#bsp` `#custom-layer` |
 
+| [[yocto/day-26\|Day 26]] | CI/CD for Yocto: KAS, Docker & GitHub Actions | Advanced | `#ci-cd` `#kas` `#docker` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

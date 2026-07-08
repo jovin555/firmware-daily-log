@@ -59,6 +59,8 @@ ftrace, perf, trace-cmd and eBPF programs for kernel observability.
 
 | [[ebpf/day-25\|Day 25]] | trace-cmd: Front-End for ftrace in Practice | ftrace | `#trace-cmd` `#ftrace` |
 
+| [[ebpf/day-26\|Day 26]] | perf: Performance Counters & Hardware PMU Events | perf | `#perf` `#pmu` `#counters` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

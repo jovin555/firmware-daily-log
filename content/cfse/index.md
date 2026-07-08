@@ -59,6 +59,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-25\|Day 25]] | FTA: Fault Tree Analysis - Top-Down Hazard Decomposition | Hazard Analysis | `#fta` `#fault-tree` |
 
+| [[cfse/day-26\|Day 26]] | HAZOP: Hazard & Operability Study for Embedded Systems | Hazard Analysis | `#hazop` `#hazard` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

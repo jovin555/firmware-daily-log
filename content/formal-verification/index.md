@@ -59,6 +59,8 @@ Frama-C, CBMC, Coverity and static analysis for safety-critical firmware.
 
 | [[formal-verification/day-25\|Day 25]] | Frama-C Architecture: Plugins, ACSL & Value Analysis | Frama-C | `#frama-c` `#acsl` `#value-analysis` |
 
+| [[formal-verification/day-26\|Day 26]] | ACSL Annotations: Preconditions, Postconditions & Invariants | Frama-C | `#acsl` `#contracts` `#annotations` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

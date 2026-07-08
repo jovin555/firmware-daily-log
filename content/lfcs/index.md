@@ -59,6 +59,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-25\|Day 25]] | systemd: Units, Targets & Dependency Graph | Operation of Running Systems | `#systemd` `#services` |
 
+| [[lfcs/day-26\|Day 26]] | systemctl & journalctl: Services & Logs | Operation of Running Systems | `#systemctl` `#logging` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
