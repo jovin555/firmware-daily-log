@@ -61,6 +61,8 @@ ISO 26262, IEC 61508, FMEA and safety cases for CFSE certification.
 
 | [[cfse/day-26\|Day 26]] | HAZOP: Hazard & Operability Study for Embedded Systems | Hazard Analysis | `#hazop` `#hazard` |
 
+| [[cfse/day-27\|Day 27]] | ISO 26262: Automotive Functional Safety & ASIL Levels | ISO 26262 | `#iso26262` `#asil` `#automotive` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

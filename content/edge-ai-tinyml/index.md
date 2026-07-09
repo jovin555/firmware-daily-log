@@ -27,6 +27,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-08\|Day 08]] | Interpreter vs Compiler Approaches: TFLite Micro vs microTVM | TFLite Micro | `#microtvm` `#compiler-approach` |
 
+| [[edge-ai-tinyml/day-09\|Day 09]] | CMSIS-NN: Optimized Neural Network Kernels for Cortex-M | CMSIS-NN | `#cmsis-nn` `#cortex-m` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

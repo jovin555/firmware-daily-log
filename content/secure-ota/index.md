@@ -27,6 +27,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-08\|Day 08]] | Compressing Firmware Images: LZ4, zlib & Constrained Flash | Delta Updates | `#compression` |
 
+| [[secure-ota/day-09\|Day 09]] | Update Verification: Signature Checks Before Boot Commit | Image & Metadata | `#signature-verification` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

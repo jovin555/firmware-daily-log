@@ -61,6 +61,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-26\|Day 26]] | systemctl & journalctl: Services & Logs | Operation of Running Systems | `#systemctl` `#logging` |
 
+| [[lfcs/day-27\|Day 27]] | Scheduling Tasks: cron, crontab, at | Operation of Running Systems | `#cron` `#scheduling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

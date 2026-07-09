@@ -27,6 +27,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-08\|Day 08]] | State Machines for Driver Design: Table-Driven vs Switch-Based | Driver Design | `#state-machine` |
 
+| [[hal-patterns/day-09\|Day 09]] | Observer Pattern for Sensor Data & Event Callbacks | Driver Design | `#observer-pattern` `#callbacks` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

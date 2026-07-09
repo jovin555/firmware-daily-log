@@ -61,6 +61,8 @@ Bare-metal Rust, Embassy async and Linux kernel modules in Rust.
 
 | [[rust-embedded/day-26\|Day 26]] | Lifetimes in Embedded: Static References & Peripherals | Rust Core | `#lifetimes` `#static` `#peripherals` |
 
+| [[rust-embedded/day-27\|Day 27]] | Peripheral Access Crates (PAC): Register-Level Access | HAL | `#pac` `#registers` `#svd2rust` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -61,6 +61,8 @@ BitBake, recipes, BSP layers and building production images.
 
 | [[yocto/day-26\|Day 26]] | CI/CD for Yocto: KAS, Docker & GitHub Actions | Advanced | `#ci-cd` `#kas` `#docker` |
 
+| [[yocto/day-27\|Day 27]] | Full Review: Build a Complete Embedded Image | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

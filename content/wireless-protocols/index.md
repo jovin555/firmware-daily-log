@@ -27,6 +27,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-08\|Day 08]] | Thread Networking: 6LoWPAN, Mesh Routing & Border Routers | Thread & Matter | `#thread` `#6lowpan` |
 
+| [[wireless-protocols/day-09\|Day 09]] | Matter Protocol: Application Layer Over Thread & Wi-Fi | Thread & Matter | `#matter` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

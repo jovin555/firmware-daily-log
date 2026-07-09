@@ -61,6 +61,8 @@ cpuidle, devfreq, energy profiling and Zephyr PM subsystem.
 
 | [[power-management/day-26\|Day 26]] | devfreq: Dynamic Voltage & Frequency Scaling | Peripheral Power | `#devfreq` `#dvfs` `#peripherals` |
 
+| [[power-management/day-27\|Day 27]] | Regulator Framework: Managing Power Rails in Drivers | Regulator | `#regulator` `#rails` `#framework` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

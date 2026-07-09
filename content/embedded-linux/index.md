@@ -61,6 +61,8 @@ Kernel drivers, device tree, cross-compilation, and OTA for production embedded 
 
 | [[embedded-linux/day-26\|Day 26]] | Full Review & Bring-up Checklist | Review | `#review` `#bringup` |
 
+| [[embedded-linux/day-27\|Day 27]] | Embedded Linux Architecture: Components & Boot Flow | Foundations | `#embedded-linux` `#architecture` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

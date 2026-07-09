@@ -27,6 +27,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-08\|Day 08]] | Insecure Network Services & Weak Default Credentials | Attack Surface | `#default-creds` `#network-services` |
 
+| [[threat-modeling/day-09\|Day 09]] | Buffer Overflows in C: Stack Smashing & Mitigations | Secure Coding | `#buffer-overflow` `#stack-smashing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

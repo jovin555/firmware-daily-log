@@ -61,6 +61,8 @@ Hardware-in-the-loop automation and embedded CI/CD pipelines.
 
 | [[hil-testing/day-26\|Day 26]] | OpenOCD & pyOCD: Programmatic Flash & Debug | HIL Infrastructure | `#openocd` `#pyocd` `#flashing` |
 
+| [[hil-testing/day-27\|Day 27]] | Serial Console Automation: pexpect & miniterm | HIL Infrastructure | `#serial` `#automation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

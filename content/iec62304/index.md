@@ -61,6 +61,8 @@ Medical device software lifecycle, FDA compliance and IEC 62304 standard.
 
 | [[iec62304/day-26\|Day 26]] | IEC 62304 Structure: Clauses, Scope & ISO 14971 | Regulatory Landscape | `#iec62304` `#overview` |
 
+| [[iec62304/day-27\|Day 27]] | Software Safety Classification: Class A, B & C | Regulatory Landscape | `#safety-class` `#classification` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -27,6 +27,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-08\|Day 08]] | Release Trains: Branching Strategies for Firmware Teams | Release | `#branching-strategy` `#release-train` |
 
+| [[embedded-cicd/day-09\|Day 09]] | Automated Release Notes Generation from Commit History | Release | `#release-notes` `#automation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

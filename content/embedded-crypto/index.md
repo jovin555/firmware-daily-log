@@ -27,6 +27,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-08\|Day 08]] | Elliptic Curve Cryptography: ECDSA & ECDH Explained | Asymmetric Crypto | `#ecc` `#ecdsa` |
 
+| [[embedded-crypto/day-09\|Day 09]] | Digital Signatures: Signing & Verifying Firmware Images | Hashing & Signatures | `#digital-signature` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

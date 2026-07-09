@@ -61,6 +61,8 @@ Modern C++17/20, RAII, MISRA C++ and Zephyr C++ APIs.
 
 | [[cpp-embedded/day-26\|Day 26]] | Templates for Zero-Cost Abstraction in Drivers | Templates | `#templates` `#zero-cost` `#drivers` |
 
+| [[cpp-embedded/day-27\|Day 27]] | Type Traits & SFINAE for Hardware-Specific Code | Templates | `#type-traits` `#sfinae` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

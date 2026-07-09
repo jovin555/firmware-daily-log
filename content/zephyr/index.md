@@ -61,6 +61,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-26\|Day 26]] | Twister: Automated Test Execution | Debugging & Testing | `#twister` `#ci` |
 
+| [[zephyr/day-27\|Day 27]] | GDB + OpenOCD: JTAG Debug on Real Hardware | Debugging & Testing | `#gdb` `#jtag` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
