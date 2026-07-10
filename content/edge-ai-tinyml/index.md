@@ -29,6 +29,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-09\|Day 09]] | CMSIS-NN: Optimized Neural Network Kernels for Cortex-M | CMSIS-NN | `#cmsis-nn` `#cortex-m` |
 
+| [[edge-ai-tinyml/day-10\|Day 10]] | Arena Memory Allocation & Tensor Arena Sizing | Memory & Optimization | `#tensor-arena` `#memory` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -29,6 +29,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-09\|Day 09]] | Observer Pattern for Sensor Data & Event Callbacks | Driver Design | `#observer-pattern` `#callbacks` |
 
+| [[hal-patterns/day-10\|Day 10]] | HAL Design in C++: Templates & Zero-Cost Abstraction | C++ Patterns | `#cpp-templates` `#zero-cost` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -11,6 +11,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
 
+| [[fmea/day-01\|Day 01]] | FMEA Fundamentals: Purpose, History & the AIAG-VDA Handbook | Foundations | `#aiag-vda` `#handbook` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

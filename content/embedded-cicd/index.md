@@ -29,6 +29,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-09\|Day 09]] | Automated Release Notes Generation from Commit History | Release | `#release-notes` `#automation` |
 
+| [[embedded-cicd/day-10\|Day 10]] | Infrastructure as Code for Build Farms: Ansible & Terraform Basics | Build Automation | `#iac` `#ansible` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

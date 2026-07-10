@@ -29,6 +29,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-09\|Day 09]] | Digital Signatures: Signing & Verifying Firmware Images | Hashing & Signatures | `#digital-signature` |
 
+| [[embedded-crypto/day-10\|Day 10]] | Key Exchange: Diffie-Hellman & ECDH in Constrained Devices | Asymmetric Crypto | `#key-exchange` `#ecdh` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -29,6 +29,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-09\|Day 09]] | Buffer Overflows in C: Stack Smashing & Mitigations | Secure Coding | `#buffer-overflow` `#stack-smashing` |
 
+| [[threat-modeling/day-10\|Day 10]] | Integer Overflows & Underflows in Firmware Arithmetic | Secure Coding | `#integer-overflow` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

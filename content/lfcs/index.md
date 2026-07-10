@@ -63,6 +63,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-27\|Day 27]] | Scheduling Tasks: cron, crontab, at | Operation of Running Systems | `#cron` `#scheduling` |
 
+| [[lfcs/day-28\|Day 28]] | Kernel Modules: lsmod, modprobe, insmod | Operation of Running Systems | `#kernel` `#modules` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

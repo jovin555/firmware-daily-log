@@ -29,6 +29,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-09\|Day 09]] | Matter Protocol: Application Layer Over Thread & Wi-Fi | Thread & Matter | `#matter` |
 
+| [[wireless-protocols/day-10\|Day 10]] | Matter Commissioning: Device Onboarding & Fabric Membership | Thread & Matter | `#matter` `#commissioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

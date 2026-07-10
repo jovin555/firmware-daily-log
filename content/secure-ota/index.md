@@ -29,6 +29,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-09\|Day 09]] | Update Verification: Signature Checks Before Boot Commit | Image & Metadata | `#signature-verification` |
 
+| [[secure-ota/day-10\|Day 10]] | Boot Confirmation & Health Checks: Marking an Update "Good" | Rollback & Recovery | `#boot-confirmation` `#health-check` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
