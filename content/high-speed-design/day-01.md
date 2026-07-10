@@ -1,5 +1,5 @@
 ---
-title: "Day 01: What Makes a Signal "High-Speed"? Rise Time vs Clock Frequency"
+title: "Day 01: What Makes a Signal 'High-Speed'? Rise Time vs Clock Frequency"
 date: 2026-07-10
 tags: ["til", "high-speed-design", "high-speed", "rise-time"]
 ---

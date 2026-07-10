@@ -10,7 +10,7 @@ Usage:
   python3 generate_post.py --list
 """
 
-import os, sys, argparse
+import os, sys, re, json, argparse
 from pathlib import Path
 from datetime import date
 from dotenv import load_dotenv
@@ -891,6 +891,23 @@ Write ONLY the post. No meta-commentary.
 """
 
 
+def fix_frontmatter(content: str, day: int, topic_title: str, topic_key: str, today: str, tags: list) -> str:
+    """Rebuild the frontmatter block with safely-escaped YAML values.
+
+    The LLM sometimes copies the raw topic title (which may contain double
+    quotes) straight into a double-quoted YAML string, producing invalid
+    YAML (e.g. title: "Day 01: ... "High-Speed"? ...") that breaks the
+    Quartz build. Regenerate the frontmatter from known-good Python values
+    instead of trusting the model's escaping.
+    """
+    m = re.match(r"^---\n.*?\n---\n", content, re.DOTALL)
+    body = content[m.end():] if m else content
+    title = json.dumps(f"Day {day:02d}: {topic_title}")
+    tag_list = json.dumps(["til", topic_key] + tags[:3])
+    frontmatter = f"---\ntitle: {title}\ndate: {today}\ntags: {tag_list}\n---\n"
+    return frontmatter + "\n" + body.lstrip("\n")
+
+
 def get_next_day(topic_dir: Path) -> int:
     existing = sorted(topic_dir.glob("day-*.md"))
     return 1 if not existing else int(existing[-1].stem.split("-")[1]) + 1
@@ -939,6 +956,7 @@ def generate_post(topic_key: str, day: int = None, dry_run: bool = False) -> Non
         temperature=0.4, max_tokens=4096,
     )
     content = resp.choices[0].message.content.strip()
+    content = fix_frontmatter(content, day, topic_title, topic_key, today, tags)
 
     if dry_run:
         print(content[:400]); return
