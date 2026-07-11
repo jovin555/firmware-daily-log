@@ -31,6 +31,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-10\|Day 10]] | Integer Overflows & Underflows in Firmware Arithmetic | Secure Coding | `#integer-overflow` |
 
+| [[threat-modeling/day-11\|Day 11]] | Format String & Injection Vulnerabilities in Embedded C | Secure Coding | `#format-string` `#injection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

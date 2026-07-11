@@ -31,6 +31,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-10\|Day 10]] | Key Exchange: Diffie-Hellman & ECDH in Constrained Devices | Asymmetric Crypto | `#key-exchange` `#ecdh` |
 
+| [[embedded-crypto/day-11\|Day 11]] | Random Number Generation: TRNG vs PRNG & Entropy Sources | Foundations | `#trng` `#entropy` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

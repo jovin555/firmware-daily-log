@@ -31,6 +31,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-10\|Day 10]] | Matter Commissioning: Device Onboarding & Fabric Membership | Thread & Matter | `#matter` `#commissioning` |
 
+| [[wireless-protocols/day-11\|Day 11]] | Zigbee vs Thread vs Matter: Choosing the Right Mesh Stack | Thread & Matter | `#zigbee` `#comparison` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

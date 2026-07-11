@@ -31,6 +31,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-10\|Day 10]] | Infrastructure as Code for Build Farms: Ansible & Terraform Basics | Build Automation | `#iac` `#ansible` |
 
+| [[embedded-cicd/day-11\|Day 11]] | Binary Size Regression Tracking Across Builds | Static Analysis | `#binary-size` `#regression` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

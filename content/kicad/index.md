@@ -13,6 +13,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-01\|Day 01]] | KiCad Overview: Project Structure & Workflow | Foundations | `#workflow` `#eda` |
 
+| [[kicad/day-02\|Day 02]] | Schematic Editor (Eeschema): Symbols, Wires & Buses | Schematic | `#eeschema` `#symbols` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

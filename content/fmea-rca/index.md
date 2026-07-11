@@ -13,6 +13,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-01\|Day 01]] | Why Root Cause Analysis? From Symptom to Systemic Fix | Foundations | `#rca` `#root-cause` |
 
+| [[fmea-rca/day-02\|Day 02]] | The 8D Process: Structure & When to Use It | 8D | `#8d` `#process` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

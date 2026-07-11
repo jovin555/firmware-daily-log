@@ -13,6 +13,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-01\|Day 01]] | RF Fundamentals: Frequency, Wavelength & the RF Spectrum for Embedded | Foundations | `#rf` `#spectrum` |
 
+| [[rf-design/day-02\|Day 02]] | RF PCB Materials: Dielectric Constant, Loss Tangent & Substrate Choice | Materials | `#dielectric` `#loss-tangent` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

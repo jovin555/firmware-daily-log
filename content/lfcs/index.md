@@ -65,6 +65,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-28\|Day 28]] | Kernel Modules: lsmod, modprobe, insmod | Operation of Running Systems | `#kernel` `#modules` |
 
+| [[lfcs/day-29\|Day 29]] | System Performance: top, vmstat, iostat, sar | Operation of Running Systems | `#performance` `#monitoring` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

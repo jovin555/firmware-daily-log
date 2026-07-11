@@ -65,6 +65,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-28\|Day 28]] | Custom Board Support: DTS & Kconfig | Advanced | `#bsp` `#board` |
 
+| [[zephyr/day-29\|Day 29]] | Writing a Custom Zephyr Driver | Advanced | `#drivers` `#custom` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

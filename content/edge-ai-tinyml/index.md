@@ -31,6 +31,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-10\|Day 10]] | Arena Memory Allocation & Tensor Arena Sizing | Memory & Optimization | `#tensor-arena` `#memory` |
 
+| [[edge-ai-tinyml/day-11\|Day 11]] | Fixed-Point Arithmetic: Implementing Quantized Math by Hand | Memory & Optimization | `#fixed-point` `#arithmetic` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
