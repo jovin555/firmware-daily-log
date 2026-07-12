@@ -33,6 +33,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-11\|Day 11]] | Automatic Rollback on Boot Failure & Watchdog-Triggered Recovery | Rollback & Recovery | `#rollback` `#watchdog` |
 
+| [[secure-ota/day-12\|Day 12]] | mender.io & RAUC: Open-Source OTA Framework Internals | Update Architectures | `#mender` `#rauc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

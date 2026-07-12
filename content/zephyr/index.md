@@ -67,6 +67,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-29\|Day 29]] | Writing a Custom Zephyr Driver | Advanced | `#drivers` `#custom` |
 
+| [[zephyr/day-30\|Day 30]] | MCUboot: Secure Bootloader & DFU | Advanced | `#mcuboot` `#bootloader` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

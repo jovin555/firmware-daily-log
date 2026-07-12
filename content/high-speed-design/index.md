@@ -15,6 +15,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-02\|Day 02]] | Transmission Line Theory: When Traces Become Transmission Lines | Foundations | `#transmission-line` |
 
+| [[high-speed-design/day-03\|Day 03]] | Controlled Impedance: Microstrip & Stripline Calculations | Signal Integrity | `#impedance` `#microstrip` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

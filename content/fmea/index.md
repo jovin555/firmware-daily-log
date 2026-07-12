@@ -15,6 +15,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-02\|Day 02]] | DFMEA vs PFMEA vs FMEA-MSR: Key Differences | Foundations | `#dfmea` `#pfmea` |
 
+| [[fmea/day-03\|Day 03]] | FMEA Team Formation & Scope Definition | Foundations | `#team` `#scope` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -15,6 +15,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-02\|Day 02]] | RF PCB Materials: Dielectric Constant, Loss Tangent & Substrate Choice | Materials | `#dielectric` `#loss-tangent` |
 
+| [[rf-design/day-03\|Day 03]] | RF Transmission Lines: Microstrip, Stripline & Grounded CPW | Transmission Lines | `#microstrip` `#cpw` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

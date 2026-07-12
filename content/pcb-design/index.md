@@ -15,6 +15,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-02\|Day 02]] | Schematic Capture Best Practices: Nets, Hierarchical Sheets & Annotations | Foundations | `#schematic` `#nets` |
 
+| [[pcb-design/day-03\|Day 03]] | Component Footprints & Land Patterns: IPC-7351 Standards | Foundations | `#footprints` `#ipc-7351` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

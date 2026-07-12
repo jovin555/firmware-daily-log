@@ -33,6 +33,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-11\|Day 11]] | CRTP for Compile-Time Polymorphic Drivers | C++ Patterns | `#crtp` |
 
+| [[hal-patterns/day-12\|Day 12]] | Strategy Pattern: Swappable Communication Backends (SPI/I2C/UART) | Driver Design | `#strategy-pattern` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

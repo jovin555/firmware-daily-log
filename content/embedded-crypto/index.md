@@ -33,6 +33,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-11\|Day 11]] | Random Number Generation: TRNG vs PRNG & Entropy Sources | Foundations | `#trng` `#entropy` |
 
+| [[embedded-crypto/day-12\|Day 12]] | Key Derivation Functions: HKDF & PBKDF2 | Key Management | `#kdf` `#hkdf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

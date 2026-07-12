@@ -15,6 +15,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-02\|Day 02]] | Zephyr on Nordic SoCs: nrfx HAL & Devicetree Overlays | Foundations | `#zephyr` `#nrfx` |
 
+| [[rust-zephyr-nrf54/day-03\|Day 03]] | Setting Up Rust + Zephyr: zephyr-rust Crate & Toolchain | Toolchain | `#zephyr-rust` `#toolchain` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

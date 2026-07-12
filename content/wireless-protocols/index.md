@@ -33,6 +33,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-11\|Day 11]] | Zigbee vs Thread vs Matter: Choosing the Right Mesh Stack | Thread & Matter | `#zigbee` `#comparison` |
 
+| [[wireless-protocols/day-12\|Day 12]] | LoRaWAN Architecture: End Devices, Gateways & Network Servers | LoRaWAN | `#lorawan` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

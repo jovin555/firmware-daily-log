@@ -15,6 +15,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-02\|Day 02]] | The 8D Process: Structure & When to Use It | 8D | `#8d` `#process` |
 
+| [[fmea-rca/day-03\|Day 03]] | D1-D2: Forming a Team & Defining the Problem Precisely | 8D | `#d1` `#d2` `#problem-definition` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

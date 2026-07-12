@@ -33,6 +33,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-11\|Day 11]] | Fixed-Point Arithmetic: Implementing Quantized Math by Hand | Memory & Optimization | `#fixed-point` `#arithmetic` |
 
+| [[edge-ai-tinyml/day-12\|Day 12]] | Optimizing Inference Latency: Loop Unrolling & SIMD on Cortex-M | Memory & Optimization | `#simd` `#latency` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -15,6 +15,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-02\|Day 02]] | Op-Amp Circuits: Inverting, Non-Inverting & Buffer Configurations | Analog | `#op-amp` `#buffer` |
 
+| [[circuit-design/day-03\|Day 03]] | Op-Amp Applications: Comparators, Integrators & Differentiators | Analog | `#comparator` `#integrator` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

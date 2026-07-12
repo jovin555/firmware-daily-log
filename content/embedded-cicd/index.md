@@ -33,6 +33,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-11\|Day 11]] | Binary Size Regression Tracking Across Builds | Static Analysis | `#binary-size` `#regression` |
 
+| [[embedded-cicd/day-12\|Day 12]] | SBOM Generation & Dependency CVE Scanning in the Pipeline | Static Analysis | `#sbom` `#cve-scanning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

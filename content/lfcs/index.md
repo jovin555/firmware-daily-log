@@ -67,6 +67,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-29\|Day 29]] | System Performance: top, vmstat, iostat, sar | Operation of Running Systems | `#performance` `#monitoring` |
 
+| [[lfcs/day-30\|Day 30]] | GRUB2 Configuration & Boot Recovery | Operation of Running Systems | `#grub` `#boot-recovery` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -33,6 +33,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-11\|Day 11]] | Format String & Injection Vulnerabilities in Embedded C | Secure Coding | `#format-string` `#injection` |
 
+| [[threat-modeling/day-12\|Day 12]] | Use-After-Free & Memory Corruption in Bare-Metal Systems | Secure Coding | `#uaf` `#memory-corruption` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
