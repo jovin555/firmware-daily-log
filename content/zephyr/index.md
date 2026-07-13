@@ -69,6 +69,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-30\|Day 30]] | MCUboot: Secure Bootloader & DFU | Advanced | `#mcuboot` `#bootloader` |
 
+| [[zephyr/day-31\|Day 31]] | TF-M: Trusted Firmware-M & Secure Services | Advanced | `#tfm` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

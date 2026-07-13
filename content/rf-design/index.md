@@ -17,6 +17,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-03\|Day 03]] | RF Transmission Lines: Microstrip, Stripline & Grounded CPW | Transmission Lines | `#microstrip` `#cpw` |
 
+| [[rf-design/day-04\|Day 04]] | Smith Chart Fundamentals & Impedance Matching | Matching | `#smith-chart` `#impedance-matching` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

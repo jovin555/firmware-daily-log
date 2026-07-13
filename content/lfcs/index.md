@@ -69,6 +69,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-30\|Day 30]] | GRUB2 Configuration & Boot Recovery | Operation of Running Systems | `#grub` `#boot-recovery` |
 
+| [[lfcs/day-31\|Day 31]] | Package Management: apt, dpkg, rpm, dnf | Operation of Running Systems | `#packages` `#apt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

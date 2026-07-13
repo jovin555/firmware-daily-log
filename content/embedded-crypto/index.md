@@ -35,6 +35,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-12\|Day 12]] | Key Derivation Functions: HKDF & PBKDF2 | Key Management | `#kdf` `#hkdf` |
 
+| [[embedded-crypto/day-13\|Day 13]] | Key Storage: Secure Elements, TPMs & OTP Fuses | Key Management | `#secure-element` `#tpm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

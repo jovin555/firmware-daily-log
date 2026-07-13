@@ -35,6 +35,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-12\|Day 12]] | Use-After-Free & Memory Corruption in Bare-Metal Systems | Secure Coding | `#uaf` `#memory-corruption` |
 
+| [[threat-modeling/day-13\|Day 13]] | MISRA C:2012: Rule Categories & Security Rationale | Standards | `#misra-c` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

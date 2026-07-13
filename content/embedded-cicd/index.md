@@ -35,6 +35,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-12\|Day 12]] | SBOM Generation & Dependency CVE Scanning in the Pipeline | Static Analysis | `#sbom` `#cve-scanning` |
 
+| [[embedded-cicd/day-13\|Day 13]] | Multi-Target Fan-Out Builds Across Product Variants | Build Automation | `#multi-target` `#fan-out` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

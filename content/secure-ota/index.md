@@ -35,6 +35,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-12\|Day 12]] | mender.io & RAUC: Open-Source OTA Framework Internals | Update Architectures | `#mender` `#rauc` |
 
+| [[secure-ota/day-13\|Day 13]] | AWS IoT & Azure Device Update Fleet OTA Pipelines | Fleet Management | `#aws-iot` `#azure-adu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

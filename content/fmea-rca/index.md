@@ -17,6 +17,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-03\|Day 03]] | D1-D2: Forming a Team & Defining the Problem Precisely | 8D | `#d1` `#d2` `#problem-definition` |
 
+| [[fmea-rca/day-04\|Day 04]] | D3: Interim Containment Actions | 8D | `#d3` `#containment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -17,6 +17,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-03\|Day 03]] | Op-Amp Applications: Comparators, Integrators & Differentiators | Analog | `#comparator` `#integrator` |
 
+| [[circuit-design/day-04\|Day 04]] | Power Supply Design: Linear Regulators (LDO) Basics | Power | `#ldo` `#linear-regulator` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

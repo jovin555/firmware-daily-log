@@ -17,6 +17,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-03\|Day 03]] | Setting Up Rust + Zephyr: zephyr-rust Crate & Toolchain | Toolchain | `#zephyr-rust` `#toolchain` |
 
+| [[rust-zephyr-nrf54/day-04\|Day 04]] | Building & Flashing a Rust Zephyr App for nRF54LM20 | Toolchain | `#build` `#flash` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

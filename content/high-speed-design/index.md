@@ -17,6 +17,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-03\|Day 03]] | Controlled Impedance: Microstrip & Stripline Calculations | Signal Integrity | `#impedance` `#microstrip` |
 
+| [[high-speed-design/day-04\|Day 04]] | Reflections & Termination Strategies: Series, Parallel & AC Termination | Signal Integrity | `#termination` `#reflections` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

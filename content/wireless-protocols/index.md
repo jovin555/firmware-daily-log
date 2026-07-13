@@ -35,6 +35,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-12\|Day 12]] | LoRaWAN Architecture: End Devices, Gateways & Network Servers | LoRaWAN | `#lorawan` |
 
+| [[wireless-protocols/day-13\|Day 13]] | LoRaWAN Classes A/B/C & Adaptive Data Rate | LoRaWAN | `#lorawan` `#adr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

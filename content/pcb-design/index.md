@@ -17,6 +17,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-03\|Day 03]] | Component Footprints & Land Patterns: IPC-7351 Standards | Foundations | `#footprints` `#ipc-7351` |
 
+| [[pcb-design/day-04\|Day 04]] | PCB Stackup Design: 2-Layer to 8-Layer Boards | Stackup | `#stackup` `#layers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

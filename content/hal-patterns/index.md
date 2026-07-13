@@ -35,6 +35,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-12\|Day 12]] | Strategy Pattern: Swappable Communication Backends (SPI/I2C/UART) | Driver Design | `#strategy-pattern` |
 
+| [[hal-patterns/day-13\|Day 13]] | Factory Pattern for Peripheral Driver Instantiation | C++ Patterns | `#factory-pattern` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

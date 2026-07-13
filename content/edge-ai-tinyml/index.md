@@ -35,6 +35,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-12\|Day 12]] | Optimizing Inference Latency: Loop Unrolling & SIMD on Cortex-M | Memory & Optimization | `#simd` `#latency` |
 
+| [[edge-ai-tinyml/day-13\|Day 13]] | Model Size vs Accuracy Tradeoffs for Flash-Constrained MCUs | Memory & Optimization | `#model-size` `#tradeoffs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

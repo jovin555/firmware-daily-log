@@ -17,6 +17,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-03\|Day 03]] | FMEA Team Formation & Scope Definition | Foundations | `#team` `#scope` |
 
+| [[fmea/day-04\|Day 04]] | Function Analysis: Block Diagrams & P-Diagrams | Function Analysis | `#function-analysis` `#p-diagram` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -17,6 +17,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-03\|Day 03]] | Creating Custom Symbols in KiCad Symbol Editor | Schematic | `#symbol-editor` `#custom-symbols` |
 
+| [[kicad/day-04\|Day 04]] | Hierarchical Sheets & Multi-Sheet Schematics | Schematic | `#hierarchical-sheets` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
