@@ -19,6 +19,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-04\|Day 04]] | Hierarchical Sheets & Multi-Sheet Schematics | Schematic | `#hierarchical-sheets` |
 
+| [[kicad/day-05\|Day 05]] | ERC (Electrical Rules Check): Catching Schematic Errors | Schematic | `#erc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

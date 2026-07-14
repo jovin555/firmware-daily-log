@@ -19,6 +19,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-04\|Day 04]] | Function Analysis: Block Diagrams & P-Diagrams | Function Analysis | `#function-analysis` `#p-diagram` |
 
+| [[fmea/day-05\|Day 05]] | Failure Chain: Failure Mode, Effect & Cause Relationships | Failure Analysis | `#failure-mode` `#failure-chain` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

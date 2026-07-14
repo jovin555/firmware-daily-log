@@ -19,6 +19,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-04\|Day 04]] | Reflections & Termination Strategies: Series, Parallel & AC Termination | Signal Integrity | `#termination` `#reflections` |
 
+| [[high-speed-design/day-05\|Day 05]] | Differential Pairs: USB, LVDS, PCIe Routing Rules | High-Speed | `#differential-pairs` `#routing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

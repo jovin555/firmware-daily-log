@@ -71,6 +71,8 @@ Threads, BLE, HAL drivers, device drivers and power management in Zephyr.
 
 | [[zephyr/day-31\|Day 31]] | TF-M: Trusted Firmware-M & Secure Services | Advanced | `#tfm` `#security` |
 
+| [[zephyr/day-32\|Day 32]] | Full Review & Project: BLE Sensor Node | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

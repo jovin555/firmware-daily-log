@@ -19,6 +19,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-04\|Day 04]] | Power Supply Design: Linear Regulators (LDO) Basics | Power | `#ldo` `#linear-regulator` |
 
+| [[circuit-design/day-05\|Day 05]] | Switching Regulators: Buck, Boost & Buck-Boost Topologies | Power | `#buck` `#boost` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

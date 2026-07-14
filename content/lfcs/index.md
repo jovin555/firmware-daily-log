@@ -71,6 +71,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-31\|Day 31]] | Package Management: apt, dpkg, rpm, dnf | Operation of Running Systems | `#packages` `#apt` |
 
+| [[lfcs/day-32\|Day 32]] | Disk Partitioning: fdisk, gdisk | Storage Management | `#partitions` `#disks` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

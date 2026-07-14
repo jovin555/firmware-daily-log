@@ -37,6 +37,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-13\|Day 13]] | Model Size vs Accuracy Tradeoffs for Flash-Constrained MCUs | Memory & Optimization | `#model-size` `#tradeoffs` |
 
+| [[edge-ai-tinyml/day-14\|Day 14]] | Edge Impulse: End-to-End TinyML Pipeline for Embedded Sensors | Applications | `#edge-impulse` `#pipeline` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

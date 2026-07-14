@@ -19,6 +19,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-04\|Day 04]] | D3: Interim Containment Actions | 8D | `#d3` `#containment` |
 
+| [[fmea-rca/day-05\|Day 05]] | 5 Whys: Technique, Pitfalls & Avoiding Shallow Answers | RCA Techniques | `#5-whys` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

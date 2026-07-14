@@ -37,6 +37,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-13\|Day 13]] | Key Storage: Secure Elements, TPMs & OTP Fuses | Key Management | `#secure-element` `#tpm` |
 
+| [[embedded-crypto/day-14\|Day 14]] | Key Provisioning: Factory Injection & Per-Device Keys | Key Management | `#provisioning` `#per-device-keys` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

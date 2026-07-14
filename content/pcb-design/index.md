@@ -19,6 +19,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-04\|Day 04]] | PCB Stackup Design: 2-Layer to 8-Layer Boards | Stackup | `#stackup` `#layers` |
 
+| [[pcb-design/day-05\|Day 05]] | Ground Plane & Return Path Design | Grounding | `#ground-plane` `#return-path` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

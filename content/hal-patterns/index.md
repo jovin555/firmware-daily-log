@@ -37,6 +37,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-13\|Day 13]] | Factory Pattern for Peripheral Driver Instantiation | C++ Patterns | `#factory-pattern` |
 
+| [[hal-patterns/day-14\|Day 14]] | Device Driver Model: Init, Configure, Read/Write, Deinit Contracts | Driver Design | `#driver-model` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

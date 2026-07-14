@@ -37,6 +37,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-13\|Day 13]] | LoRaWAN Classes A/B/C & Adaptive Data Rate | LoRaWAN | `#lorawan` `#adr` |
 
+| [[wireless-protocols/day-14\|Day 14]] | Cellular IoT: NB-IoT vs LTE-M Tradeoffs for Battery-Powered Devices | Cellular IoT | `#nb-iot` `#lte-m` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
