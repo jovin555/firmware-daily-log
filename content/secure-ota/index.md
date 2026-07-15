@@ -39,6 +39,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-14\|Day 14]] | Staged Rollouts: Canary Groups & Percentage-Based Deployment | Fleet Management | `#staged-rollout` `#canary` |
 
+| [[secure-ota/day-15\|Day 15]] | Update Scheduling: Bandwidth, Power & Maintenance Windows | Fleet Management | `#scheduling` `#power-budget` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

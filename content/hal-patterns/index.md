@@ -39,6 +39,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-14\|Day 14]] | Device Driver Model: Init, Configure, Read/Write, Deinit Contracts | Driver Design | `#driver-model` |
 
+| [[hal-patterns/day-15\|Day 15]] | Porting a HAL Across Vendors: STM32 HAL vs MCUXpresso vs nRFx | Portability | `#multi-vendor` `#porting` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -21,6 +21,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-05\|Day 05]] | Failure Chain: Failure Mode, Effect & Cause Relationships | Failure Analysis | `#failure-mode` `#failure-chain` |
 
+| [[fmea/day-06\|Day 06]] | Severity Rating: AIAG-VDA Scales & Customer Impact | Risk Assessment | `#severity` `#rating` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

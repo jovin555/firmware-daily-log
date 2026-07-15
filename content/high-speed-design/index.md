@@ -21,6 +21,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-05\|Day 05]] | Differential Pairs: USB, LVDS, PCIe Routing Rules | High-Speed | `#differential-pairs` `#routing` |
 
+| [[high-speed-design/day-06\|Day 06]] | Length Matching & Skew Budget Analysis | High-Speed | `#length-matching` `#skew` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

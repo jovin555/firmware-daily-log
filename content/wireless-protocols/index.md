@@ -39,6 +39,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-14\|Day 14]] | Cellular IoT: NB-IoT vs LTE-M Tradeoffs for Battery-Powered Devices | Cellular IoT | `#nb-iot` `#lte-m` |
 
+| [[wireless-protocols/day-15\|Day 15]] | PSM & eDRX: Cellular Power-Saving Modes Explained | Cellular IoT | `#psm` `#edrx` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

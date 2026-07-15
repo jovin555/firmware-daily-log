@@ -39,6 +39,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-14\|Day 14]] | Deployment Gates: Manual Approval Before Field Rollout | Release | `#deployment-gate` |
 
+| [[embedded-cicd/day-15\|Day 15]] | Canary & Staged Deployment Pipelines for Firmware | Release | `#canary` `#staged-deployment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -21,6 +21,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-05\|Day 05]] | Switching Regulators: Buck, Boost & Buck-Boost Topologies | Power | `#buck` `#boost` |
 
+| [[circuit-design/day-06\|Day 06]] | Power Supply Design: Loop Stability & Compensation | Power | `#loop-stability` `#compensation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

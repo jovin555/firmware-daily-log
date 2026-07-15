@@ -73,6 +73,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-32\|Day 32]] | Disk Partitioning: fdisk, gdisk | Storage Management | `#partitions` `#disks` |
 
+| [[lfcs/day-33\|Day 33]] | Filesystems: mkfs, fsck & Filesystem Types | Storage Management | `#filesystems` `#mkfs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

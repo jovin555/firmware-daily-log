@@ -39,6 +39,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-14\|Day 14]] | Key Provisioning: Factory Injection & Per-Device Keys | Key Management | `#provisioning` `#per-device-keys` |
 
+| [[embedded-crypto/day-15\|Day 15]] | Key Rotation & Lifecycle Management in the Field | Key Management | `#key-rotation` `#lifecycle` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -21,6 +21,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-05\|Day 05]] | Devicetree Bindings in Rust: Accessing Zephyr DT Nodes | Devicetree | `#devicetree` `#rust` |
 
+| [[rust-zephyr-nrf54/day-06\|Day 06]] | GPIO & LED Control in Rust on Zephyr | Peripherals | `#gpio` `#zephyr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

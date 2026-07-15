@@ -21,6 +21,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-05\|Day 05]] | 5 Whys: Technique, Pitfalls & Avoiding Shallow Answers | RCA Techniques | `#5-whys` |
 
+| [[fmea-rca/day-06\|Day 06]] | Fishbone/Ishikawa Diagrams: Categorizing Potential Causes | RCA Techniques | `#fishbone` `#ishikawa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

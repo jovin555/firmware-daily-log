@@ -21,6 +21,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-05\|Day 05]] | Ground Plane & Return Path Design | Grounding | `#ground-plane` `#return-path` |
 
+| [[pcb-design/day-06\|Day 06]] | Power Distribution Network (PDN) Design & Decoupling Strategy | Power Integrity | `#pdn` `#decoupling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-14\|Day 14]] | Edge Impulse: End-to-End TinyML Pipeline for Embedded Sensors | Applications | `#edge-impulse` `#pipeline` |
 
+| [[edge-ai-tinyml/day-15\|Day 15]] | Keyword Spotting: Always-On Audio Wake-Word Detection | Applications | `#keyword-spotting` `#audio` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

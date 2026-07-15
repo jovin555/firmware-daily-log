@@ -21,6 +21,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-05\|Day 05]] | ERC (Electrical Rules Check): Catching Schematic Errors | Schematic | `#erc` |
 
+| [[kicad/day-06\|Day 06]] | Footprint Editor: Custom Footprints & 3D Models | Footprints | `#footprint-editor` `#3d-models` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

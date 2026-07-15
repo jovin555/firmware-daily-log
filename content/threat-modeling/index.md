@@ -39,6 +39,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-14\|Day 14]] | MISRA C++ & AUTOSAR C++14 for Safety-Critical Firmware | Standards | `#misra-cpp` `#autosar` |
 
+| [[threat-modeling/day-15\|Day 15]] | CERT C Secure Coding Standard: Key Rules for Embedded | Standards | `#cert-c` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
