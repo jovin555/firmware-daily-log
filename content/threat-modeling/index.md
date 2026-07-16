@@ -41,6 +41,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-15\|Day 15]] | CERT C Secure Coding Standard: Key Rules for Embedded | Standards | `#cert-c` |
 
+| [[threat-modeling/day-16\|Day 16]] | Static Analysis for Security: Coverity, Klocwork & Cppcheck | Secure Coding | `#static-analysis` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

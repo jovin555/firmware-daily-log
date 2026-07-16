@@ -23,6 +23,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-06\|Day 06]] | Power Distribution Network (PDN) Design & Decoupling Strategy | Power Integrity | `#pdn` `#decoupling` |
 
+| [[pcb-design/day-07\|Day 07]] | Thermal Design: Copper Pours, Thermal Vias & Heat Sinking | Thermal | `#thermal` `#copper-pour` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

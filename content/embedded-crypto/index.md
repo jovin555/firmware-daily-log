@@ -41,6 +41,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-15\|Day 15]] | Key Rotation & Lifecycle Management in the Field | Key Management | `#key-rotation` `#lifecycle` |
 
+| [[embedded-crypto/day-16\|Day 16]] | Hardware Crypto Accelerators: CryptoCell, SE05x & ATECC608 | Hardware Crypto | `#crypto-accelerator` `#atecc608` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -23,6 +23,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-06\|Day 06]] | Severity Rating: AIAG-VDA Scales & Customer Impact | Risk Assessment | `#severity` `#rating` |
 
+| [[fmea/day-07\|Day 07]] | Occurrence Rating: Historical Data & Detection Controls | Risk Assessment | `#occurrence` `#rating` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

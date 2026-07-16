@@ -41,6 +41,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-15\|Day 15]] | PSM & eDRX: Cellular Power-Saving Modes Explained | Cellular IoT | `#psm` `#edrx` |
 
+| [[wireless-protocols/day-16\|Day 16]] | Modem AT Commands & Cellular Firmware Integration Patterns | Cellular IoT | `#at-commands` `#modem` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

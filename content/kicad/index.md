@@ -23,6 +23,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-06\|Day 06]] | Footprint Editor: Custom Footprints & 3D Models | Footprints | `#footprint-editor` `#3d-models` |
 
+| [[kicad/day-07\|Day 07]] | Assigning Footprints & Netlist Generation | Footprints | `#netlist` `#footprint-assignment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -23,6 +23,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-06\|Day 06]] | Length Matching & Skew Budget Analysis | High-Speed | `#length-matching` `#skew` |
 
+| [[high-speed-design/day-07\|Day 07]] | Via Stubs & Backdrilling for High-Speed Signals | High-Speed | `#via-stubs` `#backdrilling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

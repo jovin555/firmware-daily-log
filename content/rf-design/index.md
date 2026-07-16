@@ -23,6 +23,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-06\|Day 06]] | S-Parameters: Understanding S11, S21 & Return Loss | Characterization | `#s-parameters` `#return-loss` |
 
+| [[rf-design/day-07\|Day 07]] | Antenna Basics: Monopole, PIFA & Chip Antennas for Embedded | Antennas | `#antenna` `#pifa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

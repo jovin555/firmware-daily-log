@@ -41,6 +41,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-15\|Day 15]] | Keyword Spotting: Always-On Audio Wake-Word Detection | Applications | `#keyword-spotting` `#audio` |
 
+| [[edge-ai-tinyml/day-16\|Day 16]] | Vibration & Anomaly Detection with TinyML on Accelerometers | Applications | `#anomaly-detection` `#sensors` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

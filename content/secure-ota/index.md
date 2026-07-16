@@ -41,6 +41,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-15\|Day 15]] | Update Scheduling: Bandwidth, Power & Maintenance Windows | Fleet Management | `#scheduling` `#power-budget` |
 
+| [[secure-ota/day-16\|Day 16]] | Resuming Interrupted Downloads: Chunked Transfer & Integrity | Delta Updates | `#chunked-transfer` `#resumability` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

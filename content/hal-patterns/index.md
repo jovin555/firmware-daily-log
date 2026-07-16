@@ -41,6 +41,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-15\|Day 15]] | Porting a HAL Across Vendors: STM32 HAL vs MCUXpresso vs nRFx | Portability | `#multi-vendor` `#porting` |
 
+| [[hal-patterns/day-16\|Day 16]] | Zephyr Device Driver Model: device_api & DEVICE_DT_DEFINE | Portability | `#zephyr` `#device-model` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

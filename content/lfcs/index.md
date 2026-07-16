@@ -75,6 +75,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-33\|Day 33]] | Filesystems: mkfs, fsck & Filesystem Types | Storage Management | `#filesystems` `#mkfs` |
 
+| [[lfcs/day-34\|Day 34]] | Mounting: mount, umount & /etc/fstab | Storage Management | `#mount` `#fstab` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

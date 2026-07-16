@@ -41,6 +41,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-15\|Day 15]] | Canary & Staged Deployment Pipelines for Firmware | Release | `#canary` `#staged-deployment` |
 
+| [[embedded-cicd/day-16\|Day 16]] | Metrics & Dashboards: Tracking Build Health & Flaky Tests | Test Automation | `#metrics` `#dashboards` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

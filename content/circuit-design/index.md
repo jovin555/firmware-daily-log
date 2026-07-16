@@ -23,6 +23,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-06\|Day 06]] | Power Supply Design: Loop Stability & Compensation | Power | `#loop-stability` `#compensation` |
 
+| [[circuit-design/day-07\|Day 07]] | Battery Charging Circuits: Li-Ion/LiPo Charge Management ICs | Power | `#li-ion` `#charging` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
