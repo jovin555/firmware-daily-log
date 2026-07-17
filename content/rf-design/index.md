@@ -25,6 +25,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-07\|Day 07]] | Antenna Basics: Monopole, PIFA & Chip Antennas for Embedded | Antennas | `#antenna` `#pifa` |
 
+| [[rf-design/day-08\|Day 08]] | Antenna Placement & PCB Keep-Out Zones | Antennas | `#antenna-placement` `#keep-out` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

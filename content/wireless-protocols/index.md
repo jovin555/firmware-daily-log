@@ -43,6 +43,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-16\|Day 16]] | Modem AT Commands & Cellular Firmware Integration Patterns | Cellular IoT | `#at-commands` `#modem` |
 
+| [[wireless-protocols/day-17\|Day 17]] | Wi-Fi Low Power: Wi-Fi HaLow & Power-Save Modes for IoT | Networking Stack | `#wifi-halow` `#power-save` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

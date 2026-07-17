@@ -25,6 +25,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-07\|Day 07]] | Occurrence Rating: Historical Data & Detection Controls | Risk Assessment | `#occurrence` `#rating` |
 
+| [[fmea/day-08\|Day 08]] | Detection Rating: Current Controls & Test Coverage | Risk Assessment | `#detection` `#rating` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

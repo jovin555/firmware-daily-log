@@ -25,6 +25,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-07\|Day 07]] | Via Stubs & Backdrilling for High-Speed Signals | High-Speed | `#via-stubs` `#backdrilling` |
 
+| [[high-speed-design/day-08\|Day 08]] | Crosstalk: Near-End & Far-End Coupling Mitigation | Signal Integrity | `#crosstalk` `#coupling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

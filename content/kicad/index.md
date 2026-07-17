@@ -25,6 +25,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-07\|Day 07]] | Assigning Footprints & Netlist Generation | Footprints | `#netlist` `#footprint-assignment` |
 
+| [[kicad/day-08\|Day 08]] | PCB Editor (Pcbnew): Layers, Zones & Board Setup | PCB Editor | `#pcbnew` `#zones` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

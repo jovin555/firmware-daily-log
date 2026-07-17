@@ -25,6 +25,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-07\|Day 07]] | Battery Charging Circuits: Li-Ion/LiPo Charge Management ICs | Power | `#li-ion` `#charging` |
 
+| [[circuit-design/day-08\|Day 08]] | Filter Design: RC, RL & Active Filters | Analog | `#filters` `#rc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

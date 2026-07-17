@@ -43,6 +43,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-16\|Day 16]] | Metrics & Dashboards: Tracking Build Health & Flaky Tests | Test Automation | `#metrics` `#dashboards` |
 
+| [[embedded-cicd/day-17\|Day 17]] | Rollback Pipelines: Automating Recovery from a Bad Release | Release | `#rollback` `#pipeline` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

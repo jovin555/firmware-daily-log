@@ -25,6 +25,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-07\|Day 07]] | UART Communication: Async Rust Zephyr Drivers | Peripherals | `#uart` `#async` |
 
+| [[rust-zephyr-nrf54/day-08\|Day 08]] | SPI & I2C Peripheral Access in Rust on nRF54LM20 | Peripherals | `#spi` `#i2c` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

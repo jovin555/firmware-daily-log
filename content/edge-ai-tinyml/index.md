@@ -43,6 +43,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-16\|Day 16]] | Vibration & Anomaly Detection with TinyML on Accelerometers | Applications | `#anomaly-detection` `#sensors` |
 
+| [[edge-ai-tinyml/day-17\|Day 17]] | TinyML for Computer Vision: Person Detection on a Cortex-M7 | Applications | `#vision` `#person-detection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

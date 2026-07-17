@@ -77,6 +77,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-34\|Day 34]] | Mounting: mount, umount & /etc/fstab | Storage Management | `#mount` `#fstab` |
 
+| [[lfcs/day-35\|Day 35]] | LVM: PVs, VGs, LVs & Snapshots | Storage Management | `#lvm` `#storage` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

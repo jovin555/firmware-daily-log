@@ -43,6 +43,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-16\|Day 16]] | Resuming Interrupted Downloads: Chunked Transfer & Integrity | Delta Updates | `#chunked-transfer` `#resumability` |
 
+| [[secure-ota/day-17\|Day 17]] | Multi-Image Updates: Bootloader, App & Peripheral Firmware Together | Image & Metadata | `#multi-image` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

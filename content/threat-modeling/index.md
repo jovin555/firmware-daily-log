@@ -43,6 +43,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-16\|Day 16]] | Static Analysis for Security: Coverity, Klocwork & Cppcheck | Secure Coding | `#static-analysis` |
 
+| [[threat-modeling/day-17\|Day 17]] | Fuzzing Embedded Firmware: AFL++, libFuzzer & Hardware-in-the-Loop | Secure Coding | `#fuzzing` `#afl` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

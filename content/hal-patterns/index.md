@@ -43,6 +43,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-16\|Day 16]] | Zephyr Device Driver Model: device_api & DEVICE_DT_DEFINE | Portability | `#zephyr` `#device-model` |
 
+| [[hal-patterns/day-17\|Day 17]] | Board Support Packages: Structuring Board-Specific Code | Layered Architecture | `#bsp` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
