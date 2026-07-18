@@ -27,6 +27,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-08\|Day 08]] | SPI & I2C Peripheral Access in Rust on nRF54LM20 | Peripherals | `#spi` `#i2c` |
 
+| [[rust-zephyr-nrf54/day-09\|Day 09]] | Zephyr Kernel Objects from Rust: Threads, Semaphores & Mutexes | Kernel | `#threads` `#semaphores` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

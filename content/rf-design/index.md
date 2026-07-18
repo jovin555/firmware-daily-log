@@ -27,6 +27,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-08\|Day 08]] | Antenna Placement & PCB Keep-Out Zones | Antennas | `#antenna-placement` `#keep-out` |
 
+| [[rf-design/day-09\|Day 09]] | RF Front-End Design: LNAs, PAs & Filters | Front-End | `#lna` `#pa` `#filters` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

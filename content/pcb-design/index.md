@@ -27,6 +27,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-08\|Day 08]] | Component Placement Strategy: Grouping, Orientation & Test Points | Layout | `#placement` `#test-points` |
 
+| [[pcb-design/day-09\|Day 09]] | Via Types: Through-Hole, Blind, Buried & Via-in-Pad | Layout | `#vias` `#via-in-pad` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

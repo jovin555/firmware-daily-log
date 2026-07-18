@@ -45,6 +45,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-17\|Day 17]] | Fuzzing Embedded Firmware: AFL++, libFuzzer & Hardware-in-the-Loop | Secure Coding | `#fuzzing` `#afl` |
 
+| [[threat-modeling/day-18\|Day 18]] | Command Injection & Insecure Deserialization in IoT Protocols | Attack Surface | `#command-injection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

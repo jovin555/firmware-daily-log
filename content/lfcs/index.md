@@ -79,6 +79,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-35\|Day 35]] | LVM: PVs, VGs, LVs & Snapshots | Storage Management | `#lvm` `#storage` |
 
+| [[lfcs/day-36\|Day 36]] | Swap, RAID Basics & NFS Client Mounts | Storage Management | `#swap` `#raid` `#nfs` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

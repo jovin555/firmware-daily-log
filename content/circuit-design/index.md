@@ -27,6 +27,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-08\|Day 08]] | Filter Design: RC, RL & Active Filters | Analog | `#filters` `#rc` |
 
+| [[circuit-design/day-09\|Day 09]] | Analog-to-Digital Conversion: ADC Types & Sampling Theory | Mixed-Signal | `#adc` `#sampling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

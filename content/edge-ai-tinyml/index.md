@@ -45,6 +45,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-17\|Day 17]] | TinyML for Computer Vision: Person Detection on a Cortex-M7 | Applications | `#vision` `#person-detection` |
 
+| [[edge-ai-tinyml/day-18\|Day 18]] | Neural Network Accelerators in Modern MCUs: Ethos-U & MVE | CMSIS-NN | `#ethos-u` `#mve` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

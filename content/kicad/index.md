@@ -27,6 +27,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-08\|Day 08]] | PCB Editor (Pcbnew): Layers, Zones & Board Setup | PCB Editor | `#pcbnew` `#zones` |
 
+| [[kicad/day-09\|Day 09]] | Interactive Router: Push & Shove, Diff Pair Routing | PCB Editor | `#interactive-router` `#diff-pair` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -27,6 +27,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-08\|Day 08]] | Crosstalk: Near-End & Far-End Coupling Mitigation | Signal Integrity | `#crosstalk` `#coupling` |
 
+| [[high-speed-design/day-09\|Day 09]] | Power Integrity: Decoupling Capacitor Placement & PDN Impedance | Power Integrity | `#power-integrity` `#decoupling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

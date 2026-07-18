@@ -45,6 +45,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-17\|Day 17]] | Rollback Pipelines: Automating Recovery from a Bad Release | Release | `#rollback` `#pipeline` |
 
+| [[embedded-cicd/day-18\|Day 18]] | Nightly & Long-Running Soak Test Orchestration | Test Automation | `#nightly-build` `#soak-test` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

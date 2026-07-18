@@ -45,6 +45,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-17\|Day 17]] | Wi-Fi Low Power: Wi-Fi HaLow & Power-Save Modes for IoT | Networking Stack | `#wifi-halow` `#power-save` |
 
+| [[wireless-protocols/day-18\|Day 18]] | CoAP: Constrained Application Protocol Over UDP | Networking Stack | `#coap` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -27,6 +27,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-08\|Day 08]] | Detection Rating: Current Controls & Test Coverage | Risk Assessment | `#detection` `#rating` |
 
+| [[fmea/day-09\|Day 09]] | RPN vs Action Priority (AP): Old vs New AIAG-VDA Approach | Risk Assessment | `#rpn` `#action-priority` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

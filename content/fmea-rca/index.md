@@ -27,6 +27,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-08\|Day 08]] | Is/Is-Not Analysis: Bounding the Problem Scope | RCA Techniques | `#is-is-not` |
 
+| [[fmea-rca/day-09\|Day 09]] | D4: Root Cause Identification & Verification | 8D | `#d4` `#root-cause` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

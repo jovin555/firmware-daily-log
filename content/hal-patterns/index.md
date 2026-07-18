@@ -45,6 +45,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-17\|Day 17]] | Board Support Packages: Structuring Board-Specific Code | Layered Architecture | `#bsp` |
 
+| [[hal-patterns/day-18\|Day 18]] | Peripheral Drivers as Reusable Components: Versioning & APIs | Driver Design | `#reusability` `#api-versioning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

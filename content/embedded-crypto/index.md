@@ -45,6 +45,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-17\|Day 17]] | mbedTLS & wolfSSL: Embedded TLS Stack Internals | Hardware Crypto | `#mbedtls` `#wolfssl` |
 
+| [[embedded-crypto/day-18\|Day 18]] | TLS 1.3 Handshake on a Microcontroller: Constraints & Optimizations | Protocols | `#tls13` `#handshake` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

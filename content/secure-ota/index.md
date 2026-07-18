@@ -45,6 +45,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-17\|Day 17]] | Multi-Image Updates: Bootloader, App & Peripheral Firmware Together | Image & Metadata | `#multi-image` |
 
+| [[secure-ota/day-18\|Day 18]] | OTA Over BLE: GATT-Based DFU & Throughput Constraints | Update Architectures | `#ble-dfu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
