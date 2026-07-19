@@ -29,6 +29,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-09\|Day 09]] | D4: Root Cause Identification & Verification | 8D | `#d4` `#root-cause` |
 
+| [[fmea-rca/day-10\|Day 10]] | D5-D6: Permanent Corrective Actions & Validation | 8D | `#d5` `#d6` `#corrective-action` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

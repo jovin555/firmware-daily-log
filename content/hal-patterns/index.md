@@ -47,6 +47,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-18\|Day 18]] | Peripheral Drivers as Reusable Components: Versioning & APIs | Driver Design | `#reusability` `#api-versioning` |
 
+| [[hal-patterns/day-19\|Day 19]] | Error Handling Patterns Across HAL Layers: Codes vs Exceptions | Driver Design | `#error-handling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

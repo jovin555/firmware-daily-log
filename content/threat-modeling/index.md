@@ -47,6 +47,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-18\|Day 18]] | Command Injection & Insecure Deserialization in IoT Protocols | Attack Surface | `#command-injection` |
 
+| [[threat-modeling/day-19\|Day 19]] | Denial-of-Service Resilience: Input Validation & Rate Limiting | Secure Coding | `#dos-resilience` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

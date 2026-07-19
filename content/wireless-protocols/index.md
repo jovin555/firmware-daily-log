@@ -47,6 +47,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-18\|Day 18]] | CoAP: Constrained Application Protocol Over UDP | Networking Stack | `#coap` |
 
+| [[wireless-protocols/day-19\|Day 19]] | MQTT & MQTT-SN for Constrained Networks | Networking Stack | `#mqtt` `#mqtt-sn` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

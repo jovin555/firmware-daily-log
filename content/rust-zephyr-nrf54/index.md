@@ -29,6 +29,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-09\|Day 09]] | Zephyr Kernel Objects from Rust: Threads, Semaphores & Mutexes | Kernel | `#threads` `#semaphores` |
 
+| [[rust-zephyr-nrf54/day-10\|Day 10]] | Interrupt Handling: Rust ISRs in a Zephyr Context | Interrupts | `#interrupts` `#isr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

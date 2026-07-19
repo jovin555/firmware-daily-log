@@ -47,6 +47,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-18\|Day 18]] | TLS 1.3 Handshake on a Microcontroller: Constraints & Optimizations | Protocols | `#tls13` `#handshake` |
 
+| [[embedded-crypto/day-19\|Day 19]] | DTLS for Constrained UDP-Based IoT Communication | Protocols | `#dtls` `#udp` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

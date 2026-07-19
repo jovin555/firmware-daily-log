@@ -47,6 +47,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-18\|Day 18]] | Neural Network Accelerators in Modern MCUs: Ethos-U & MVE | CMSIS-NN | `#ethos-u` `#mve` |
 
+| [[edge-ai-tinyml/day-19\|Day 19]] | On-Device Learning: Federated & Incremental Learning Constraints | Applications | `#on-device-learning` `#federated` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -29,6 +29,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-09\|Day 09]] | Power Integrity: Decoupling Capacitor Placement & PDN Impedance | Power Integrity | `#power-integrity` `#decoupling` |
 
+| [[high-speed-design/day-10\|Day 10]] | Signal Integrity Simulation: S-Parameters & Eye Diagrams | Simulation | `#s-parameters` `#eye-diagram` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

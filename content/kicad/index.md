@@ -29,6 +29,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-09\|Day 09]] | Interactive Router: Push & Shove, Diff Pair Routing | PCB Editor | `#interactive-router` `#diff-pair` |
 
+| [[kicad/day-10\|Day 10]] | Design Rules in KiCad: Netclasses, Clearances & Constraints | PCB Editor | `#netclasses` `#design-rules` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -47,6 +47,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-18\|Day 18]] | OTA Over BLE: GATT-Based DFU & Throughput Constraints | Update Architectures | `#ble-dfu` |
 
+| [[secure-ota/day-19\|Day 19]] | OTA Over Cellular: NB-IoT/LTE-M Bandwidth & Cost Considerations | Update Architectures | `#cellular-ota` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

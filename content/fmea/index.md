@@ -29,6 +29,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-09\|Day 09]] | RPN vs Action Priority (AP): Old vs New AIAG-VDA Approach | Risk Assessment | `#rpn` `#action-priority` |
 
+| [[fmea/day-10\|Day 10]] | DFMEA Deep Dive: Design Interfaces & Boundary Diagrams | DFMEA | `#dfmea` `#boundary-diagram` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

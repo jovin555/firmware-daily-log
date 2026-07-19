@@ -47,6 +47,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-18\|Day 18]] | Nightly & Long-Running Soak Test Orchestration | Test Automation | `#nightly-build` `#soak-test` |
 
+| [[embedded-cicd/day-19\|Day 19]] | Managing Secrets in CI: Signing Keys & Provisioning Credentials | Build Automation | `#secrets-management` `#ci` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

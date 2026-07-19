@@ -81,6 +81,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-36\|Day 36]] | Swap, RAID Basics & NFS Client Mounts | Storage Management | `#swap` `#raid` `#nfs` |
 
+| [[lfcs/day-37\|Day 37]] | Network Interfaces: ip, ifconfig & Link Management | Networking | `#networking` `#interfaces` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

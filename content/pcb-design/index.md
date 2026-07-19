@@ -29,6 +29,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-09\|Day 09]] | Via Types: Through-Hole, Blind, Buried & Via-in-Pad | Layout | `#vias` `#via-in-pad` |
 
+| [[pcb-design/day-10\|Day 10]] | Panelization & Fabrication Panel Design | Manufacturing | `#panelization` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
