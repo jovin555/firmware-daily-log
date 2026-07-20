@@ -49,6 +49,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-19\|Day 19]] | Error Handling Patterns Across HAL Layers: Codes vs Exceptions | Driver Design | `#error-handling` |
 
+| [[hal-patterns/day-20\|Day 20]] | Testing HALs: Mocking Hardware with Fakes & Hardware-in-the-Loop | Portability | `#hal-testing` `#mocking` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -49,6 +49,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-19\|Day 19]] | Managing Secrets in CI: Signing Keys & Provisioning Credentials | Build Automation | `#secrets-management` `#ci` |
 
+| [[embedded-cicd/day-20\|Day 20]] | Cross-Team Pipelines: Coordinating Firmware, Cloud & Mobile Releases | Release | `#cross-team` `#coordination` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

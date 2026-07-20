@@ -49,6 +49,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-19\|Day 19]] | OTA Over Cellular: NB-IoT/LTE-M Bandwidth & Cost Considerations | Update Architectures | `#cellular-ota` |
 
+| [[secure-ota/day-20\|Day 20]] | Bricking Prevention: Failsafe Bootloaders & Golden Images | Rollback & Recovery | `#failsafe` `#golden-image` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

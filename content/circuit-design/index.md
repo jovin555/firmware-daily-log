@@ -31,6 +31,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-10\|Day 10]] | Digital-to-Analog Conversion: DAC Architectures & Applications | Mixed-Signal | `#dac` |
 
+| [[circuit-design/day-11\|Day 11]] | Sensor Signal Conditioning: Amplification & Noise Reduction | Analog | `#signal-conditioning` `#noise` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

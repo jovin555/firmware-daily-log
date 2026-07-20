@@ -83,6 +83,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-37\|Day 37]] | Network Interfaces: ip, ifconfig & Link Management | Networking | `#networking` `#interfaces` |
 
+| [[lfcs/day-38\|Day 38]] | DNS, SSH & Port Forwarding | Networking | `#dns` `#ssh` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

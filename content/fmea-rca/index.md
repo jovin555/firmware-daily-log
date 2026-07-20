@@ -31,6 +31,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-10\|Day 10]] | D5-D6: Permanent Corrective Actions & Validation | 8D | `#d5` `#d6` `#corrective-action` |
 
+| [[fmea-rca/day-11\|Day 11]] | D7: Preventing Recurrence — Updating FMEA & Control Plans | 8D | `#d7` `#prevention` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

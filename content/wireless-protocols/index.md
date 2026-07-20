@@ -49,6 +49,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-19\|Day 19]] | MQTT & MQTT-SN for Constrained Networks | Networking Stack | `#mqtt` `#mqtt-sn` |
 
+| [[wireless-protocols/day-20\|Day 20]] | 6LoWPAN & IPv6 Header Compression for Constrained Links | Networking Stack | `#6lowpan` `#ipv6` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

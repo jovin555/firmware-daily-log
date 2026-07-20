@@ -31,6 +31,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-10\|Day 10]] | Signal Integrity Simulation: S-Parameters & Eye Diagrams | Simulation | `#s-parameters` `#eye-diagram` |
 
+| [[high-speed-design/day-11\|Day 11]] | DDR Routing: Fly-by Topology & Length Matching Rules | High-Speed Memory | `#ddr` `#fly-by` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

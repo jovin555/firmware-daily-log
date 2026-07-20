@@ -49,6 +49,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-19\|Day 19]] | On-Device Learning: Federated & Incremental Learning Constraints | Applications | `#on-device-learning` `#federated` |
 
+| [[edge-ai-tinyml/day-20\|Day 20]] | Power Profiling ML Inference: Measuring Energy per Inference | Memory & Optimization | `#power-profiling` `#inference` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

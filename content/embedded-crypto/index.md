@@ -49,6 +49,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-19\|Day 19]] | DTLS for Constrained UDP-Based IoT Communication | Protocols | `#dtls` `#udp` |
 
+| [[embedded-crypto/day-20\|Day 20]] | Certificate Chains & X.509 for Device Identity | Protocols | `#x509` `#pki` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

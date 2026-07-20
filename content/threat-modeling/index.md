@@ -49,6 +49,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-19\|Day 19]] | Denial-of-Service Resilience: Input Validation & Rate Limiting | Secure Coding | `#dos-resilience` |
 
+| [[threat-modeling/day-20\|Day 20]] | Supply Chain Threats: Third-Party Libraries & SBOM | Standards | `#supply-chain` `#sbom` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

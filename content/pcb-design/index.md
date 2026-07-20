@@ -31,6 +31,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-10\|Day 10]] | Panelization & Fabrication Panel Design | Manufacturing | `#panelization` |
 
+| [[pcb-design/day-11\|Day 11]] | DFM/DFA: Design for Manufacturing & Assembly Checks | Manufacturing | `#dfm` `#dfa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

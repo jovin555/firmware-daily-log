@@ -31,6 +31,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-10\|Day 10]] | DFMEA Deep Dive: Design Interfaces & Boundary Diagrams | DFMEA | `#dfmea` `#boundary-diagram` |
 
+| [[fmea/day-11\|Day 11]] | DFMEA for Electronics: Component-Level Failure Modes | DFMEA | `#dfmea` `#electronics` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -31,6 +31,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-10\|Day 10]] | Interrupt Handling: Rust ISRs in a Zephyr Context | Interrupts | `#interrupts` `#isr` |
 
+| [[rust-zephyr-nrf54/day-11\|Day 11]] | Power Management: nRF54LM20 Low Power Modes with Zephyr PM | Power | `#power-management` `#zephyr-pm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
