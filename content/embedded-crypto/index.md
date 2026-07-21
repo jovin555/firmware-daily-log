@@ -51,6 +51,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-20\|Day 20]] | Certificate Chains & X.509 for Device Identity | Protocols | `#x509` `#pki` |
 
+| [[embedded-crypto/day-21\|Day 21]] | PSA Crypto API: Vendor-Neutral Crypto Abstraction | Hardware Crypto | `#psa-crypto` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

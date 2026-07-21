@@ -33,6 +33,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-11\|Day 11]] | Shielding & Isolation for RF/Digital Coexistence | Isolation | `#shielding` `#isolation` |
 
+| [[rf-design/day-12\|Day 12]] | BLE/Wi-Fi/Sub-GHz RF Layout Guidelines for SoC Modules | Applied | `#ble` `#wifi` `#sub-ghz` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -51,6 +51,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-20\|Day 20]] | Cross-Team Pipelines: Coordinating Firmware, Cloud & Mobile Releases | Release | `#cross-team` `#coordination` |
 
+| [[embedded-cicd/day-21\|Day 21]] | Chaos Engineering for Firmware Release Pipelines | Release | `#chaos-engineering` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

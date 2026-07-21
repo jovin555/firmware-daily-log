@@ -51,6 +51,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-20\|Day 20]] | Power Profiling ML Inference: Measuring Energy per Inference | Memory & Optimization | `#power-profiling` `#inference` |
 
+| [[edge-ai-tinyml/day-21\|Day 21]] | Data Collection & Labeling Pipelines for Embedded Sensor Data | Model Prep | `#data-collection` `#labeling` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

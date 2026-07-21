@@ -85,6 +85,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-38\|Day 38]] | DNS, SSH & Port Forwarding | Networking | `#dns` `#ssh` `#security` |
 
+| [[lfcs/day-39\|Day 39]] | Firewall: iptables, nftables, ufw & firewalld | Networking | `#firewall` `#iptables` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

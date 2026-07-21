@@ -51,6 +51,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-20\|Day 20]] | 6LoWPAN & IPv6 Header Compression for Constrained Links | Networking Stack | `#6lowpan` `#ipv6` |
 
+| [[wireless-protocols/day-21\|Day 21]] | Network Selection Strategy: Choosing a Protocol for Your Product | Foundations | `#protocol-selection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

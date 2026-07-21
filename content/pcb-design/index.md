@@ -33,6 +33,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-11\|Day 11]] | DFM/DFA: Design for Manufacturing & Assembly Checks | Manufacturing | `#dfm` `#dfa` |
 
+| [[pcb-design/day-12\|Day 12]] | Design Rule Checks (DRC): Common PCB Layout Errors | Verification | `#drc` `#layout-errors` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

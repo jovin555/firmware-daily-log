@@ -33,6 +33,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-11\|Day 11]] | Sensor Signal Conditioning: Amplification & Noise Reduction | Analog | `#signal-conditioning` `#noise` |
 
+| [[circuit-design/day-12\|Day 12]] | Logic Level Translation & Interfacing 3.3V/5V/1.8V Devices | Digital | `#level-shifting` `#logic` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

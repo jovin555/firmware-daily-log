@@ -51,6 +51,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-20\|Day 20]] | Bricking Prevention: Failsafe Bootloaders & Golden Images | Rollback & Recovery | `#failsafe` `#golden-image` |
 
+| [[secure-ota/day-21\|Day 21]] | Update Telemetry: Success/Failure Reporting Back to the Fleet | Fleet Management | `#telemetry` `#reporting` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

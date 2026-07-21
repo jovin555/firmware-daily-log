@@ -51,6 +51,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-20\|Day 20]] | Supply Chain Threats: Third-Party Libraries & SBOM | Standards | `#supply-chain` `#sbom` |
 
+| [[threat-modeling/day-21\|Day 21]] | IEC 62443: Industrial Cybersecurity Threat Modeling | Standards | `#iec62443` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -33,6 +33,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-11\|Day 11]] | DFMEA for Electronics: Component-Level Failure Modes | DFMEA | `#dfmea` `#electronics` |
 
+| [[fmea/day-12\|Day 12]] | PFMEA Deep Dive: Process Flow Diagrams & Process Steps | PFMEA | `#pfmea` `#process-flow` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

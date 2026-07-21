@@ -33,6 +33,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-11\|Day 11]] | DDR Routing: Fly-by Topology & Length Matching Rules | High-Speed Memory | `#ddr` `#fly-by` |
 
+| [[high-speed-design/day-12\|Day 12]] | High-Speed Serial Links: SerDes Basics (PCIe, SATA, Ethernet) | High-Speed | `#serdes` `#pcie` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

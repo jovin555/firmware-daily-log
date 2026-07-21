@@ -51,6 +51,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-20\|Day 20]] | Testing HALs: Mocking Hardware with Fakes & Hardware-in-the-Loop | Portability | `#hal-testing` `#mocking` |
 
+| [[hal-patterns/day-21\|Day 21]] | Interrupt Abstraction: ISR Registration Patterns Across Vendors | Layered Architecture | `#isr` `#interrupts` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

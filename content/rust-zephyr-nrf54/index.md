@@ -33,6 +33,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-11\|Day 11]] | Power Management: nRF54LM20 Low Power Modes with Zephyr PM | Power | `#power-management` `#zephyr-pm` |
 
+| [[rust-zephyr-nrf54/day-12\|Day 12]] | BLE on nRF54LM20: SoftDevice Controller & Rust Bindings | Wireless | `#ble` `#softdevice` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
