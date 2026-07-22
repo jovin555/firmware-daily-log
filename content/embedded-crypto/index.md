@@ -53,6 +53,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-21\|Day 21]] | PSA Crypto API: Vendor-Neutral Crypto Abstraction | Hardware Crypto | `#psa-crypto` |
 
+| [[embedded-crypto/day-22\|Day 22]] | Side-Channel Resistance: Constant-Time Crypto Implementations | Advanced | `#side-channel` `#constant-time` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

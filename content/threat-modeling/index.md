@@ -53,6 +53,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-21\|Day 21]] | IEC 62443: Industrial Cybersecurity Threat Modeling | Standards | `#iec62443` |
 
+| [[threat-modeling/day-22\|Day 22]] | Vulnerability Disclosure & CVE Response for Firmware Vendors | Standards | `#cve` `#disclosure` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

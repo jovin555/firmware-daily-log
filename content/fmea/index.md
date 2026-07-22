@@ -35,6 +35,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-12\|Day 12]] | PFMEA Deep Dive: Process Flow Diagrams & Process Steps | PFMEA | `#pfmea` `#process-flow` |
 
+| [[fmea/day-13\|Day 13]] | PFMEA for PCB Assembly: SMT, Reflow & Inspection Failure Modes | PFMEA | `#pfmea` `#smt` `#reflow` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

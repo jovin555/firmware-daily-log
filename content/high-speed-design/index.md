@@ -35,6 +35,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-12\|Day 12]] | High-Speed Serial Links: SerDes Basics (PCIe, SATA, Ethernet) | High-Speed | `#serdes` `#pcie` |
 
+| [[high-speed-design/day-13\|Day 13]] | Clock Distribution for High-Speed Systems: Skew & Jitter | Clocking | `#clock-distribution` `#jitter` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -53,6 +53,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-21\|Day 21]] | Interrupt Abstraction: ISR Registration Patterns Across Vendors | Layered Architecture | `#isr` `#interrupts` |
 
+| [[hal-patterns/day-22\|Day 22]] | Migrating a Product Line to a New MCU: A HAL Case Study | Portability | `#migration` `#case-study` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

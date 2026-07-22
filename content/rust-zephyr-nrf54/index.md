@@ -35,6 +35,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-12\|Day 12]] | BLE on nRF54LM20: SoftDevice Controller & Rust Bindings | Wireless | `#ble` `#softdevice` |
 
+| [[rust-zephyr-nrf54/day-13\|Day 13]] | Zephyr Bluetooth Host Stack from Rust: GATT Services | Wireless | `#bluetooth` `#gatt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

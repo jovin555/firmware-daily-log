@@ -35,6 +35,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-12\|Day 12]] | Design Rule Checks (DRC): Common PCB Layout Errors | Verification | `#drc` `#layout-errors` |
 
+| [[pcb-design/day-13\|Day 13]] | PCB Fabrication Notes: Gerbers, Drill Files & Stackup Specs | Manufacturing | `#gerbers` `#drill-files` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

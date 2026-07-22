@@ -35,6 +35,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-12\|Day 12]] | BLE/Wi-Fi/Sub-GHz RF Layout Guidelines for SoC Modules | Applied | `#ble` `#wifi` `#sub-ghz` |
 
+| [[rf-design/day-13\|Day 13]] | RF Simulation Tools: EM Simulators & Field Solvers | Simulation | `#em-simulation` `#field-solver` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

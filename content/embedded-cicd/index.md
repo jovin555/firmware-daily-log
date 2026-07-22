@@ -53,6 +53,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-21\|Day 21]] | Chaos Engineering for Firmware Release Pipelines | Release | `#chaos-engineering` |
 
+| [[embedded-cicd/day-22\|Day 22]] | Compliance Artifacts: Auto-Generating Traceability from CI Runs | Release | `#traceability` `#compliance` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

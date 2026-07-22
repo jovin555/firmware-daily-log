@@ -87,6 +87,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-39\|Day 39]] | Firewall: iptables, nftables, ufw & firewalld | Networking | `#firewall` `#iptables` |
 
+| [[lfcs/day-40\|Day 40]] | Network Troubleshooting: ss, netstat, tcpdump | Networking | `#troubleshooting` `#networking` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

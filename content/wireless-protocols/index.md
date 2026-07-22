@@ -53,6 +53,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-21\|Day 21]] | Network Selection Strategy: Choosing a Protocol for Your Product | Foundations | `#protocol-selection` |
 
+| [[wireless-protocols/day-22\|Day 22]] | Zephyr Networking Stack: Connection Manager & Sockets API | Networking Stack | `#zephyr` `#connection-manager` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

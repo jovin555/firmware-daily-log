@@ -35,6 +35,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-12\|Day 12]] | KiCad Libraries: Managing Global vs Project Libraries | Libraries | `#libraries` |
 
+| [[kicad/day-13\|Day 13]] | Plugin & Scripting: KiCad Python API | Automation | `#python-api` `#scripting` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

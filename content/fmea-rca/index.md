@@ -35,6 +35,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-12\|Day 12]] | D8: Closure & Team Recognition | 8D | `#d8` `#closure` |
 
+| [[fmea-rca/day-13\|Day 13]] | Field Failure Analysis: Returned Unit Triage for Firmware/Hardware | Field Analysis | `#field-failure` `#triage` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

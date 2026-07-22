@@ -53,6 +53,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-21\|Day 21]] | Data Collection & Labeling Pipelines for Embedded Sensor Data | Model Prep | `#data-collection` `#labeling` |
 
+| [[edge-ai-tinyml/day-22\|Day 22]] | Model Versioning & OTA-Updating Deployed ML Models | Applications | `#model-versioning` `#ota` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
