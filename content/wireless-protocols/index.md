@@ -55,6 +55,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-22\|Day 22]] | Zephyr Networking Stack: Connection Manager & Sockets API | Networking Stack | `#zephyr` `#connection-manager` |
 
+| [[wireless-protocols/day-23\|Day 23]] | Interoperability Testing & Certification: Bluetooth SIG, Thread Group | Thread & Matter | `#certification` `#interop` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

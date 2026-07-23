@@ -37,6 +37,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-13\|Day 13]] | Plugin & Scripting: KiCad Python API | Automation | `#python-api` `#scripting` |
 
+| [[kicad/day-14\|Day 14]] | Custom Design Rule Checks with KiCad's DRC Engine | Verification | `#drc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

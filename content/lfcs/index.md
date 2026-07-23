@@ -89,6 +89,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-40\|Day 40]] | Network Troubleshooting: ss, netstat, tcpdump | Networking | `#troubleshooting` `#networking` |
 
+| [[lfcs/day-41\|Day 41]] | HTTP Servers: Apache & nginx | Service Configuration | `#apache` `#nginx` `#http` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

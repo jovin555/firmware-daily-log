@@ -37,6 +37,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-13\|Day 13]] | PFMEA for PCB Assembly: SMT, Reflow & Inspection Failure Modes | PFMEA | `#pfmea` `#smt` `#reflow` |
 
+| [[fmea/day-14\|Day 14]] | Linking DFMEA to PFMEA: Special Characteristics | Linkage | `#special-characteristics` `#linkage` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

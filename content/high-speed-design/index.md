@@ -37,6 +37,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-13\|Day 13]] | Clock Distribution for High-Speed Systems: Skew & Jitter | Clocking | `#clock-distribution` `#jitter` |
 
+| [[high-speed-design/day-14\|Day 14]] | Return Path Discontinuities: Plane Splits & Stitching Vias | Signal Integrity | `#return-path` `#stitching-vias` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

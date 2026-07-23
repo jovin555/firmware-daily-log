@@ -55,6 +55,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-22\|Day 22]] | Compliance: EU Cyber Resilience Act Update Requirements | Foundations | `#cra` `#compliance` |
 
+| [[secure-ota/day-23\|Day 23]] | Testing OTA Pipelines: Fault Injection & Power-Loss Simulation | Fleet Management | `#fault-injection` `#testing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

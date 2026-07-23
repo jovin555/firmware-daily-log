@@ -37,6 +37,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-13\|Day 13]] | PCB Fabrication Notes: Gerbers, Drill Files & Stackup Specs | Manufacturing | `#gerbers` `#drill-files` |
 
+| [[pcb-design/day-14\|Day 14]] | Flex & Rigid-Flex PCB Design Basics | Advanced | `#flex-pcb` `#rigid-flex` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -37,6 +37,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-13\|Day 13]] | Field Failure Analysis: Returned Unit Triage for Firmware/Hardware | Field Analysis | `#field-failure` `#triage` |
 
+| [[fmea-rca/day-14\|Day 14]] | Statistical Process Control (SPC) for Catching Issues Early | Prevention | `#spc` `#prevention` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

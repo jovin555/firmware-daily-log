@@ -37,6 +37,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-13\|Day 13]] | RF Simulation Tools: EM Simulators & Field Solvers | Simulation | `#em-simulation` `#field-solver` |
 
+| [[rf-design/day-14\|Day 14]] | RF Measurement: Spectrum Analyzers & VNA Calibration | Measurement | `#spectrum-analyzer` `#vna` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

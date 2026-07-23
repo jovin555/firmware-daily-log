@@ -55,6 +55,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-22\|Day 22]] | Side-Channel Resistance: Constant-Time Crypto Implementations | Advanced | `#side-channel` `#constant-time` |
 
+| [[embedded-crypto/day-23\|Day 23]] | Post-Quantum Cryptography: What Embedded Engineers Need to Know Now | Advanced | `#post-quantum` `#pqc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

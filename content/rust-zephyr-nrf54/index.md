@@ -37,6 +37,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-13\|Day 13]] | Zephyr Bluetooth Host Stack from Rust: GATT Services | Wireless | `#bluetooth` `#gatt` |
 
+| [[rust-zephyr-nrf54/day-14\|Day 14]] | Matter/Thread Support on nRF54LM20 with Zephyr | Wireless | `#matter` `#thread` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

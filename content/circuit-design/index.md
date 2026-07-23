@@ -37,6 +37,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-13\|Day 13]] | Digital Logic Design: Combinational vs Sequential Circuits | Digital | `#combinational` `#sequential` |
 
+| [[circuit-design/day-14\|Day 14]] | Clock Distribution & Crystal Oscillator Circuit Design | Digital | `#crystal` `#oscillator` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -55,6 +55,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-22\|Day 22]] | Compliance Artifacts: Auto-Generating Traceability from CI Runs | Release | `#traceability` `#compliance` |
 
+| [[embedded-cicd/day-23\|Day 23]] | Case Study: Building a Zero-Touch Pipeline from Commit to Field | Release | `#case-study` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

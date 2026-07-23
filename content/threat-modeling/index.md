@@ -55,6 +55,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-22\|Day 22]] | Vulnerability Disclosure & CVE Response for Firmware Vendors | Standards | `#cve` `#disclosure` |
 
+| [[threat-modeling/day-23\|Day 23]] | Penetration Testing Embedded Devices: Tools & Methodology | Attack Surface | `#pentest` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
