@@ -57,6 +57,8 @@ Build automation, release engineering, artifact signing and deployment pipelines
 
 | [[embedded-cicd/day-23\|Day 23]] | Case Study: Building a Zero-Touch Pipeline from Commit to Field | Release | `#case-study` |
 
+| [[embedded-cicd/day-24\|Day 24]] | Full Review & Project: Release Engineering for a Multi-Board Product Line | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

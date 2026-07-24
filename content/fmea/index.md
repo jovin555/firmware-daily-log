@@ -39,6 +39,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-14\|Day 14]] | Linking DFMEA to PFMEA: Special Characteristics | Linkage | `#special-characteristics` `#linkage` |
 
+| [[fmea/day-15\|Day 15]] | FMEA-MSR: Monitoring & System Response for Safety | FMEA-MSR | `#fmea-msr` `#monitoring` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

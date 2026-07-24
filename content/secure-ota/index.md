@@ -57,6 +57,8 @@ Dual-slot partitioning, anti-rollback counters, delta updates and fleet rollout 
 
 | [[secure-ota/day-23\|Day 23]] | Testing OTA Pipelines: Fault Injection & Power-Loss Simulation | Fleet Management | `#fault-injection` `#testing` |
 
+| [[secure-ota/day-24\|Day 24]] | Full Review & Project: Building an A/B OTA Pipeline for an STM32 | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

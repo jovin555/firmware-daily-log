@@ -57,6 +57,8 @@ Hardware abstraction layers, C/C++ driver design patterns, and multi-vendor port
 
 | [[hal-patterns/day-23\|Day 23]] | Anti-Patterns: God Objects, Leaky Abstractions & Over-Engineering | Driver Design | `#anti-patterns` |
 
+| [[hal-patterns/day-24\|Day 24]] | Full Review & Project: Vendor-Agnostic SPI Sensor Driver | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

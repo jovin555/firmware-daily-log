@@ -39,6 +39,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-14\|Day 14]] | Return Path Discontinuities: Plane Splits & Stitching Vias | Signal Integrity | `#return-path` `#stitching-vias` |
 
+| [[high-speed-design/day-15\|Day 15]] | Simultaneous Switching Noise (SSN) & Ground Bounce | Signal Integrity | `#ssn` `#ground-bounce` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -39,6 +39,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-14\|Day 14]] | Flex & Rigid-Flex PCB Design Basics | Advanced | `#flex-pcb` `#rigid-flex` |
 
+| [[pcb-design/day-15\|Day 15]] | Connectors & Mechanical Considerations in PCB Layout | Mechanical | `#connectors` `#mechanical` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

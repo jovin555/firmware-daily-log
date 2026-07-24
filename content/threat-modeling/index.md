@@ -57,6 +57,8 @@ STRIDE, attack surface analysis, OWASP Embedded Top 10 and MISRA/CERT secure cod
 
 | [[threat-modeling/day-23\|Day 23]] | Penetration Testing Embedded Devices: Tools & Methodology | Attack Surface | `#pentest` |
 
+| [[threat-modeling/day-24\|Day 24]] | Full Review & Project: Threat Model for a Connected Door Lock | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

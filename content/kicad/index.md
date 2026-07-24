@@ -39,6 +39,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-14\|Day 14]] | Custom Design Rule Checks with KiCad's DRC Engine | Verification | `#drc` |
 
+| [[kicad/day-15\|Day 15]] | 3D Viewer & Mechanical Fit Checks | Verification | `#3d-viewer` `#mechanical-fit` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

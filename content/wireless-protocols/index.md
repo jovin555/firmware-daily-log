@@ -57,6 +57,8 @@ BLE, Thread, Matter, LoRaWAN and cellular IoT stacks for constrained, battery-po
 
 | [[wireless-protocols/day-23\|Day 23]] | Interoperability Testing & Certification: Bluetooth SIG, Thread Group | Thread & Matter | `#certification` `#interop` |
 
+| [[wireless-protocols/day-24\|Day 24]] | Full Review & Project: Matter-Compatible Sensor Over Thread | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

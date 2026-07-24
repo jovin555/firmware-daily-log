@@ -57,6 +57,8 @@ Symmetric/asymmetric crypto, hashing, digital signatures, key lifecycle and hard
 
 | [[embedded-crypto/day-23\|Day 23]] | Post-Quantum Cryptography: What Embedded Engineers Need to Know Now | Advanced | `#post-quantum` `#pqc` |
 
+| [[embedded-crypto/day-24\|Day 24]] | Full Review & Project: Provisioning Per-Device Keys with ATECC608 | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

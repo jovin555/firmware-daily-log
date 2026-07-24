@@ -91,6 +91,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-41\|Day 41]] | HTTP Servers: Apache & nginx | Service Configuration | `#apache` `#nginx` `#http` |
 
+| [[lfcs/day-42\|Day 42]] | NFS Server, Samba & FTP | Service Configuration | `#nfs` `#samba` `#ftp` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

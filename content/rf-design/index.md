@@ -39,6 +39,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-14\|Day 14]] | RF Measurement: Spectrum Analyzers & VNA Calibration | Measurement | `#spectrum-analyzer` `#vna` |
 
+| [[rf-design/day-15\|Day 15]] | Regulatory Certification: FCC/CE/ETSI RF Compliance Basics | Compliance | `#fcc` `#ce` `#etsi` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

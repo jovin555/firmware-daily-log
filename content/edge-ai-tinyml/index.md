@@ -57,6 +57,8 @@ TensorFlow Lite Micro, CMSIS-NN, quantization and on-device inference for microc
 
 | [[edge-ai-tinyml/day-23\|Day 23]] | Testing & Validating TinyML Models on Real Hardware | Applications | `#validation` `#hardware-testing` |
 
+| [[edge-ai-tinyml/day-24\|Day 24]] | Full Review & Project: Keyword Spotting on an Arduino Nano BLE Sense | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

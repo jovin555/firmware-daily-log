@@ -39,6 +39,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-14\|Day 14]] | Statistical Process Control (SPC) for Catching Issues Early | Prevention | `#spc` `#prevention` |
 
+| [[fmea-rca/day-15\|Day 15]] | 8D Reports: Writing for Customers & Auditors | Documentation | `#8d-report` `#documentation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

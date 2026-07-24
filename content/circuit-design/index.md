@@ -39,6 +39,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-14\|Day 14]] | Clock Distribution & Crystal Oscillator Circuit Design | Digital | `#crystal` `#oscillator` |
 
+| [[circuit-design/day-15\|Day 15]] | ESD Protection: TVS Diodes & Layout Considerations | Protection | `#esd` `#tvs-diode` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
