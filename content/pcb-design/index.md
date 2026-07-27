@@ -41,6 +41,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-15\|Day 15]] | Connectors & Mechanical Considerations in PCB Layout | Mechanical | `#connectors` `#mechanical` |
 
+| [[pcb-design/day-16\|Day 16]] | Silkscreen, Assembly Drawings & Fab Notes | Documentation | `#silkscreen` `#assembly-drawing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

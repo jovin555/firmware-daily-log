@@ -41,6 +41,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-15\|Day 15]] | ESD Protection: TVS Diodes & Layout Considerations | Protection | `#esd` `#tvs-diode` |
 
+| [[circuit-design/day-16\|Day 16]] | Reverse Polarity & Overcurrent Protection Circuits | Protection | `#reverse-polarity` `#overcurrent` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

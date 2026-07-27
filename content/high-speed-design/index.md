@@ -41,6 +41,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-15\|Day 15]] | Simultaneous Switching Noise (SSN) & Ground Bounce | Signal Integrity | `#ssn` `#ground-bounce` |
 
+| [[high-speed-design/day-16\|Day 16]] | Test & Measurement: TDR, VNA & Eye Diagram Capture | Verification | `#tdr` `#vna` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

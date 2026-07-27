@@ -41,6 +41,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-15\|Day 15]] | 8D Reports: Writing for Customers & Auditors | Documentation | `#8d-report` `#documentation` |
 
+| [[fmea-rca/day-16\|Day 16]] | Common RCA Anti-Patterns: Stopping at the First Plausible Cause | Best Practices | `#anti-patterns` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

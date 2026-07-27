@@ -41,6 +41,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-15\|Day 15]] | Regulatory Certification: FCC/CE/ETSI RF Compliance Basics | Compliance | `#fcc` `#ce` `#etsi` |
 
+| [[rf-design/day-16\|Day 16]] | Harmonics & Spurious Emissions: Causes & Mitigation | Compliance | `#harmonics` `#spurious-emissions` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

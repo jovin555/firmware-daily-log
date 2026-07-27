@@ -41,6 +41,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-15\|Day 15]] | 3D Viewer & Mechanical Fit Checks | Verification | `#3d-viewer` `#mechanical-fit` |
 
+| [[kicad/day-16\|Day 16]] | Gerber & Drill File Generation for Fabrication | Manufacturing | `#gerbers` `#drill-files` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

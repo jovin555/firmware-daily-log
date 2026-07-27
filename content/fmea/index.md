@@ -41,6 +41,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-15\|Day 15]] | FMEA-MSR: Monitoring & System Response for Safety | FMEA-MSR | `#fmea-msr` `#monitoring` |
 
+| [[fmea/day-16\|Day 16]] | Control Plans: From FMEA to Production Controls | Control Plans | `#control-plan` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

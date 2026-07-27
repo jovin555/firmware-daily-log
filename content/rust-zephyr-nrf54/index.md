@@ -41,6 +41,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-15\|Day 15]] | Memory Safety at the Boundary: Rust/C FFI in Zephyr Modules | FFI | `#ffi` `#memory-safety` |
 
+| [[rust-zephyr-nrf54/day-16\|Day 16]] | Logging & Debugging: defmt/RTT with Zephyr on nRF54LM20 | Debugging | `#defmt` `#rtt` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

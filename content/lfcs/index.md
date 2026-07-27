@@ -93,6 +93,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-42\|Day 42]] | NFS Server, Samba & FTP | Service Configuration | `#nfs` `#samba` `#ftp` |
 
+| [[lfcs/day-43\|Day 43]] | Postfix, DHCP & BIND9 Basics | Service Configuration | `#postfix` `#dhcp` `#dns` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
