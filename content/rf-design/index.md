@@ -43,6 +43,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-16\|Day 16]] | Harmonics & Spurious Emissions: Causes & Mitigation | Compliance | `#harmonics` `#spurious-emissions` |
 
+| [[rf-design/day-17\|Day 17]] | Debugging RF Issues: Detuning, Desense & Coexistence Problems | Debugging | `#detuning` `#desense` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

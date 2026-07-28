@@ -43,6 +43,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-16\|Day 16]] | Reverse Polarity & Overcurrent Protection Circuits | Protection | `#reverse-polarity` `#overcurrent` |
 
+| [[circuit-design/day-17\|Day 17]] | Motor Driver Circuits: H-Bridges & Gate Drivers | Actuators | `#h-bridge` `#gate-driver` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

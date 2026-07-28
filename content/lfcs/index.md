@@ -95,6 +95,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-43\|Day 43]] | Postfix, DHCP & BIND9 Basics | Service Configuration | `#postfix` `#dhcp` `#dns` |
 
+| [[lfcs/day-44\|Day 44]] | System Security: SELinux & AppArmor | Service Configuration | `#selinux` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

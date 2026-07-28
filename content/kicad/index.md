@@ -43,6 +43,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-16\|Day 16]] | Gerber & Drill File Generation for Fabrication | Manufacturing | `#gerbers` `#drill-files` |
 
+| [[kicad/day-17\|Day 17]] | BOM Generation & Integration with JLCPCB/PCBWay | Manufacturing | `#bom` `#jlcpcb` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

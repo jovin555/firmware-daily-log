@@ -43,6 +43,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-16\|Day 16]] | Test & Measurement: TDR, VNA & Eye Diagram Capture | Verification | `#tdr` `#vna` |
 
+| [[high-speed-design/day-17\|Day 17]] | EMI Considerations in High-Speed Layout | Compliance | `#emi` `#high-speed` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -43,6 +43,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-16\|Day 16]] | Silkscreen, Assembly Drawings & Fab Notes | Documentation | `#silkscreen` `#assembly-drawing` |
 
+| [[pcb-design/day-17\|Day 17]] | Pre-Compliance EMI/EMC Considerations at the Layout Stage | Compliance | `#emi` `#emc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

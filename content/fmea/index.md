@@ -43,6 +43,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-16\|Day 16]] | Control Plans: From FMEA to Production Controls | Control Plans | `#control-plan` |
 
+| [[fmea/day-17\|Day 17]] | FMEA Software Tools: APIS IQ-FMEA & Excel Templates | Tools | `#tools` `#apis-iq-fmea` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

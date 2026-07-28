@@ -43,6 +43,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-16\|Day 16]] | Logging & Debugging: defmt/RTT with Zephyr on nRF54LM20 | Debugging | `#defmt` `#rtt` |
 
+| [[rust-zephyr-nrf54/day-17\|Day 17]] | Unit Testing Rust Zephyr Code: Twister & Host Tests | Testing | `#twister` `#testing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
