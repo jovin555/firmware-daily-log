@@ -45,6 +45,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-17\|Day 17]] | BOM Generation & Integration with JLCPCB/PCBWay | Manufacturing | `#bom` `#jlcpcb` |
 
+| [[kicad/day-18\|Day 18]] | Version Control for KiCad Projects: Git Workflow & KiCad-diff | Workflow | `#git` `#version-control` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

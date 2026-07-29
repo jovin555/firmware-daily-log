@@ -45,6 +45,8 @@ Controlled impedance, differential pairs, DDR routing, and signal integrity simu
 
 | [[high-speed-design/day-17\|Day 17]] | EMI Considerations in High-Speed Layout | Compliance | `#emi` `#high-speed` |
 
+| [[high-speed-design/day-18\|Day 18]] | Full Review & Project: Route a DDR4 Fly-by Topology with Length Matching | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

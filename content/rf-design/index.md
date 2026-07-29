@@ -45,6 +45,8 @@ Impedance matching, antenna design, and RF layout for BLE/Wi-Fi/Sub-GHz embedded
 
 | [[rf-design/day-17\|Day 17]] | Debugging RF Issues: Detuning, Desense & Coexistence Problems | Debugging | `#detuning` `#desense` |
 
+| [[rf-design/day-18\|Day 18]] | Full Review & Project: Design & Match an Antenna Front-End for a BLE Module | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

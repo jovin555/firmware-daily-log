@@ -45,6 +45,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-17\|Day 17]] | Unit Testing Rust Zephyr Code: Twister & Host Tests | Testing | `#twister` `#testing` |
 
+| [[rust-zephyr-nrf54/day-18\|Day 18]] | OTA/DFU on nRF54LM20: MCUboot Integration with Rust Apps | OTA | `#mcuboot` `#dfu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

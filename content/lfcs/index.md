@@ -97,6 +97,8 @@ Linux Foundation Certified System Administrator exam prep — 6 domains, hands-o
 
 | [[lfcs/day-44\|Day 44]] | System Security: SELinux & AppArmor | Service Configuration | `#selinux` `#security` |
 
+| [[lfcs/day-45\|Day 45]] | Full Mock Exam — All Domains | All Domains | `#mock-exam` `#review` `#exam-prep` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

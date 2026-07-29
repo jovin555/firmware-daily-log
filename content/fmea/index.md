@@ -45,6 +45,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-17\|Day 17]] | FMEA Software Tools: APIS IQ-FMEA & Excel Templates | Tools | `#tools` `#apis-iq-fmea` |
 
+| [[fmea/day-18\|Day 18]] | Integrating FMEA with ISO 26262 / IEC 61508 Hazard Analysis | Integration | `#iso26262` `#iec61508` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -45,6 +45,8 @@ Stackups, grounding, thermal design, and DFM/DFA for taking a schematic to a fab
 
 | [[pcb-design/day-17\|Day 17]] | Pre-Compliance EMI/EMC Considerations at the Layout Stage | Compliance | `#emi` `#emc` |
 
+| [[pcb-design/day-18\|Day 18]] | Full Review & Project: Layout a 4-Layer Sensor Board from Schematic to Fab | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

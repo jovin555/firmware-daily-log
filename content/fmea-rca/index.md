@@ -45,6 +45,8 @@ title: Root Cause Analysis & 8D Problem Solving Daily Log
 
 | [[fmea-rca/day-17\|Day 17]] | Integrating RCA into CAPA (Corrective & Preventive Action) Systems | Integration | `#capa` `#integration` |
 
+| [[fmea-rca/day-18\|Day 18]] | Full Review & Project: 8D Report for a Field-Returned Embedded Device | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
