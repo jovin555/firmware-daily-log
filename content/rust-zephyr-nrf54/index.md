@@ -47,6 +47,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-18\|Day 18]] | OTA/DFU on nRF54LM20: MCUboot Integration with Rust Apps | OTA | `#mcuboot` `#dfu` |
 
+| [[rust-zephyr-nrf54/day-19\|Day 19]] | Security Features: TrustZone-M & Rust on nRF54LM20 | Security | `#trustzone-m` `#security` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

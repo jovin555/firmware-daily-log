@@ -47,6 +47,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-18\|Day 18]] | Version Control for KiCad Projects: Git Workflow & KiCad-diff | Workflow | `#git` `#version-control` |
 
+| [[kicad/day-19\|Day 19]] | Simulation with ngspice Integration in KiCad | Simulation | `#ngspice` `#simulation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

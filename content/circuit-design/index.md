@@ -47,6 +47,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-18\|Day 18]] | MOSFET Selection & Switching Circuit Design | Power | `#mosfet` `#switching` |
 
+| [[circuit-design/day-19\|Day 19]] | Circuit Simulation: SPICE Basics & Model Selection | Simulation | `#spice` `#simulation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

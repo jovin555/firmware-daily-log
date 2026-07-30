@@ -47,6 +47,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-18\|Day 18]] | Integrating FMEA with ISO 26262 / IEC 61508 Hazard Analysis | Integration | `#iso26262` `#iec61508` |
 
+| [[fmea/day-19\|Day 19]] | Common FMEA Mistakes & Avoiding Generic Failure Modes | Best Practices | `#best-practices` `#pitfalls` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
