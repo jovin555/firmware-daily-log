@@ -49,6 +49,8 @@ Schematic capture, PCB layout, scripting, and manufacturing handoff in KiCad.
 
 | [[kicad/day-19\|Day 19]] | Simulation with ngspice Integration in KiCad | Simulation | `#ngspice` `#simulation` |
 
+| [[kicad/day-20\|Day 20]] | Full Review & Project: Design a Complete Board in KiCad from Schematic to Gerbers | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

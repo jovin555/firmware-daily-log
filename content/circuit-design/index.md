@@ -49,6 +49,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-19\|Day 19]] | Circuit Simulation: SPICE Basics & Model Selection | Simulation | `#spice` `#simulation` |
 
+| [[circuit-design/day-20\|Day 20]] | Thermal Design for Circuits: Derating & Heat Dissipation | Thermal | `#derating` `#thermal` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

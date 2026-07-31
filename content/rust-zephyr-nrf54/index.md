@@ -49,6 +49,8 @@ Peripheral drivers, kernel objects, BLE, and OTA in Rust on Zephyr for the Nordi
 
 | [[rust-zephyr-nrf54/day-19\|Day 19]] | Security Features: TrustZone-M & Rust on nRF54LM20 | Security | `#trustzone-m` `#security` |
 
+| [[rust-zephyr-nrf54/day-20\|Day 20]] | Full Review & Project: BLE Sensor Node in Rust on Zephyr/nRF54LM20 | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

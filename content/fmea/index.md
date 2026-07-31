@@ -49,6 +49,8 @@ AIAG-VDA methodology, severity/occurrence/detection ratings, and DFMEA/PFMEA lin
 
 | [[fmea/day-19\|Day 19]] | Common FMEA Mistakes & Avoiding Generic Failure Modes | Best Practices | `#best-practices` `#pitfalls` |
 
+| [[fmea/day-20\|Day 20]] | Full Review & Project: DFMEA/PFMEA for an Embedded Sensor Module | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
