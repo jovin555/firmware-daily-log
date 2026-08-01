@@ -51,6 +51,8 @@ Op-amps, power supplies, signal conditioning, and protection circuits for embedd
 
 | [[circuit-design/day-20\|Day 20]] | Thermal Design for Circuits: Derating & Heat Dissipation | Thermal | `#derating` `#thermal` |
 
+| [[circuit-design/day-21\|Day 21]] | Debugging Analog Circuits: Oscilloscope & Multimeter Techniques | Debugging | `#oscilloscope` `#multimeter` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
