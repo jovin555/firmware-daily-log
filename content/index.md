@@ -73,6 +73,14 @@ One post per topic, every day at 6:00 AM UTC — generated and reviewed by AI, w
 |-------|--------|-------|
 | [[edge-ai-tinyml/index\|Edge AI & TinyML Inference]] | TensorFlow Lite Micro, CMSIS-NN, quantization, on-device inference | 30 days |
 
+### Medical IoT, BLE & Tooling
+
+| Track | Topics | Posts |
+|-------|--------|-------|
+| [[medical-iot-dfmea/index\|DFMEA & Medical IoT Design]] | ISO 14971, IEC 60601, DFMEA for connected medical devices | 25 days |
+| [[ble-medical/index\|BLE for Medical IoT]] | GAP, GATT, Just Works, security levels, device-to-app | 29 days |
+| [[github-mastery/index\|GitHub Mastery]] | Issues, templates, Projects, Actions, security features | 29 days |
+
 ---
 
 > *"The best firmware engineers are not the ones who can write the most code — they are the ones who understand what the hardware is doing while the code runs."*
