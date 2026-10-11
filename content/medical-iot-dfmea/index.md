@@ -11,6 +11,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
 
+| [[medical-iot-dfmea/day-01\|Day 01]] | Designing Medical IoT Devices: FDA, EU MDR, ISO 13485 & IEC 60601 Landscape | Foundations | `#regulatory` `#medical-device` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

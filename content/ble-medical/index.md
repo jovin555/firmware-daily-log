@@ -11,6 +11,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 | Day | Topic | Module | Tags |
 |-----|-------|--------|------|
 
+| [[ble-medical/day-01\|Day 01]] | BLE Architecture: Controller, Host, HCI & the Protocol Stack | Foundations | `#ble` `#architecture` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
