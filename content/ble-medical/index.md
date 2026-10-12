@@ -13,6 +13,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-01\|Day 01]] | BLE Architecture: Controller, Host, HCI & the Protocol Stack | Foundations | `#ble` `#architecture` |
 
+| [[ble-medical/day-02\|Day 02]] | BLE Physical Layer: 2.4 GHz Channels & the 1M, 2M and Coded PHYs | Physical Layer | `#phy` `#rf` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

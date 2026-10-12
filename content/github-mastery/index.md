@@ -13,6 +13,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-01\|Day 01]] | GitHub Overview: Repos, Orgs, Permissions & the Feature Map | Foundations | `#github` `#overview` |
 
+| [[github-mastery/day-02\|Day 02]] | Git Essentials for GitHub: Branches, Remotes, Rebase vs Merge | Foundations | `#git` `#branching` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
