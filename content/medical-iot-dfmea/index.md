@@ -15,6 +15,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-02\|Day 02]] | Intended Use & Device Classification for Connected Medical Devices | Foundations | `#classification` `#intended-use` |
 
+| [[medical-iot-dfmea/day-03\|Day 03]] | Design Controls (21 CFR 820 / QMSR): Inputs, Outputs, Verification & Validation | Design Controls | `#design-controls` `#qmsr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

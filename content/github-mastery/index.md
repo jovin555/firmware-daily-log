@@ -15,6 +15,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-02\|Day 02]] | Git Essentials for GitHub: Branches, Remotes, Rebase vs Merge | Foundations | `#git` `#branching` |
 
+| [[github-mastery/day-03\|Day 03]] | Repository Setup: README, LICENSE, .gitignore & CODEOWNERS | Repository Management | `#repository` `#codeowners` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

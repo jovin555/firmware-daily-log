@@ -15,6 +15,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-02\|Day 02]] | BLE Physical Layer: 2.4 GHz Channels & the 1M, 2M and Coded PHYs | Physical Layer | `#phy` `#rf` |
 
+| [[ble-medical/day-03\|Day 03]] | Link Layer: States, Advertising Channels & Connection Events | Link Layer | `#link-layer` `#connection-events` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
