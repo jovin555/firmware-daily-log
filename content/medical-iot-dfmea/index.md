@@ -17,6 +17,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-03\|Day 03]] | Design Controls (21 CFR 820 / QMSR): Inputs, Outputs, Verification & Validation | Design Controls | `#design-controls` `#qmsr` |
 
+| [[medical-iot-dfmea/day-04\|Day 04]] | ISO 14971 Risk Management & Where DFMEA Fits | Risk Management | `#iso14971` `#risk-management` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

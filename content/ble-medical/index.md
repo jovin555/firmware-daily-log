@@ -17,6 +17,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-03\|Day 03]] | Link Layer: States, Advertising Channels & Connection Events | Link Layer | `#link-layer` `#connection-events` |
 
+| [[ble-medical/day-04\|Day 04]] | GAP Roles: Peripheral, Central, Broadcaster & Observer | GAP | `#gap` `#roles` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
