@@ -19,6 +19,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-04\|Day 04]] | GAP Roles: Peripheral, Central, Broadcaster & Observer | GAP | `#gap` `#roles` |
 
+| [[ble-medical/day-05\|Day 05]] | Advertising Deep Dive: AD Types, Scan Response & Extended Advertising | GAP | `#advertising` `#scan-response` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

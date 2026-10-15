@@ -19,6 +19,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-04\|Day 04]] | ISO 14971 Risk Management & Where DFMEA Fits | Risk Management | `#iso14971` `#risk-management` |
 
+| [[medical-iot-dfmea/day-05\|Day 05]] | Medical IoT System Architecture: Sensor, MCU, Radio, Power, App & Cloud | Architecture | `#architecture` `#system-design` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

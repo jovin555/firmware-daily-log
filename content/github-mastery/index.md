@@ -19,6 +19,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-04\|Day 04]] | Branch Protection & Rulesets: Guarding main | Repository Management | `#branch-protection` `#rulesets` |
 
+| [[github-mastery/day-05\|Day 05]] | Issues Deep Dive: Labels, Milestones, Sub-Issues & Issue Types | Issues | `#issues` `#labels` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
