@@ -21,6 +21,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-05\|Day 05]] | Advertising Deep Dive: AD Types, Scan Response & Extended Advertising | GAP | `#advertising` `#scan-response` |
 
+| [[ble-medical/day-06\|Day 06]] | Connection Parameters: Interval, Peripheral Latency & Supervision Timeout | GAP | `#connection-parameters` `#power` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

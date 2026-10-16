@@ -21,6 +21,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-05\|Day 05]] | Issues Deep Dive: Labels, Milestones, Sub-Issues & Issue Types | Issues | `#issues` `#labels` |
 
+| [[github-mastery/day-06\|Day 06]] | Issue Templates & YAML Issue Forms with config.yml | Issues | `#issue-templates` `#issue-forms` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
