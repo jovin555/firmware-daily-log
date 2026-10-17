@@ -23,6 +23,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-06\|Day 06]] | Connection Parameters: Interval, Peripheral Latency & Supervision Timeout | GAP | `#connection-parameters` `#power` |
 
+| [[ble-medical/day-07\|Day 07]] | ATT Protocol: Attributes, Handles, UUIDs & MTU Exchange | GATT | `#att` `#mtu` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

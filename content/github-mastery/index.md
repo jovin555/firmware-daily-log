@@ -23,6 +23,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-06\|Day 06]] | Issue Templates & YAML Issue Forms with config.yml | Issues | `#issue-templates` `#issue-forms` |
 
+| [[github-mastery/day-07\|Day 07]] | Pull Requests: Reviews, Drafts, Suggested Changes & PR Templates | Pull Requests | `#pull-requests` `#code-review` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

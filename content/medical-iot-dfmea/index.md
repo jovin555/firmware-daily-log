@@ -23,6 +23,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-06\|Day 06]] | DFMEA Planning: Scope, Team & Boundary Diagram for a Wearable Medical Device | DFMEA Setup | `#dfmea` `#boundary-diagram` |
 
+| [[medical-iot-dfmea/day-07\|Day 07]] | Function Analysis & Requirements Traceability for Medical DFMEA | DFMEA Setup | `#function-analysis` `#traceability` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
