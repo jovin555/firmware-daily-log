@@ -25,6 +25,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-07\|Day 07]] | Function Analysis & Requirements Traceability for Medical DFMEA | DFMEA Setup | `#function-analysis` `#traceability` |
 
+| [[medical-iot-dfmea/day-08\|Day 08]] | Hazards, Hazardous Situations & Harm: Mapping DFMEA Effects to ISO 14971 | Risk Linkage | `#hazard-analysis` `#harm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

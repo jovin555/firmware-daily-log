@@ -25,6 +25,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-07\|Day 07]] | Pull Requests: Reviews, Drafts, Suggested Changes & PR Templates | Pull Requests | `#pull-requests` `#code-review` |
 
+| [[github-mastery/day-08\|Day 08]] | Merge Strategies, Merge Queue & Required Status Checks | Pull Requests | `#merge-queue` `#status-checks` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

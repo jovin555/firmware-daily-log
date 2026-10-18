@@ -25,6 +25,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-07\|Day 07]] | ATT Protocol: Attributes, Handles, UUIDs & MTU Exchange | GATT | `#att` `#mtu` |
 
+| [[ble-medical/day-08\|Day 08]] | GATT Services & Characteristics: Properties, Descriptors & the CCCD | GATT | `#gatt` `#cccd` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
