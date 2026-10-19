@@ -27,6 +27,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-08\|Day 08]] | Hazards, Hazardous Situations & Harm: Mapping DFMEA Effects to ISO 14971 | Risk Linkage | `#hazard-analysis` `#harm` |
 
+| [[medical-iot-dfmea/day-09\|Day 09]] | Severity Scales for Medical Devices: Patient Harm-Based Ratings | Rating | `#severity` `#patient-harm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

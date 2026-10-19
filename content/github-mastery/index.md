@@ -27,6 +27,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-08\|Day 08]] | Merge Strategies, Merge Queue & Required Status Checks | Pull Requests | `#merge-queue` `#status-checks` |
 
+| [[github-mastery/day-09\|Day 09]] | GitHub Projects: Tables, Boards, Roadmaps, Custom Fields & Iterations | Projects | `#projects` `#roadmap` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

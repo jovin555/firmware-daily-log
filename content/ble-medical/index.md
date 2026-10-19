@@ -27,6 +27,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-08\|Day 08]] | GATT Services & Characteristics: Properties, Descriptors & the CCCD | GATT | `#gatt` `#cccd` |
 
+| [[ble-medical/day-09\|Day 09]] | Notifications vs Indications & Throughput Tuning (DLE, 2M PHY) | GATT | `#notifications` `#throughput` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
