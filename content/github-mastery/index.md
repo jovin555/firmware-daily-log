@@ -29,6 +29,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-09\|Day 09]] | GitHub Projects: Tables, Boards, Roadmaps, Custom Fields & Iterations | Projects | `#projects` `#roadmap` |
 
+| [[github-mastery/day-10\|Day 10]] | Automating GitHub Projects: Built-in Workflows & the GraphQL API | Projects | `#projects` `#automation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

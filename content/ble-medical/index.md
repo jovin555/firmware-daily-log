@@ -29,6 +29,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-09\|Day 09]] | Notifications vs Indications & Throughput Tuning (DLE, 2M PHY) | GATT | `#notifications` `#throughput` |
 
+| [[ble-medical/day-10\|Day 10]] | Designing a Custom GATT Profile for a Medical Sensor | GATT | `#gatt-profile` `#medical` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
