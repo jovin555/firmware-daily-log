@@ -31,6 +31,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-10\|Day 10]] | Designing a Custom GATT Profile for a Medical Sensor | GATT | `#gatt-profile` `#medical` |
 
+| [[ble-medical/day-11\|Day 11]] | Standard Medical Profiles: Heart Rate, Health Thermometer, Pulse Oximeter & GHS | Profiles | `#profiles` `#health` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
