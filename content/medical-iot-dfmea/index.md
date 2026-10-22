@@ -33,6 +33,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-11\|Day 11]] | DFMEA: Sensor & Analog Front-End Failure Modes (ECG, SpO2, Temperature) | Hardware DFMEA | `#sensors` `#afe` |
 
+| [[medical-iot-dfmea/day-12\|Day 12]] | DFMEA: Power & Battery Failure Modes (Li-ion Safety, IEC 62133, Brownout) | Hardware DFMEA | `#battery` `#iec62133` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

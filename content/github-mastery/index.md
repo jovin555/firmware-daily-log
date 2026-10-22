@@ -33,6 +33,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-11\|Day 11]] | GitHub Actions Fundamentals: Workflows, Jobs, Steps & Runners | Actions | `#actions` `#ci` |
 
+| [[github-mastery/day-12\|Day 12]] | Actions Triggers: push, pull_request, schedule, workflow_dispatch & Filters | Actions | `#actions` `#triggers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

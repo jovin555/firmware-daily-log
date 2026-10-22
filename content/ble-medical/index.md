@@ -33,6 +33,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-11\|Day 11]] | Standard Medical Profiles: Heart Rate, Health Thermometer, Pulse Oximeter & GHS | Profiles | `#profiles` `#health` |
 
+| [[ble-medical/day-12\|Day 12]] | BLE Security Overview: Pairing, Bonding & the Security Manager Protocol | Security | `#smp` `#pairing` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
