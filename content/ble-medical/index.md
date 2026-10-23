@@ -35,6 +35,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-12\|Day 12]] | BLE Security Overview: Pairing, Bonding & the Security Manager Protocol | Security | `#smp` `#pairing` |
 
+| [[ble-medical/day-13\|Day 13]] | LE Legacy Pairing vs LE Secure Connections (ECDH P-256) | Security | `#le-secure-connections` `#ecdh` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

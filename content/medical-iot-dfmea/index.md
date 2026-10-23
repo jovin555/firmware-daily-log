@@ -35,6 +35,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-12\|Day 12]] | DFMEA: Power & Battery Failure Modes (Li-ion Safety, IEC 62133, Brownout) | Hardware DFMEA | `#battery` `#iec62133` |
 
+| [[medical-iot-dfmea/day-13\|Day 13]] | DFMEA: Wireless Link Failure Modes (BLE Dropouts, Data Loss, Latency) | Connectivity DFMEA | `#ble` `#wireless` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

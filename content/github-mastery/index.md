@@ -35,6 +35,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-12\|Day 12]] | Actions Triggers: push, pull_request, schedule, workflow_dispatch & Filters | Actions | `#actions` `#triggers` |
 
+| [[github-mastery/day-13\|Day 13]] | Actions Matrix Builds, Caching & Artifacts | Actions | `#matrix` `#caching` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
