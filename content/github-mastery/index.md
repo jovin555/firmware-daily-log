@@ -37,6 +37,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-13\|Day 13]] | Actions Matrix Builds, Caching & Artifacts | Actions | `#matrix` `#caching` |
 
+| [[github-mastery/day-14\|Day 14]] | Secrets, Variables, Environments & Deployment Protection Rules | Actions | `#secrets` `#environments` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

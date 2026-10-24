@@ -37,6 +37,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-13\|Day 13]] | LE Legacy Pairing vs LE Secure Connections (ECDH P-256) | Security | `#le-secure-connections` `#ecdh` |
 
+| [[ble-medical/day-14\|Day 14]] | Pairing Methods: Just Works, Passkey Entry, Numeric Comparison & OOB | Security | `#just-works` `#passkey` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
