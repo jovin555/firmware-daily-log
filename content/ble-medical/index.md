@@ -39,6 +39,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-14\|Day 14]] | Pairing Methods: Just Works, Passkey Entry, Numeric Comparison & OOB | Security | `#just-works` `#passkey` |
 
+| [[ble-medical/day-15\|Day 15]] | Security Modes & Levels: Mode 1 Levels 1-4, Mode 2 & Attribute Permissions | Security | `#security-levels` `#permissions` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

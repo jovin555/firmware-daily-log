@@ -39,6 +39,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-14\|Day 14]] | Secrets, Variables, Environments & Deployment Protection Rules | Actions | `#secrets` `#environments` |
 
+| [[github-mastery/day-15\|Day 15]] | Reusable Workflows & Composite Actions | Actions | `#reusable-workflows` `#composite-actions` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
