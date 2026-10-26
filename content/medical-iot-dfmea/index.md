@@ -41,6 +41,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-15\|Day 15]] | DFMEA: Enclosure, Ingress Protection & Biocompatibility (ISO 10993) | Mechanical DFMEA | `#enclosure` `#iso10993` |
 
+| [[medical-iot-dfmea/day-16\|Day 16]] | DFMEA: Electrical Safety & EMC (IEC 60601-1, IEC 60601-1-2) | Safety | `#iec60601` `#emc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -41,6 +41,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-15\|Day 15]] | Reusable Workflows & Composite Actions | Actions | `#reusable-workflows` `#composite-actions` |
 
+| [[github-mastery/day-16\|Day 16]] | Writing Custom Actions: JavaScript & Docker Actions | Actions | `#custom-actions` `#docker` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

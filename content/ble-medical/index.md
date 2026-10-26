@@ -41,6 +41,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-15\|Day 15]] | Security Modes & Levels: Mode 1 Levels 1-4, Mode 2 & Attribute Permissions | Security | `#security-levels` `#permissions` |
 
+| [[ble-medical/day-16\|Day 16]] | Privacy: Resolvable Private Addresses, IRK & the Filter Accept List | Security | `#privacy` `#rpa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
