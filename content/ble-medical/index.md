@@ -43,6 +43,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-16\|Day 16]] | Privacy: Resolvable Private Addresses, IRK & the Filter Accept List | Security | `#privacy` `#rpa` |
 
+| [[ble-medical/day-17\|Day 17]] | BLE Attacks: Sniffing, MITM, Replay, KNOB & BLESA | Security | `#attacks` `#mitm` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

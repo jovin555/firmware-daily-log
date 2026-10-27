@@ -43,6 +43,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-16\|Day 16]] | Writing Custom Actions: JavaScript & Docker Actions | Actions | `#custom-actions` `#docker` |
 
+| [[github-mastery/day-17\|Day 17]] | Self-Hosted Runners for Embedded & Hardware-in-the-Loop Builds | Actions | `#self-hosted-runners` `#hil` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
