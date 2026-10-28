@@ -45,6 +45,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-17\|Day 17]] | BLE Attacks: Sniffing, MITM, Replay, KNOB & BLESA | Security | `#attacks` `#mitm` |
 
+| [[ble-medical/day-18\|Day 18]] | Application-Layer Security for Medical Data on Top of BLE | Security | `#app-layer-security` `#encryption` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

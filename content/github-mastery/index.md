@@ -45,6 +45,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-17\|Day 17]] | Self-Hosted Runners for Embedded & Hardware-in-the-Loop Builds | Actions | `#self-hosted-runners` `#hil` |
 
+| [[github-mastery/day-18\|Day 18]] | GITHUB_TOKEN Permissions & OIDC: Least Privilege in CI | Security | `#github-token` `#oidc` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

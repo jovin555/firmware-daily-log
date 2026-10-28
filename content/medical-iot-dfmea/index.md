@@ -45,6 +45,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-17\|Day 17]] | Cybersecurity as a Failure Mode: FDA Premarket Guidance & Security Risk | Cybersecurity | `#cybersecurity` `#fda` |
 
+| [[medical-iot-dfmea/day-18\|Day 18]] | Use-Related Failure Modes: IEC 62366 Usability Engineering & uFMEA | Usability | `#iec62366` `#usability` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
