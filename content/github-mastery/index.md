@@ -47,6 +47,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-18\|Day 18]] | GITHUB_TOKEN Permissions & OIDC: Least Privilege in CI | Security | `#github-token` `#oidc` |
 
+| [[github-mastery/day-19\|Day 19]] | Releases, Tags, Changelogs & GitHub Packages (GHCR) | Releases | `#releases` `#ghcr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

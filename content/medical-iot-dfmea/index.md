@@ -47,6 +47,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-18\|Day 18]] | Use-Related Failure Modes: IEC 62366 Usability Engineering & uFMEA | Usability | `#iec62366` `#usability` |
 
+| [[medical-iot-dfmea/day-19\|Day 19]] | Risk Control Hierarchy: Inherent Safety, Protective Measures & Information for Safety | Risk Control | `#risk-control` `#mitigation` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

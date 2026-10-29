@@ -47,6 +47,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-18\|Day 18]] | Application-Layer Security for Medical Data on Top of BLE | Security | `#app-layer-security` `#encryption` |
 
+| [[ble-medical/day-19\|Day 19]] | Implementing a BLE Peripheral in Zephyr / nRF Connect SDK | Firmware | `#zephyr` `#peripheral` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
