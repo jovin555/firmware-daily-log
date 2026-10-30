@@ -49,6 +49,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-19\|Day 19]] | Releases, Tags, Changelogs & GitHub Packages (GHCR) | Releases | `#releases` `#ghcr` |
 
+| [[github-mastery/day-20\|Day 20]] | GitHub Pages: Deploying Static Sites from Actions | Pages | `#github-pages` `#deployment` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
