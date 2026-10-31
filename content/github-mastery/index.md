@@ -51,6 +51,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-20\|Day 20]] | GitHub Pages: Deploying Static Sites from Actions | Pages | `#github-pages` `#deployment` |
 
+| [[github-mastery/day-21\|Day 21]] | Dependabot: Version Updates, Security Alerts & Auto-Merge | Security | `#dependabot` `#dependencies` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

@@ -51,6 +51,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-20\|Day 20]] | Implementing Pairing, Bonding & Secured Characteristics in Zephyr | Firmware | `#zephyr` `#bonding` |
 
+| [[ble-medical/day-21\|Day 21]] | Power Optimization for BLE Medical Wearables | Firmware | `#low-power` `#wearables` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
