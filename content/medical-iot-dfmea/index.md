@@ -53,6 +53,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-21\|Day 21]] | Reliability Testing: HALT, Accelerated Life & Environmental Testing | Verification | `#halt` `#reliability` |
 
+| [[medical-iot-dfmea/day-22\|Day 22]] | Design for Manufacturability & Linking DFMEA to PFMEA for Medical Devices | Manufacturing | `#dfm` `#pfmea` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

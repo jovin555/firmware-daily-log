@@ -53,6 +53,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-21\|Day 21]] | Power Optimization for BLE Medical Wearables | Firmware | `#low-power` `#wearables` |
 
+| [[ble-medical/day-22\|Day 22]] | BLE Firmware Updates: MCUmgr/SMP DFU over BLE | Firmware | `#dfu` `#mcumgr` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

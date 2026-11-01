@@ -53,6 +53,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-21\|Day 21]] | Dependabot: Version Updates, Security Alerts & Auto-Merge | Security | `#dependabot` `#dependencies` |
 
+| [[github-mastery/day-22\|Day 22]] | Code Scanning with CodeQL, Secret Scanning & Push Protection | Security | `#codeql` `#secret-scanning` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
