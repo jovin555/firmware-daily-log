@@ -55,6 +55,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-22\|Day 22]] | Design for Manufacturability & Linking DFMEA to PFMEA for Medical Devices | Manufacturing | `#dfm` `#pfmea` |
 
+| [[medical-iot-dfmea/day-23\|Day 23]] | Risk Management File, Design History File & Traceability Matrix | Documentation | `#dhf` `#traceability-matrix` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

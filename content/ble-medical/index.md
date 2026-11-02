@@ -55,6 +55,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-22\|Day 22]] | BLE Firmware Updates: MCUmgr/SMP DFU over BLE | Firmware | `#dfu` `#mcumgr` |
 
+| [[ble-medical/day-23\|Day 23]] | Android BLE: Scanning, Connecting, GATT Operations & Bonding | Mobile | `#android` `#gatt-client` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

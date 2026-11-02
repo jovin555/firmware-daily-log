@@ -55,6 +55,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-22\|Day 22]] | Code Scanning with CodeQL, Secret Scanning & Push Protection | Security | `#codeql` `#secret-scanning` |
 
+| [[github-mastery/day-23\|Day 23]] | Security Advisories, SECURITY.md, SBOMs & Artifact Attestations | Security | `#supply-chain` `#sbom` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
