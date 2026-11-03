@@ -57,6 +57,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-23\|Day 23]] | Android BLE: Scanning, Connecting, GATT Operations & Bonding | Mobile | `#android` `#gatt-client` |
 
+| [[ble-medical/day-24\|Day 24]] | iOS Core Bluetooth: Central Manager, Background Modes & State Restoration | Mobile | `#ios` `#core-bluetooth` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

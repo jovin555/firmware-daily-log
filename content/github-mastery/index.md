@@ -57,6 +57,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-23\|Day 23]] | Security Advisories, SECURITY.md, SBOMs & Artifact Attestations | Security | `#supply-chain` `#sbom` |
 
+| [[github-mastery/day-24\|Day 24]] | Discussions, Wikis & Community Health Files | Collaboration | `#discussions` `#community` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

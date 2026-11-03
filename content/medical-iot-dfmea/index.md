@@ -57,6 +57,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-23\|Day 23]] | Risk Management File, Design History File & Traceability Matrix | Documentation | `#dhf` `#traceability-matrix` |
 
+| [[medical-iot-dfmea/day-24\|Day 24]] | Post-Market Surveillance: Complaints, CAPA & Keeping the DFMEA Alive | Post-Market | `#post-market` `#capa` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
