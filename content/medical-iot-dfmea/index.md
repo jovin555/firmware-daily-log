@@ -59,6 +59,8 @@ Designing connected medical devices under ISO 14971, IEC 60601 and IEC 62304 —
 
 | [[medical-iot-dfmea/day-24\|Day 24]] | Post-Market Surveillance: Complaints, CAPA & Keeping the DFMEA Alive | Post-Market | `#post-market` `#capa` |
 
+| [[medical-iot-dfmea/day-25\|Day 25]] | Full Review & Project: DFMEA for a BLE Wearable Patient Monitor | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

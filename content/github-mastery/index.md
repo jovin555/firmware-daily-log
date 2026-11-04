@@ -59,6 +59,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-24\|Day 24]] | Discussions, Wikis & Community Health Files | Collaboration | `#discussions` `#community` |
 
+| [[github-mastery/day-25\|Day 25]] | The gh CLI & REST/GraphQL API Automation | Automation | `#gh-cli` `#api` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

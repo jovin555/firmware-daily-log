@@ -59,6 +59,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-24\|Day 24]] | iOS Core Bluetooth: Central Manager, Background Modes & State Restoration | Mobile | `#ios` `#core-bluetooth` |
 
+| [[ble-medical/day-25\|Day 25]] | Cross-Platform BLE Apps: Flutter & React Native Libraries and Pitfalls | Mobile | `#flutter` `#react-native` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
