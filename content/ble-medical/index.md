@@ -61,6 +61,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-25\|Day 25]] | Cross-Platform BLE Apps: Flutter & React Native Libraries and Pitfalls | Mobile | `#flutter` `#react-native` |
 
+| [[ble-medical/day-26\|Day 26]] | Reliable Data Transfer: Buffering, Reconnection & Data Integrity | Reliability | `#reliability` `#reconnection` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

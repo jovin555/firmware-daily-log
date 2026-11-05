@@ -61,6 +61,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-25\|Day 25]] | The gh CLI & REST/GraphQL API Automation | Automation | `#gh-cli` `#api` |
 
+| [[github-mastery/day-26\|Day 26]] | Codespaces & Dev Containers for Reproducible Toolchains | Dev Environments | `#codespaces` `#devcontainers` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
