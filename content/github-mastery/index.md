@@ -63,6 +63,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-26\|Day 26]] | Codespaces & Dev Containers for Reproducible Toolchains | Dev Environments | `#codespaces` `#devcontainers` |
 
+| [[github-mastery/day-27\|Day 27]] | GitHub Copilot: Chat, Code Review & Coding Agent | AI Tooling | `#copilot` `#ai` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

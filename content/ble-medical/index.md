@@ -63,6 +63,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-26\|Day 26]] | Reliable Data Transfer: Buffering, Reconnection & Data Integrity | Reliability | `#reliability` `#reconnection` |
 
+| [[ble-medical/day-27\|Day 27]] | Testing & Debugging BLE: nRF Sniffer, Wireshark & nRF Connect | Testing | `#sniffer` `#wireshark` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
