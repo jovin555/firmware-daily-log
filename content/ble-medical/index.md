@@ -65,6 +65,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-27\|Day 27]] | Testing & Debugging BLE: nRF Sniffer, Wireshark & nRF Connect | Testing | `#sniffer` `#wireshark` |
 
+| [[ble-medical/day-28\|Day 28]] | Compliance: Bluetooth SIG Qualification, FCC & FDA Wireless Coexistence (ANSI C63.27) | Compliance | `#qualification` `#coexistence` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

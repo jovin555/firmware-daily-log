@@ -65,6 +65,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-27\|Day 27]] | GitHub Copilot: Chat, Code Review & Coding Agent | AI Tooling | `#copilot` `#ai` |
 
+| [[github-mastery/day-28\|Day 28]] | Organization Admin: Teams, Org Rulesets, Audit Log & Insights | Administration | `#organizations` `#audit-log` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
