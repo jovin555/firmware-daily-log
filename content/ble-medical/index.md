@@ -67,6 +67,8 @@ GAP, GATT, pairing methods, security levels and privacy — implemented end to e
 
 | [[ble-medical/day-28\|Day 28]] | Compliance: Bluetooth SIG Qualification, FCC & FDA Wireless Coexistence (ANSI C63.27) | Compliance | `#qualification` `#coexistence` |
 
+| [[ble-medical/day-29\|Day 29]] | Full Review & Project: Secure BLE Pulse Oximeter Peripheral to Mobile App | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*

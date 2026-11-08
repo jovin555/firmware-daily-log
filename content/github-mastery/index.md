@@ -67,6 +67,8 @@ Issues, templates, Projects, Actions, security features and everything else GitH
 
 | [[github-mastery/day-28\|Day 28]] | Organization Admin: Teams, Org Rulesets, Audit Log & Insights | Administration | `#organizations` `#audit-log` |
 
+| [[github-mastery/day-29\|Day 29]] | Full Review & Project: Set Up a Medical Firmware Repo with Templates, CI, Projects & Releases | Review | `#review` `#project` |
+
 ---
 
 > *New post every day at 6:00 AM UTC.*
